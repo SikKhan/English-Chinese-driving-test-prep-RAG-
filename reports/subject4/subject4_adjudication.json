@@ -671,7 +671,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_86": {
     "id": "trllm_subj4_86",
@@ -683,7 +683,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_89": {
     "id": "trllm_subj4_89",
@@ -695,7 +695,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_97": {
     "id": "trllm_subj4_97",
@@ -707,7 +707,7 @@
         "replacement": "When the tire pressures of all wheels of a car are inconsistent, what consequences are likely to occur?"
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_101": {
     "id": "trllm_subj4_101",
@@ -719,7 +719,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_103": {
     "id": "trllm_subj4_103",
@@ -731,7 +731,7 @@
         "replacement": "Turn on the clearance lights and rear position lights"
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_106": {
     "id": "trllm_subj4_106",
@@ -761,7 +761,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_108": {
     "id": "trllm_subj4_108",
@@ -779,7 +779,7 @@
         "replacement": "A、Park in designated locations; B、Prohibit parking on sidewalks; C、When temporarily parking on the road, do not obstruct the passage of other motor vehicles and pedestrians; D、May park in non-motor vehicle lanes"
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_109": {
     "id": "trllm_subj4_109",
@@ -791,7 +791,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_110": {
     "id": "trllm_subj4_110",
@@ -803,7 +803,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_111": {
     "id": "trllm_subj4_111",
@@ -815,7 +815,7 @@
         "replacement": "Carefully observe the situation to the left rear"
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_113": {
     "id": "trllm_subj4_113",
@@ -827,7 +827,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_114": {
     "id": "trllm_subj4_114",
@@ -839,7 +839,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_116": {
     "id": "trllm_subj4_116",
@@ -863,7 +863,7 @@
         "replacement": "D：Construction section"
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_117": {
     "id": "trllm_subj4_117",
@@ -893,7 +893,7 @@
         "replacement": "D：Within parking spaces marked on the road"
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_118": {
     "id": "trllm_subj4_118",
@@ -917,7 +917,7 @@
         "replacement": "D：Lock the doors"
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_121": {
     "id": "trllm_subj4_121",
@@ -929,7 +929,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_122": {
     "id": "trllm_subj4_122",
@@ -941,7 +941,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_123": {
     "id": "trllm_subj4_123",
@@ -953,7 +953,7 @@
         "replacement": "Must not park within 50 meters of an intersection"
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_125": {
     "id": "trllm_subj4_125",
@@ -965,7 +965,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_131": {
     "id": "trllm_subj4_131",
@@ -977,7 +977,7 @@
         "replacement": ""
       }
     ],
-    "review_model": "nvidia/nemotron-3.5-lightning:free"
+    "review_model": "historical-model-name-removed"
   },
   "trllm_subj4_142": {
     "id": "trllm_subj4_142",

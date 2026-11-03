@@ -5,8 +5,8 @@
 Double-click `Start-RAG.cmd` or run `scripts/ask_rag.py`. The script prompts for either an
 API service (OpenRouter, OpenAI, or another Chat Completions-compatible service)
 or a running local server. API mode asks for its key with hidden entry and the
-model ID. OpenRouter defaults to `nvidia/nemotron-3.5-super-vl:free`, matching the
-translation model. Other providers require their own keys; an OpenRouter key is
+model ID. No API answering model is preselected. Providers require their own
+keys; an OpenRouter key is
 not an OpenAI key. Local mode asks for a server URL and lists its models when
 `GET /v1/models` is supported; otherwise enter the exact model ID manually.
 Examples: LM Studio `http://localhost:1234/v1`, Ollama `http://localhost:11434/v1`.
@@ -21,8 +21,7 @@ are considered, with a 28,000-character evidence budget for APIs and a smaller
 answering-model token counts. Configure a sufficient context window on your server
 (8K or more is a starting point), or lower `--evidence-chars` if it rejects a long
 request. The embedding model and index remain unchanged when switching answerers.
-No alternate model is substituted. API prices depend on the chosen model; Nemotron
-free was listed at zero prompt/completion price when checked on 2026-11-03.
+No alternate model is substituted. API prices depend on the chosen model.
 
 ```powershell
 .\.venv\Scripts\python.exe scripts/ask_rag.py "What is the penalty for drunk driving?"
@@ -137,3 +136,8 @@ search/reranking if needed, and connecting retrieved passages to an answering mo
 
 Sources: [model card](https://huggingface.co/BAAI/bge-small-en-v1.5),
 [Sentence Transformers usage](https://sbert.net/docs/sentence_transformer/usage/usage.html).
+
+Translation scripts require an explicit `OPENROUTER_MODEL` environment variable.
+The review script accepts `--model` or `OPENROUTER_MODEL`. No model is preselected
+for these scripts. Historical model names removed from stored metadata are marked
+`historical-model-name-removed`; translations and review findings are retained.

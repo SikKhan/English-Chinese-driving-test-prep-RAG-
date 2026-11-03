@@ -1,4 +1,6 @@
-import json, pathlib, urllib.request, urllib.error, time, re, sys
+import os, json, pathlib, urllib.request, urllib.error, time, re, sys
+model = os.environ.get('OPENROUTER_MODEL', '').strip()
+if not model: raise SystemExit('Set OPENROUTER_MODEL to the model ID to use')
 base=pathlib.Path(__file__).resolve().parent.parent
 src=json.loads((base/'data/subject4/trllm_course4_cleaned.json').read_text(encoding='utf-8'))
 out=base/'data/subject4/subject4_translations.json'
@@ -10,7 +12,7 @@ for start in range(0,len(src),20):
  if not batch: continue
  payload=[{'id':x['id'],'question':x['question_zh'],'options':x['options_zh']} for x in batch]
  prompt='Translate these Chinese Subject 4 driving-test questions and each answer option into clear, idiomatic English. Preserve exact meaning, negations, numbers, names, option labels, and whether each statement is true or false. Do not correct unsafe statements or change answer choices. Translate 正确/错误 as True/False. Do not add explanations or infer details from unseen images. Return only a JSON array, one object per input, with fields id, question_en, options_en (a string preserving each option label on its own line). No markdown.\n'+json.dumps(payload,ensure_ascii=False)
- body=json.dumps({'model':'nvidia/nemotron-3.5-super-vl:free','messages':[{'role':'user','content':prompt}],'reasoning':{'enabled':False},'temperature':0.2,'max_tokens':6000},ensure_ascii=False).encode()
+ body=json.dumps({'model':model,'messages':[{'role':'user','content':prompt}],'reasoning':{'enabled':False},'temperature':0.2,'max_tokens':6000},ensure_ascii=False).encode()
  for attempt in range(4):
   try:
    req=urllib.request.Request('https://openrouter.ai/api/v1/chat/completions',data=body,headers={'Authorization':'Bearer '+key,'Content-Type':'application/json'})

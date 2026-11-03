@@ -16,13 +16,25 @@ class AnswerTests(unittest.TestCase):
         return SimpleNamespace(**values)
 
     def test_interactive_api_setup_has_no_desktop_dependency(self):
-        with patch.dict(os.environ, {}, clear=True), patch('builtins.input', side_effect=['1', '1', '']), \
+        with patch.dict(os.environ, {}, clear=True), patch('builtins.input', side_effect=['1', '1', 'chosen-model']), \
              patch.object(ask_rag, 'hidden_key', return_value='test-secret'), patch.object(ask_rag, 'read_key') as read:
             connection = ask_rag.configure(self.args())
         read.assert_not_called()
         self.assertEqual(connection.provider, 'openrouter')
-        self.assertEqual(connection.model, ask_rag.MODEL)
+        self.assertEqual(connection.model, 'chosen-model')
         self.assertNotIn('test-secret', repr(connection))
+
+    def test_openrouter_requires_a_model_instead_of_using_a_default(self):
+        with patch.dict(os.environ, {'OPENROUTER_API_KEY': 'test-secret'}, clear=True), \
+             patch('builtins.input', return_value=''):
+            with self.assertRaisesRegex(ValueError, 'Enter the model ID'):
+                ask_rag.configure(self.args(provider='openrouter'))
+
+    def test_explicit_openrouter_model_needs_no_prompts(self):
+        with patch.dict(os.environ, {'OPENROUTER_API_KEY': 'test-secret'}, clear=True), \
+             patch('builtins.input', side_effect=AssertionError('Unexpected prompt')):
+            connection = ask_rag.configure(self.args(provider='openrouter', model='chosen-model'))
+        self.assertEqual(connection.model, 'chosen-model')
 
     def test_local_setup_discovers_model_without_key(self):
         with patch('builtins.input', side_effect=['2', 'http://localhost:11434', '1']), \

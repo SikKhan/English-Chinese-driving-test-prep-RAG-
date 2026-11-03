@@ -17,7 +17,7 @@
     },
     {
       "path": "data/subject4/subject4_translations.json",
-      "sha256": "ba781b3c3fb417f3ecf2176bc59d3822685b66681fa5342f737ec78e4ec62b2f"
+      "sha256": "ab0229bc3fd4a75889da2294b141665a9d1250682cecaa16010abaca96039b9c"
     },
     {
       "path": "data/traffic-laws/sources.json",
@@ -25,7 +25,7 @@
     },
     {
       "path": "data/traffic-laws/translations/accident-procedure-2017.json",
-      "sha256": "8529890f31ab3a56a2c3e130e258740e785c85d34841a0a9cbd1d96486032790"
+      "sha256": "1f8eb7c94792a5a167951bceaea97fa06d08cc489a745d3c1d3364486b6489e3"
     },
     {
       "path": "data/traffic-laws/accident-procedure-2017.txt",
@@ -33,7 +33,7 @@
     },
     {
       "path": "data/traffic-laws/translations/compulsory-insurance-regulation-2019.json",
-      "sha256": "14f3e6c5e1b576f6b70a8291c9c2546f6f1e11bbd87b08803e0d99fe76e82a7d"
+      "sha256": "6f89f5863e9fc861bfbd6c68293b289e631d4dbc5fc64de7cb31b2c161f730d8"
     },
     {
       "path": "data/traffic-laws/compulsory-insurance-regulation-2019.txt",
@@ -41,7 +41,7 @@
     },
     {
       "path": "data/traffic-laws/translations/driving-licence-rules-2025.json",
-      "sha256": "a753c60430169ee92be78f3f738d30629fa0591691aec505e990c53eb0a47edf"
+      "sha256": "a0032bbe1862896dba505a7e6d77c8a409cbee9bdc1c2831f8114d8c83ac3db7"
     },
     {
       "path": "data/traffic-laws/driving-licence-rules-2025.txt",
@@ -49,7 +49,7 @@
     },
     {
       "path": "data/traffic-laws/translations/implementation-regulation-2017.json",
-      "sha256": "37f8df8b0f6271aa16de1bcdc555b57e1aad6e8f2aee1cdb8f9c77fe1cf31e1d"
+      "sha256": "6a76751d59cdd48d95dd524c2da456740cf141bd862b2079ed3f44e8117bf1c2"
     },
     {
       "path": "data/traffic-laws/implementation-regulation-2017.txt",
@@ -57,7 +57,7 @@
     },
     {
       "path": "data/traffic-laws/translations/points-regulation-2022.json",
-      "sha256": "3faba4ca302418d6b3cc37f819f1e5c8ade198cb45fcfc73c19db049bd41d988"
+      "sha256": "550123359309d7b09b6e73d2e1c157775797f44d5be0402a3d7169127142d6bf"
     },
     {
       "path": "data/traffic-laws/points-regulation-2022.txt",
@@ -65,7 +65,7 @@
     },
     {
       "path": "data/traffic-laws/translations/road-traffic-safety-law-2021.json",
-      "sha256": "49c44d5c1fc31b085b37011222733e07a9c1a340c0eaa830468c780170baca42"
+      "sha256": "c7ac128412596e9b52573533a83113111867b53c02df4a001b2784a8d2cf9092"
     },
     {
       "path": "data/traffic-laws/road-traffic-safety-law-2021.txt",
@@ -73,7 +73,7 @@
     },
     {
       "path": "data/traffic-laws/translations/vehicle-registration-2022.json",
-      "sha256": "4a3a3fcddeb4b6aa5e9fd03f931d472d9cdaa161e45b06acdc372c7db504e6fa"
+      "sha256": "14fe762e463647a08ecb7ca032b5eb004a8400b1cd853b0bba5a35444de44aad"
     },
     {
       "path": "data/traffic-laws/vehicle-registration-2022.txt",
@@ -81,7 +81,7 @@
     },
     {
       "path": "data/traffic-laws/translations/violation-procedure-2020.json",
-      "sha256": "e32a2aea9e04c7e59b8803b2cc09abc10cbd9b157050835c023f2b35a30d587f"
+      "sha256": "7f887358dc1e640d1bded72a6e97b06d3d856593b75d21174a45d804292a2b1e"
     },
     {
       "path": "data/traffic-laws/violation-procedure-2020.txt",

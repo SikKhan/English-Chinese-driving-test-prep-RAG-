@@ -1,7 +1,7 @@
 # Subject 4 machine translation review
 
 Updated: 2026-11-02T20:11:13+08:00
-Model: `nvidia/nemotron-3.5-super-vl:free`
+Model: `historical-model-name-removed`
 Completed: 904 / 904
 
 This is a machine-generated review, not human verification. Findings may contain false positives, minor stylistic suggestions (including option punctuation), or miss errors. Review flags in the dataset have not been cleared. Source and legal accuracy were not verified.

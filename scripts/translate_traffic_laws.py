@@ -4,6 +4,7 @@ Outputs resumable bilingual chunks; these are unreviewed machine translations.
 """
 import hashlib
 import json
+import os
 import pathlib
 import re
 import sys
@@ -13,7 +14,7 @@ import urllib.request
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SOURCE = ROOT / 'data/traffic-laws'
 OUTPUT = SOURCE / 'translations'
-MODEL = 'nvidia/nemotron-3.5-super-vl:free'
+MODEL = None
 
 
 def chunks(text, limit=1800):
@@ -33,6 +34,9 @@ def chunks(text, limit=1800):
 
 
 def main():
+    global MODEL
+    MODEL = os.environ.get('OPENROUTER_MODEL', '').strip()
+    if not MODEL: raise SystemExit('Set OPENROUTER_MODEL to the model ID to use')
     key = (pathlib.Path.home() / 'Desktop' / 'openrouter_key.txt').read_text(encoding='utf-8-sig').strip()
     if '=' in key and not key.startswith('sk-'):
         key = key.split('=', 1)[1].strip().strip('"\'')

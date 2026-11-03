@@ -1,7 +1,7 @@
 import argparse, datetime, hashlib, json, os, pathlib, re, sys, time, urllib.request, urllib.error
 
 BASE = pathlib.Path(__file__).resolve().parent.parent
-MODEL = 'nvidia/nemotron-3.5-super-vl:free'
+MODEL = None
 DATA = BASE / 'data/subject4/subject4_translations.json'
 RESULTS = BASE / 'reports/subject4/subject4_review_results.json'
 REPORT = BASE / 'reports/subject4/SUBJECT4_MODEL_FINDINGS.md'
@@ -31,7 +31,10 @@ def report(records, reviews, errors):
     tmp=REPORT.with_suffix('.tmp'); tmp.write_text('\n'.join(lines)+'\n',encoding='utf-8'); tmp.replace(REPORT)
 
 def main():
-    p=argparse.ArgumentParser(); p.add_argument('--batch-size',type=int,default=5); p.add_argument('--max-batches',type=int,default=0); p.add_argument('--delay',type=float,default=2); args=p.parse_args()
+    global MODEL
+    p=argparse.ArgumentParser(); p.add_argument('--batch-size',type=int,default=5); p.add_argument('--max-batches',type=int,default=0); p.add_argument('--delay',type=float,default=2); p.add_argument('--model', default=os.environ.get('OPENROUTER_MODEL')); args=p.parse_args()
+    MODEL = (args.model or '').strip()
+    if not MODEL: p.error('Specify --model or set OPENROUTER_MODEL')
     if not 1 <= args.batch_size <= 20: p.error('batch size must be between 1 and 20')
     key=os.environ.get('OPENROUTER_API_KEY','').strip() or KEY.read_text(encoding='utf-8-sig').strip()
     if '=' in key and not key.startswith('sk-'): key=key.split('=',1)[1].strip().strip('"\'')

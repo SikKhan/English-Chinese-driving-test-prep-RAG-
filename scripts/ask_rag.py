@@ -22,9 +22,6 @@ if __package__:
 else:
     import local_rag as retrieval
 
-MODEL = "nvidia/nemotron-3.5-super-vl:free"
-
-
 @dataclass
 class Connection:
     provider: str
@@ -90,7 +87,7 @@ def configure(args):
             if mode == "local":
                 provider = "local"
             else:
-                print("\n  1. OpenRouter (Nemotron free)\n  2. OpenAI\n  3. Another compatible API")
+                print("\n  1. OpenRouter\n  2. OpenAI\n  3. Another compatible API")
                 provider = prompt_choice("Provider [1]: ", {"1": "openrouter", "2": "openai", "3": "custom"}, "1")
     defaults = {"openrouter": "https://openrouter.ai/api/v1", "openai": "https://api.openai.com/v1"}
     base_url = args.base_url or defaults.get(provider)
@@ -117,9 +114,7 @@ def configure(args):
     if provider != "local" and not key:
         raise ValueError("An API key is required for the selected service")
     model_id = args.model
-    if not model_id and provider == "openrouter":
-        model_id = input(f"Model [{MODEL}]: ").strip() or MODEL
-    elif not model_id:
+    if not model_id:
         available = []
         if provider == "local":
             try:

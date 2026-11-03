@@ -12,8 +12,9 @@ Set-Location 'E:\Projects\RAG-pipeline'
 ```
 
 Startup asks whether to use an API service or a running local model server.
-API options are OpenRouter (default model: Nemotron free), OpenAI, or another
-Chat Completions-compatible API. Enter the provider's own key using hidden input;
+API options are OpenRouter, OpenAI, or another
+Chat Completions-compatible API. Choose the model explicitly; no answering model
+is preselected. Enter the provider's own key using hidden input;
 keys are kept in memory for the session and never saved. Local mode asks for the
 server URL, optionally its key, and a model ID (or a model from the server's list).
 LM Studio and Ollama server addresses are shown as examples. Start the model server
