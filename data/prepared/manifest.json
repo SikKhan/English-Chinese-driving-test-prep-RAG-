@@ -12,79 +12,79 @@
   "image_questions": 787,
   "input_files": [
     {
-      "path": "subject1-source/data/questions_bilingual.json",
+      "path": "data/subject1/data/questions_bilingual.json",
       "sha256": "81901717ebf9c5b53296c6c09aad8d26e5dde42b7805e081e59ce9ba9fc07a6a"
     },
     {
-      "path": "subject4_translations.json",
+      "path": "data/subject4/subject4_translations.json",
       "sha256": "ba781b3c3fb417f3ecf2176bc59d3822685b66681fa5342f737ec78e4ec62b2f"
     },
     {
-      "path": "chinese-traffic-laws/sources.json",
+      "path": "data/traffic-laws/sources.json",
       "sha256": "15f4c748f7f5c4f755d7b892a4dde9793448e72513ff0c6861755559aebc77e6"
     },
     {
-      "path": "chinese-traffic-laws/translations/accident-procedure-2017.json",
+      "path": "data/traffic-laws/translations/accident-procedure-2017.json",
       "sha256": "8529890f31ab3a56a2c3e130e258740e785c85d34841a0a9cbd1d96486032790"
     },
     {
-      "path": "chinese-traffic-laws/accident-procedure-2017.txt",
+      "path": "data/traffic-laws/accident-procedure-2017.txt",
       "sha256": "b1cbc233e8b1c532c8ca00c73e5ba8e724ae4a5a8fea19e71ce554e35b381a1f"
     },
     {
-      "path": "chinese-traffic-laws/translations/compulsory-insurance-regulation-2019.json",
+      "path": "data/traffic-laws/translations/compulsory-insurance-regulation-2019.json",
       "sha256": "14f3e6c5e1b576f6b70a8291c9c2546f6f1e11bbd87b08803e0d99fe76e82a7d"
     },
     {
-      "path": "chinese-traffic-laws/compulsory-insurance-regulation-2019.txt",
+      "path": "data/traffic-laws/compulsory-insurance-regulation-2019.txt",
       "sha256": "9f3f6006f8161b39192e792abaaa8ba244a35ac608f11afe1247a2e9b6f710b4"
     },
     {
-      "path": "chinese-traffic-laws/translations/driving-licence-rules-2025.json",
+      "path": "data/traffic-laws/translations/driving-licence-rules-2025.json",
       "sha256": "a753c60430169ee92be78f3f738d30629fa0591691aec505e990c53eb0a47edf"
     },
     {
-      "path": "chinese-traffic-laws/driving-licence-rules-2025.txt",
+      "path": "data/traffic-laws/driving-licence-rules-2025.txt",
       "sha256": "ffeaa14caeb47a31454543ffb9933ee80cd8a83687f672cb3eaee52792ccbc11"
     },
     {
-      "path": "chinese-traffic-laws/translations/implementation-regulation-2017.json",
+      "path": "data/traffic-laws/translations/implementation-regulation-2017.json",
       "sha256": "37f8df8b0f6271aa16de1bcdc555b57e1aad6e8f2aee1cdb8f9c77fe1cf31e1d"
     },
     {
-      "path": "chinese-traffic-laws/implementation-regulation-2017.txt",
+      "path": "data/traffic-laws/implementation-regulation-2017.txt",
       "sha256": "891418f4c11a8dad136fddcc47cbbe0b2ff27a13dfe3192593006dcbe6e7aa6b"
     },
     {
-      "path": "chinese-traffic-laws/translations/points-regulation-2022.json",
+      "path": "data/traffic-laws/translations/points-regulation-2022.json",
       "sha256": "3faba4ca302418d6b3cc37f819f1e5c8ade198cb45fcfc73c19db049bd41d988"
     },
     {
-      "path": "chinese-traffic-laws/points-regulation-2022.txt",
+      "path": "data/traffic-laws/points-regulation-2022.txt",
       "sha256": "8de594e764026d24e0a0856cd30a970c1357cea47d3455f9406a5b50a6dee8db"
     },
     {
-      "path": "chinese-traffic-laws/translations/road-traffic-safety-law-2021.json",
+      "path": "data/traffic-laws/translations/road-traffic-safety-law-2021.json",
       "sha256": "49c44d5c1fc31b085b37011222733e07a9c1a340c0eaa830468c780170baca42"
     },
     {
-      "path": "chinese-traffic-laws/road-traffic-safety-law-2021.txt",
+      "path": "data/traffic-laws/road-traffic-safety-law-2021.txt",
       "sha256": "ffe2f5a7208e6b86072e72a0986fea1239021a81c72cea8002a7aaabe945e51f"
     },
     {
-      "path": "chinese-traffic-laws/translations/vehicle-registration-2022.json",
+      "path": "data/traffic-laws/translations/vehicle-registration-2022.json",
       "sha256": "4a3a3fcddeb4b6aa5e9fd03f931d472d9cdaa161e45b06acdc372c7db504e6fa"
     },
     {
-      "path": "chinese-traffic-laws/vehicle-registration-2022.txt",
+      "path": "data/traffic-laws/vehicle-registration-2022.txt",
       "sha256": "71e6ebae5fbfb55401f0852bc53c37249f442288ed7b6c0d6375c323f49f1ed8"
     },
     {
-      "path": "chinese-traffic-laws/translations/violation-procedure-2020.json",
+      "path": "data/traffic-laws/translations/violation-procedure-2020.json",
       "sha256": "e32a2aea9e04c7e59b8803b2cc09abc10cbd9b157050835c023f2b35a30d587f"
     },
     {
-      "path": "chinese-traffic-laws/violation-procedure-2020.txt",
+      "path": "data/traffic-laws/violation-procedure-2020.txt",
       "sha256": "c4a9ca5100b6fa62fc8aa2ebc253b369132ff7abe5f502f9f8a676ce36c75811"
     }
   ],

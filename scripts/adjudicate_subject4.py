@@ -1,7 +1,7 @@
 import json,pathlib,re,time,urllib.request,urllib.error,sys
-p=pathlib.Path(__file__).resolve().parent; data=json.loads((p/'subject4_translations.json').read_text(encoding='utf-8')); reviews=json.loads((p/'subject4_review_results.json').read_text(encoding='utf-8')); key=(pathlib.Path.home()/'Desktop/openrouter_key.txt').read_text(encoding='utf-8-sig').strip()
+p=pathlib.Path(__file__).resolve().parent.parent; data=json.loads((p/'data/subject4/subject4_translations.json').read_text(encoding='utf-8')); reviews=json.loads((p/'reports/subject4/subject4_review_results.json').read_text(encoding='utf-8')); key=(pathlib.Path.home()/'Desktop/openrouter_key.txt').read_text(encoding='utf-8-sig').strip()
 if '=' in key and not key.startswith('sk-'): key=key.split('=',1)[1].strip().strip('"\'')
-output=p/'subject4_adjudication.json'; done=json.loads(output.read_text(encoding='utf-8')) if output.exists() else {}
+output=p/'reports/subject4/subject4_adjudication.json'; done=json.loads(output.read_text(encoding='utf-8')) if output.exists() else {}
 items=[]
 for x in data:
  f=reviews[x['id']]['findings']

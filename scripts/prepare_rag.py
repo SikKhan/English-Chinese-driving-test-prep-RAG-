@@ -1,6 +1,6 @@
 """Prepare the local English driving-test corpus without embeddings or LLM calls.
 
-Run: .venv/Scripts/python prepare_rag.py
+Run: .venv/Scripts/python scripts/prepare_rag.py
 The source allowlist deliberately excludes backups, reviews, and Chinese-only copies.
 """
 from __future__ import annotations
@@ -13,8 +13,8 @@ from pathlib import Path
 
 import tiktoken
 
-ROOT = Path(__file__).resolve().parent
-OUT = ROOT / "rag-ready"
+ROOT = Path(__file__).resolve().parent.parent
+OUT = ROOT / "data/prepared"
 ENC = tiktoken.get_encoding("cl100k_base")
 VERSION = "1.0.0"
 MAX_TOKENS = 512  # Applies to the entire embedding text, including its context.
@@ -110,7 +110,7 @@ def main():
                            "token_count": tokens(embedding_text), "parent_char_start": a, "parent_char_end": b,
                            "metadata": parent["metadata"]})
 
-    for subject, path in [(1, "subject1-source/data/questions_bilingual.json"), (4, "subject4_translations.json")]:
+    for subject, path in [(1, "data/subject1/data/questions_bilingual.json"), (4, "data/subject4/subject4_translations.json")]:
         src = source(path)
         seen = set()
         for index, row in enumerate(read(path)):
@@ -138,7 +138,7 @@ def main():
             if not re.fullmatch(r"[ABCD]+", answer) or len(set(answer)) != len(answer) or any(x not in labels for x in answer):
                 reasons.append("invalid_answer_key")
             image = row.get("image")
-            image_path = "subject1-source/" + image if image else None
+            image_path = "data/subject1/" + image if image else None
             if image_path and (not (ROOT / image_path).is_file() or not (ROOT / image_path).resolve().is_relative_to(ROOT)):
                 reasons.append("missing_or_unsafe_image")
             missing_image = not image_path and bool(
@@ -174,13 +174,13 @@ def main():
             question_groups[key].append({"parent_id": parents[-1]["parent_id"], "answer": answer,
                                          "options": options, "image_path": image_path})
 
-    sources = {s["name"]: s for s in read("chinese-traffic-laws/sources.json")}
-    source("chinese-traffic-laws/sources.json")
+    sources = {s["name"]: s for s in read("data/traffic-laws/sources.json")}
+    source("data/traffic-laws/sources.json")
     for name, (title, start_pattern, footer_pattern) in LAW.items():
-        path = f"chinese-traffic-laws/translations/{name}.json"
+        path = f"data/traffic-laws/translations/{name}.json"
         src = source(path)
         rows = read(path)
-        original = ROOT / f"chinese-traffic-laws/{name}.txt"
+        original = ROOT / f"data/traffic-laws/{name}.txt"
         source(original.relative_to(ROOT).as_posix())
         original_sha = sha(original.read_bytes())
         # Exact source coverage check; stale/incomplete translations must stop preparation.

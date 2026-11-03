@@ -2,7 +2,7 @@
 
 ## Connected answering model
 
-Double-click `Start-RAG.cmd` or run `ask_rag.py`. The script prompts for either an
+Double-click `Start-RAG.cmd` or run `scripts/ask_rag.py`. The script prompts for either an
 API service (OpenRouter, OpenAI, or another Chat Completions-compatible service)
 or a running local server. API mode asks for its key with hidden entry and the
 model ID. OpenRouter defaults to `nvidia/nemotron-3.5-super-vl:free`, matching the
@@ -25,8 +25,8 @@ No alternate model is substituted. API prices depend on the chosen model; Nemotr
 free was listed at zero prompt/completion price when checked on 2026-11-03.
 
 ```powershell
-.\.venv\Scripts\python.exe ask_rag.py "What is the penalty for drunk driving?"
-.\.venv\Scripts\python.exe ask_rag.py
+.\.venv\Scripts\python.exe scripts/ask_rag.py "What is the penalty for drunk driving?"
+.\.venv\Scripts\python.exe scripts/ask_rag.py
 ```
 
 The second command keeps the embedding model loaded for repeated independent
@@ -41,7 +41,7 @@ Do not place a raw key on the command line. Supplying only `--key-file` retains
 the explicit OpenRouter shortcut; a model is still prompted if not specified.
 
 ```powershell
-.\.venv\Scripts\python.exe ask_rag.py --provider local --base-url http://localhost:1234/v1 --model YOUR_SERVED_MODEL_ID
+.\.venv\Scripts\python.exe scripts/ask_rag.py --provider local --base-url http://localhost:1234/v1 --model YOUR_SERVED_MODEL_ID
 ```
 
 Answers should cite supplied sources and abstain on unsupported questions. Local
@@ -57,8 +57,8 @@ or mandatory server-side JSON mode; JSON is requested in the prompt and checked
 locally. Models must support instruction-following and the requested JSON format.
 
 The launcher is self-configuring within this project, not a standalone executable:
-keep `ask_rag.py`, `local_rag.py`, `.venv/`, `.models/`, `local-index/`, and
-`rag-ready/` together. Python environments generally need recreating if moved to
+keep the project folder structure, including `scripts/`, `data/`, `.venv/`,
+`.models/`, and `local-index/`. Python environments generally need recreating if moved to
 another machine. Setup and downloaded dependencies stay under the project folder.
 
 The project uses `BAAI/bge-small-en-v1.5`, pinned to model revision
@@ -76,14 +76,14 @@ Search loads cached model files with `local_files_only=True` and works offline.
 Open PowerShell in `E:\Projects\RAG-pipeline` and run:
 
 ```powershell
-.\.venv\Scripts\python.exe local_rag.py search "When should I switch to low beams at night?"
+.\.venv\Scripts\python.exe scripts/local_rag.py search "When should I switch to low beams at night?"
 ```
 
 To search just the law documents, add `--kind traffic_law`. To search questions,
 add `--kind exam_question`; optionally add `--subject 1` or `--subject 4`.
 Use `--top 3` to display three results. The output is retrieved source passages,
 including complete parent articles and image paths where relevant. For a generated
-answer use `ask_rag.py` above. Similarity scores are not confidence or legal verification.
+answer use `scripts/ask_rag.py` above. Similarity scores are not confidence or legal verification.
 
 The local vector index consists of `local-index/vectors.npy`, aligned
 `records.jsonl`, and a hash-checked `manifest.json`. Exact cosine search is
@@ -110,11 +110,11 @@ $env:PIP_CACHE_DIR = "$PWD\.cache\pip"
 $env:TEMP = "$PWD\.cache\tmp"
 $env:TMP = $env:TEMP
 New-Item -ItemType Directory -Force $env:TEMP | Out-Null
-.\.venv\Scripts\python.exe -m pip install -r requirements-local.txt
-.\.venv\Scripts\python.exe local_rag.py build --pilot
-.\.venv\Scripts\python.exe local_rag.py evaluate --pilot
-.\.venv\Scripts\python.exe local_rag.py build
-.\.venv\Scripts\python.exe local_rag.py evaluate
+.\.venv\Scripts\python.exe -m pip install -r requirements/requirements-local.txt
+.\.venv\Scripts\python.exe scripts/local_rag.py build --pilot
+.\.venv\Scripts\python.exe scripts/local_rag.py evaluate --pilot
+.\.venv\Scripts\python.exe scripts/local_rag.py build
+.\.venv\Scripts\python.exe scripts/local_rag.py evaluate
 ```
 
 Build refuses to overwrite an existing index. Keep an old index in another

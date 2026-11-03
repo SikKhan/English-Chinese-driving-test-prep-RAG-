@@ -10,8 +10,8 @@ import sys
 import time
 import urllib.request
 
-ROOT = pathlib.Path(__file__).resolve().parent
-SOURCE = ROOT / 'chinese-traffic-laws'
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+SOURCE = ROOT / 'data/traffic-laws'
 OUTPUT = SOURCE / 'translations'
 MODEL = 'nvidia/nemotron-3.5-super-vl:free'
 

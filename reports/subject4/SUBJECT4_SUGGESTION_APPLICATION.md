@@ -33,4 +33,4 @@ The model review contains demonstrably incorrect suggestions as well as valid on
 - 862: The source says downwind, while the model suggested upwind.
 - Several suggestions propose changing answer keys or revealing the answer in a true/false question; these require independent source verification.
 
-Applied changes to 18 records. The complete machine output remains in SUBJECT4_MODEL_FINDINGS.md and subject4_review_results.json. A backup of the dataset before these changes is stored in subject4_translations_before_suggestion_application.json.
+Applied changes to 18 records. The complete machine output remains in reports/subject4/SUBJECT4_MODEL_FINDINGS.md and reports/subject4/subject4_review_results.json. A backup of the dataset before these changes is stored in data/subject4/backups/subject4_translations_before_suggestion_application.json.

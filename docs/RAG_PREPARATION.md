@@ -5,19 +5,19 @@ Original questions, translations, and images are unchanged.
 
 ## Output
 
-`rag-ready/chunks.jsonl` is the embedding input: embed **only `embedding_text`**.
+`data/prepared/chunks.jsonl` is the embedding input: embed **only `embedding_text`**.
 Use `chunk_id` as the index key. Store `text`, `parent_id`, and `metadata` with the
 vector; index `embedding_text` for keyword retrieval as well. This is a neutral
 JSONL exchange format, not a database-specific import file.
 
-`rag-ready/parents.jsonl` holds complete questions and law articles. After retrieval,
+`data/prepared/parents.jsonl` holds complete questions and law articles. After retrieval,
 resolve `parent_id` to recover a complete article when a rule spans several chunks.
 Deduplicate retrieved chunks by parent before assembling the answer context.
 
-`rag-ready/manifest.json` records counts, exact source hashes, tokenizer, and limits.
-`rag-ready/quarantine.jsonl` holds excluded question records with repair reasons.
-`rag-ready/excluded_text.jsonl` preserves removed website headers, footers, and
-contents lists for inspection. `rag-ready/duplicate_questions.jsonl` reports repeated
+`data/prepared/manifest.json` records counts, exact source hashes, tokenizer, and limits.
+`data/prepared/quarantine.jsonl` holds excluded question records with repair reasons.
+`data/prepared/excluded_text.jsonl` preserves removed website headers, footers, and
+contents lists for inspection. `data/prepared/duplicate_questions.jsonl` reports repeated
 question wording without deleting distinct records or diagrams.
 
 ## Decisions for this corpus
@@ -68,16 +68,16 @@ From the project directory in PowerShell:
 
 ```powershell
 python -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r requirements-preparation.txt
-.\.venv\Scripts\python.exe prepare_rag.py
-.\.venv\Scripts\python.exe -m unittest test_prepare_rag.py -v
+.\.venv\Scripts\python.exe -m pip install -r requirements/requirements-preparation.txt
+.\.venv\Scripts\python.exe scripts/prepare_rag.py
+.\.venv\Scripts\python.exe -m unittest tests.test_prepare_rag -v
 ```
 
 The initial tokenizer setup may download its public vocabulary. Preparation makes
 no embedding, translation, or other model calls and does not upload source material.
 The source allowlist excludes backups, review reports, duplicate CSV/PDF editions,
 and Chinese-only files from embedding inputs. Incomplete or stale law translations
-stop the build. Rerunning overwrites only the named derived files in `rag-ready/`.
+stop the build. Rerunning overwrites only the named derived files in `data/prepared/`.
 
 ## Research and next step
 

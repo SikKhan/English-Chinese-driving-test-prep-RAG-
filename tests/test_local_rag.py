@@ -2,7 +2,7 @@ import unittest
 import os
 from pathlib import Path
 
-import local_rag
+from scripts import local_rag
 
 
 class FakeModel:

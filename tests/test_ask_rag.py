@@ -6,7 +6,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 import unittest
 from unittest.mock import patch
 
-import ask_rag
+from scripts import ask_rag
 
 
 class AnswerTests(unittest.TestCase):

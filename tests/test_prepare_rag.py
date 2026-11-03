@@ -3,7 +3,7 @@ import json
 import unittest
 from collections import defaultdict
 
-import prepare_rag as prep
+from scripts import prepare_rag as prep
 
 
 def records(name):
@@ -22,7 +22,7 @@ class PreparationTests(unittest.TestCase):
     def test_all_question_records_are_accounted_for_once(self):
         included = [p for p in records("parents.jsonl") if p["metadata"]["kind"] == "exam_question"]
         held = records("quarantine.jsonl")
-        for subject, file in [(1, "subject1-source/data/questions_bilingual.json"), (4, "subject4_translations.json")]:
+        for subject, file in [(1, "data/subject1/data/questions_bilingual.json"), (4, "data/subject4/subject4_translations.json")]:
             source_ids = [r["id"] for r in prep.read(file)]
             output_ids = [r["metadata"]["record_id"] for r in included if r["metadata"]["subject"] == subject]
             output_ids += [r["record_id"] for r in held if r["source_file"] == file]
@@ -69,7 +69,7 @@ class PreparationTests(unittest.TestCase):
             self.assertEqual(counts[name], list(range(1, count + 1)))
 
     def test_source_hashes_unchanged_and_image_references_resolve(self):
-        manifest = prep.read("rag-ready/manifest.json")
+        manifest = prep.read("data/prepared/manifest.json")
         for source in manifest["input_files"]:
             self.assertEqual(prep.sha((prep.ROOT / source["path"]).read_bytes()), source["sha256"])
         for parent in records("parents.jsonl"):

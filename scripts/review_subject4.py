@@ -1,10 +1,10 @@
 import argparse, datetime, hashlib, json, os, pathlib, re, sys, time, urllib.request, urllib.error
 
-BASE = pathlib.Path(__file__).resolve().parent
+BASE = pathlib.Path(__file__).resolve().parent.parent
 MODEL = 'nvidia/nemotron-3.5-super-vl:free'
-DATA = BASE / 'subject4_translations.json'
-RESULTS = BASE / 'subject4_review_results.json'
-REPORT = BASE / 'SUBJECT4_MODEL_FINDINGS.md'
+DATA = BASE / 'data/subject4/subject4_translations.json'
+RESULTS = BASE / 'reports/subject4/subject4_review_results.json'
+REPORT = BASE / 'reports/subject4/SUBJECT4_MODEL_FINDINGS.md'
 KEY = pathlib.Path.home() / 'Desktop' / 'openrouter_key.txt'
 
 def digest(record):

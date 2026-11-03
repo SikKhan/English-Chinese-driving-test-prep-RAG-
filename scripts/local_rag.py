@@ -1,8 +1,8 @@
 """Local CPU embeddings and exact cosine search; no database service or model API.
 
-python local_rag.py build [--pilot]
-python local_rag.py search "When should I use low beams?" [--kind traffic_law]
-python local_rag.py evaluate [--pilot]
+python scripts/local_rag.py build [--pilot]
+python scripts/local_rag.py search "When should I use low beams?" [--kind traffic_law]
+python scripts/local_rag.py evaluate [--pilot]
 """
 from __future__ import annotations
 
@@ -15,7 +15,7 @@ from pathlib import Path
 import re
 import sys
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 # Set these before importing any model libraries. Keep project downloads off C:.
 for key, relative in {
     "HF_HOME": ".models/hf-home", "HF_HUB_CACHE": ".models", "HF_XET_CACHE": ".models/xet",
@@ -127,7 +127,7 @@ def build(pilot):
     out = ROOT / ("local-index-pilot" if pilot else "local-index")
     if out.exists():
         raise FileExistsError(f"Index already exists: {out}. Choose a new output location before rebuilding.")
-    inputs = rows(ROOT / "rag-ready/chunks.jsonl")
+    inputs = rows(ROOT / "data/prepared/chunks.jsonl")
     model = load_model(offline=(ROOT / "local-index-pilot/manifest.json").is_file())
     if pilot:
         wanted = {pid for _, pid in EVAL}
@@ -146,8 +146,8 @@ def build(pilot):
     (out / "records.jsonl").write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in records), encoding="utf-8")
     manifest = {"model": MODEL, "revision": REVISION, "device": "cpu", "dimensions": 384,
                 "normalized": True, "distance": "cosine", "query_prefix": QUERY_PREFIX,
-                "source_chunks_sha256": file_sha(ROOT / "rag-ready/chunks.jsonl"),
-                "source_parents_sha256": file_sha(ROOT / "rag-ready/parents.jsonl"),
+                "source_chunks_sha256": file_sha(ROOT / "data/prepared/chunks.jsonl"),
+                "source_parents_sha256": file_sha(ROOT / "data/prepared/parents.jsonl"),
                 "vectors_sha256": file_sha(out / "vectors.npy"), "records_sha256": file_sha(out / "records.jsonl"),
                 "original_chunk_count": len(inputs), "vector_count": len(records), "pilot": pilot,
                 "max_model_tokens": max(r["model_token_count"] for r in records),
@@ -166,9 +166,9 @@ def open_index(pilot):
         path = out / ("vectors.npy" if name == "vectors" else "records.jsonl")
         if file_sha(path) != manifest[name + "_sha256"]:
             raise ValueError("Index file hash mismatch")
-    if file_sha(ROOT / "rag-ready/parents.jsonl") != manifest["source_parents_sha256"]:
+    if file_sha(ROOT / "data/prepared/parents.jsonl") != manifest["source_parents_sha256"]:
         raise ValueError("Parent corpus changed; rebuild the index")
-    if file_sha(ROOT / "rag-ready/chunks.jsonl") != manifest["source_chunks_sha256"]:
+    if file_sha(ROOT / "data/prepared/chunks.jsonl") != manifest["source_chunks_sha256"]:
         raise ValueError("Chunk corpus changed; rebuild the index")
     records = rows(out / "records.jsonl")
     vectors = np.load(out / "vectors.npy", allow_pickle=False)
@@ -234,7 +234,7 @@ def main():
     else:
         if not 1 <= args.top <= 50:
             raise ValueError("--top must be between 1 and 50")
-        parents = {p["parent_id"]: p for p in rows(ROOT / "rag-ready/parents.jsonl")}
+        parents = {p["parent_id"]: p for p in rows(ROOT / "data/prepared/parents.jsonl")}
         for match in rank(model, records, vectors, args.query, args.top, args.kind, args.subject):
             parent = parents[match["parent_id"]]
             print(f"\nSimilarity {match['score']:.3f} | {parent['metadata']['citation']}")

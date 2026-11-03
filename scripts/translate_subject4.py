@@ -1,7 +1,7 @@
 import json, pathlib, urllib.request, urllib.error, time, re, sys
-base=pathlib.Path(__file__).parent
-src=json.loads((base/'trllm_course4_cleaned.json').read_text(encoding='utf-8'))
-out=base/'subject4_translations.json'
+base=pathlib.Path(__file__).resolve().parent.parent
+src=json.loads((base/'data/subject4/trllm_course4_cleaned.json').read_text(encoding='utf-8'))
+out=base/'data/subject4/subject4_translations.json'
 completed={r['id']:r for r in json.loads(out.read_text(encoding='utf-8'))} if out.exists() else {}
 key=pathlib.Path.home().joinpath('Desktop','openrouter_key.txt').read_text().strip()
 if '=' in key and not key.startswith('sk-'): key=key.split('=',1)[1].strip().strip('"\'')

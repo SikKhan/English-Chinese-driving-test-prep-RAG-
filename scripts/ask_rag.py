@@ -1,7 +1,7 @@
 """Answer questions with local retrieval and a prompted API or local connection.
 
-python ask_rag.py "When should I use low beams?"
-python ask_rag.py                 # Repeated independent questions; exit to quit.
+python scripts/ask_rag.py "When should I use low beams?"
+python scripts/ask_rag.py                 # Repeated independent questions; exit to quit.
 """
 import argparse
 from dataclasses import dataclass, field
@@ -17,7 +17,10 @@ import urllib.request
 from urllib.parse import urlsplit, urlunsplit
 import warnings
 
-import local_rag as retrieval
+if __package__:
+    from . import local_rag as retrieval
+else:
+    import local_rag as retrieval
 
 MODEL = "nvidia/nemotron-3.5-super-vl:free"
 
@@ -298,7 +301,7 @@ def main():
             raise ValueError("--evidence-chars must be between 2000 and 60000")
         _, records, vectors = retrieval.open_index(False)
         model = retrieval.load_model(True)
-        parents = {p["parent_id"]: p for p in retrieval.rows(retrieval.ROOT / "rag-ready/parents.jsonl")}
+        parents = {p["parent_id"]: p for p in retrieval.rows(retrieval.ROOT / "data/prepared/parents.jsonl")}
         print(f"Connected to {connection.model} at {connection.base_url}.")
         print("Questions and retrieved excerpts are sent to this server. Keys are not saved.")
         while True:

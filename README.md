@@ -8,7 +8,7 @@ Double-click `Start-RAG.cmd`, or start it in PowerShell:
 
 ```powershell
 Set-Location 'E:\Projects\RAG-pipeline'
-.\.venv\Scripts\python.exe ask_rag.py "When should I use low beams?"
+.\.venv\Scripts\python.exe scripts/ask_rag.py "When should I use low beams?"
 ```
 
 Startup asks whether to use an API service or a running local model server.
@@ -19,7 +19,7 @@ server URL, optionally its key, and a model ID (or a model from the server's lis
 LM Studio and Ollama server addresses are shown as examples. Start the model server
 yourself first. No Desktop key file is assumed and no alternate model is substituted.
 
-Run `ask_rag.py` without a question for repeated independent questions; type
+Run `scripts/ask_rag.py` without a question for repeated independent questions; type
 `exit` to quit. Local retrieval searches Q/A and supporting law passages, then
 sends the question and selected excerpts to the chosen server. API services need
 internet and may charge for the model you choose. All project files remain under
@@ -34,7 +34,7 @@ To inspect retrieval without calling the answering model:
 
 ```powershell
 Set-Location 'E:\Projects\RAG-pipeline'
-.\.venv\Scripts\python.exe local_rag.py search "When should I switch to low beams at night?" --top 3
+.\.venv\Scripts\python.exe scripts/local_rag.py search "When should I switch to low beams at night?" --top 3
 ```
 
 This command retrieves source passages only.
@@ -43,6 +43,30 @@ only Q/A records, or `--kind traffic_law` to search only law documents.
 Translations and legal validity still require review. Text embeddings do not
 encode the linked exam images. Quarantined questions are excluded from the index.
 
-- [Local setup, search, and rebuilding](LOCAL_RAG.md)
-- [Chunk preparation and validation](RAG_PREPARATION.md)
-- [Sources and review limitations](DATA_SOURCES.md)
+- [Local setup, search, and rebuilding](docs/LOCAL_RAG.md)
+- [Chunk preparation and validation](docs/RAG_PREPARATION.md)
+- [Sources and review limitations](docs/DATA_SOURCES.md)
+
+## Project folders
+
+| Folder | Contents |
+| --- | --- |
+| `scripts/` | Answering, retrieval, preparation, translation, and review scripts |
+| `tests/` | Automated checks |
+| `docs/` | Setup, preparation, and source documentation |
+| `requirements/` | Python dependency lists |
+| `data/subject1/` | Original Subject 1 dataset, images, licence, and upstream guide |
+| `data/subject4/` | Subject 4 source questions, translations, and backup |
+| `data/traffic-laws/` | Downloaded law documents, source records, and translations |
+| `data/prepared/` | Prepared chunks, parents, provenance, and quarantined records |
+| `reports/subject4/` | Translation reviews, findings, and adjudication progress |
+
+The local `.venv/`, `.models/`, `.cache/`, and `local-index*/` folders are
+excluded from Git. Keep this folder structure when copying the project.
+Commands in the documentation run from the project root.
+
+Run the checks with:
+
+```powershell
+.\.venv\Scripts\python.exe -m unittest discover -s tests -v
+```
