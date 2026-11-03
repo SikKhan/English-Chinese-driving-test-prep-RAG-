@@ -1,0 +1,915 @@
+
+# trllm_subj4_1 Q 林某驾车以110公里/小时的速度在城市道路行驶，与一辆机动车追尾后弃车逃离被群众拦下。经鉴定，事发时林某血液中的酒精浓度为135.8毫克/百毫升。林某的主要违法行为是什么？ | Lin drove a car at 110 kilometers per hour on an urban road, rear-ended another motor vehicle, abandoned the vehicle and fled, but was stopped by the public. The appraisal showed that Lin's blood alcohol concentration was 135.8 milligrams per 100 milliliters at the time of the incident. What were Lin's main illegal acts? OPT A、醉酒驾驶; B、超速驾驶; C、疲劳驾驶; D、肇事逃逸 | A. Drunk driving; B. Speeding; C. Fatigued driving; D. Hit-and-run
+0 question_en The phrase "abandoned the vehicle and fled" omits the Chinese word "后" (after), which indicates the flight occurred after the rear-end collision. => Lin drove a car at 110 kilometers per hour on an urban road, rear-ended another motor vehicle, and after that abandoned the vehicle and fled, but was stopped by the public.
+1 options_en The option labels use the Chinese enumeration comma "、" instead of the standard English period and space format used in multiple-choice options. => A. Drunk driving; B. Speeding; C. Fatigued driving; D. Hit-and-run
+
+# trllm_subj4_2 Q 变更车道前确认后方无来车时可以不开转向灯变道。 | You may change lanes without signalling if you first check that no vehicles are approaching from behind. OPT A、正确; B、错误 | A. True; B. False
+0 options_en The option labels use the Chinese enumeration comma "、" instead of the standard English period and space format used in multiple-choice options. => A. True; B. False
+
+# trllm_subj4_3 Q 某日早上6时，冉某驾驶一辆大客车出发，连续行驶至上午11时，在宣汉县境内宣南路1公里处，坠于公路一侧垂直高度8.5米的陡坎下，造成13人死亡、9人受伤。冉某的主要违法行为是什么？ | One morning at 6 o'clock, Ran drove a large bus and departed, driving continuously until 11 o'clock. At 1 kilometer on Xuanan Road in Xuanhan County, the vehicle fell down a steep bank with a vertical height of 8.5 meters on the side of the highway, causing 13 deaths and 9 injuries. What was Ran's main illegal act? OPT A、超速行驶; B、不按交通标线行驶; C、客车超员; D、疲劳驾驶 | A. Speeding; B. Failure to drive according to traffic markings; C. Bus overloading; D. Fatigued driving
+0 options_en The option labels use the Chinese enumeration comma "、" instead of the standard English period and space format used in multiple-choice options. => A. Speeding; B. Failure to drive according to traffic markings; C. Bus overloading; D. Fatigued driving
+
+# trllm_subj4_4 Q 某日13时10分，罗某驾驶一辆中型客车从高速公路0公里处出发，下午14时10分行至该高速公路125公里加200米处时，发生追尾碰撞，机动车驶出西南侧路外边坡，造成11人死亡、2人受伤。罗某的主要违法行为是什么？ | At 13:10 one day, Luo drove a medium-sized bus from kilometer 0 of an expressway. At 14:10, when the vehicle reached kilometer 125 plus 200 meters of the expressway, a rear-end collision occurred, and the motor vehicle drove out of the roadside embankment on the southwest side, causing 11 deaths and 2 injuries. What was Luo's main illegal act? OPT A、超速行驶; B、不按交通标线行驶; C、客车超员; D、疲劳驾驶 | A. Speeding; B. Failure to drive according to traffic markings; C. Bus overloading; D. Fatigued driving
+0 options_en The option labels use the Chinese enumeration comma "、" instead of the standard English period and space format used in multiple-choice options. => A. Speeding; B. Failure to drive according to traffic markings; C. Bus overloading; D. Fatigued driving
+
+# trllm_subj4_5 Q 何某驾驶一辆乘载53人的大客车（核载47人），行至宁合高速公路南京境内454公里加100米处，被一辆重型半挂牵引车追尾，导致大客车翻出路侧护栏并起火燃烧，造成17人死亡、27人受伤。何某的主要违法行为是什么？ | He drove a large bus carrying 53 people (rated capacity 47 people). When reaching kilometer 454 plus 100 meters of the Nanjing section of the Ninghe Expressway, it was rear-ended by a heavy semi-trailer tractor, causing the large bus to roll out of the roadside guardrail and catch fire, resulting in 17 deaths and 27 injuries. What was He's main illegal act? OPT A、超速行驶; B、客车超员; C、驾驶逾期未年检机动车; D、操作不当 | A. Speeding; B. Bus overloading; C. Driving a motor vehicle that is overdue for annual inspection; D. Improper operation
+0 options_en The option labels use the Chinese enumeration comma "、" instead of the standard English period and space format used in multiple-choice options. => A. Speeding; B. Bus overloading; C. Driving a motor vehicle that is overdue for annual inspection; D. Improper operation
+
+# trllm_subj4_6 Q 罗某驾驶大型卧铺客车（乘载44人，核载44人）行至沿河县境内540县道58公里加500米处时，在结冰路面以每小时44公里速度行驶，导致机动车侧滑翻下公路，造成15人死亡、27人受伤。罗某的主要违法行为是什么？ | Luo drove a large sleeper bus (carrying 44 people, rated capacity 44 people). When reaching kilometer 58 plus 500 meters of County Road 540 in Yanhe County, the vehicle was traveling at 44 kilometers per hour on an icy road surface, causing the motor vehicle to skid and roll off the highway, resulting in 15 deaths and 27 injuries. What was Luo's main illegal act? OPT A、客车超员; B、超速行驶; C、疲劳驾驶; D、操作不当 | A. Bus overloading; B. Speeding; C. Fatigued driving; D. Improper operation
+0 question_en The location '沿河县' was translated as 'Cengong County', which is a different county name. => Yanhe County
+1 options_en The option labels contain Chinese enumeration commas '、' instead of standard English punctuation. => A. Bus overloading; B. Speeding; C. Fatigued driving; D. Improper operation
+
+# trllm_subj4_7 Q 徐某驾驶一辆中型客车（乘载27人）行至四都镇前岭村壶南头路段，在上坡过程中，机动车发生后溜驶出路外坠入落差约80米的山崖，造成11人死亡、7人受伤。徐某的主要违法行为是什么？ | Xu drove a medium-sized bus (carrying 27 people). When reaching the Hunantou section of Qianling Village, Sidu Town, while going uphill, the motor vehicle rolled backward, drove off the road, and fell into a mountain cliff with a drop of about 80 meters, causing 11 deaths and 7 injuries. What was Xu's main illegal act? OPT A、疲劳驾驶; B、酒后驾驶; C、客车超员; D、超速行驶 | A. Fatigued driving; B. Driving after drinking alcohol; C. Bus overloading; D. Speeding
+0 question_en The location '四都镇前岭村壶南头路段' was translated as 'Hunan Tou section of Hulou Road in Qianling Village, Qidu Town', which appears to be a mistranslation of the place names. => Hunan Tou section in Qianling Village, Sidu Town
+1 options_en The option labels contain Chinese enumeration commas '、' instead of standard English punctuation. => A. Fatigued driving; B. Driving after drinking alcohol; C. Bus overloading; D. Speeding
+
+# trllm_subj4_8 Q 佟某驾驶一辆大客车（乘载54人，核载55人)行至太原境内以45公里的时速通过一处泥泞路段时，机动车侧滑驶出路外坠入深沟，导致14人死亡、40人受伤。佟某的主要违法行为是什么？ | Tong drove a large bus (carrying 54 people, rated capacity 55 people). When passing a muddy road section at a speed of 45 kilometers per hour within the territory of Taiyuan, the motor vehicle skidded, drove off the road, and fell into a deep ditch, causing 14 deaths and 40 injuries. What was Tong's main illegal act? OPT A、客车超员; B、超速行驶; C、酒后驾驶; D、疲劳驾驶 | A. Bus overloading; B. Speeding; C. Driving after drinking alcohol; D. Fatigued driving
+0 options_en The option labels contain Chinese enumeration commas '、' instead of standard English punctuation. => A. Bus overloading; B. Speeding; C. Driving after drinking alcohol; D. Fatigued driving
+
+# trllm_subj4_9 Q 周某驾驶一辆轻型厢式货车（搭载22人）行驶至丙察公路79公里加150米处时，坠入道路一侧山崖，造成12人死亡、10人受伤。周某的主要违法行为是什么？ | Zhou drove a light box truck (carrying 22 people). When reaching kilometer 79 plus 150 meters of the Bingcha Highway, the vehicle fell into a mountain cliff on the side of the road, causing 12 deaths and 10 injuries. What was Zhou's main illegal act? OPT A、驾驶逾期未检验的机动车; B、货运机动车载客; C、超速行驶; D、疲劳驾驶 | A. Driving a motor vehicle that is overdue for inspection; B. Passengers carried in a freight motor vehicle; C. Speeding; D. Fatigued driving
+0 options_en The option labels contain Chinese enumeration commas '、' instead of standard English punctuation. => A. Driving a motor vehicle that is overdue for inspection; B. Passengers carried in a freight motor vehicle; C. Speeding; D. Fatigued driving
+
+# trllm_subj4_10 Q 叶某驾驶中型厢式货车，行至陂头镇上汶线3公里加600米弯道路段时，以40公里/小时的速度与王某驾驶的乘载19人正三轮载货摩托车发生正面相撞，造成10人死亡、9人受伤。双方驾驶人的主要违法行为是什么？ | Ye drove a medium box truck. When reaching the curved road section at kilometer 3 plus 600 meters of the Shangwen Line in Pitou Town, traveling at 40 kilometers per hour, it collided head-on with a three-wheeled freight motorcycle driven by Wang and carrying 19 people, causing 10 deaths and 9 injuries. What were the main illegal acts of both drivers? OPT A、叶某驾驶与准驾车型不符的机动车; B、王某驾驶摩托车非法载客; C、叶某超速行驶; D、王某不按信号灯指示行驶 | A. Ye drove a motor vehicle not matching the authorized vehicle type; B. Wang illegally carried passengers on a motorcycle; C. Ye was speeding; D. Wang did not drive according to traffic signal instructions
+0 options_en The option labels contain Chinese enumeration commas '、' instead of standard English punctuation. => A. Ye drove a motor vehicle not matching the authorized vehicle type; B. Wang illegally carried passengers on a motorcycle; C. Ye was speeding; D. Wang did not drive according to traffic signal instructions
+
+# trllm_subj4_11 Q 某日19时，杨某驾驶大客车，乘载57人（核载55人），连续行驶至次日凌晨1时,在金城江区境内050国道3008公里加110米处，因机动车左前胎爆裂，造成12人死亡、22人受伤的特大交通事故。杨某的主要违法行为是什么？ | At 19:00 one day, Yang drove a large bus, carrying 57 people (rated capacity 55 people), and drove continuously until 1:00 the next morning. At kilometer 3008 plus 110 meters of National Highway 050 within Jinchengjiang District, due to a burst left front tire of the motor vehicle, a major traffic accident occurred, causing 12 deaths and 22 injuries. What was Yang's main illegal act? OPT A、疲劳驾驶; B、客车超员; C、超速行驶; D、操作不当 | A、Fatigued driving; B、Bus overloading; C、Speeding; D、Improper operation
+0 options_en The Chinese enumeration marks (、) are retained in the English options instead of being removed or replaced with standard punctuation. => A、Fatigued driving; B、Bus overloading; C、Speeding; D、Improper operation
+
+# trllm_subj4_12 Q 唐某驾驶一辆大客车，乘载74人（核载30人），以每小时38公里的速度，行至一连续下陡坡转弯路段时，机动车翻入路侧溪水内，造成17人死亡、57人受伤。唐某的主要违法行为是什么？ | Tang drove a large bus, carrying 74 people (rated capacity 30 people), at a speed of 38 kilometers per hour. When reaching a continuous downhill slope and curve section, the motor vehicle rolled into a stream on the roadside, causing 17 deaths and 57 injuries. What was Tang's main illegal act? OPT A、酒后驾驶; B、客车超员; C、疲劳驾驶; D、超速行驶 | A、Driving after drinking alcohol; B、Bus overloading; C、Fatigued driving; D、Speeding
+0 options_en The Chinese enumeration marks (、) are retained in the English options instead of being removed or replaced with standard punctuation. => A、Driving after drinking alcohol; B、Bus overloading; C、Fatigued driving; D、Speeding
+
+# trllm_subj4_13 Q 吴某驾驶一辆大客车，乘载33人（核载22人），行至163县道7公里加300米处时，机动车失控坠入山沟，造成10人死亡、21人受伤。事后经酒精检测，吴某血液酒精含量为26毫克/百毫升。吴某的主要违法行为是什么？ | Wu drove a large bus, carrying 33 people (rated capacity 22 people). When reaching kilometer 7 plus 300 meters of County Road 163, the motor vehicle lost control and fell into a mountain ditch, causing 10 deaths and 21 injuries. After the accident, alcohol testing showed Wu's blood alcohol content was 26 milligrams per 100 milliliters. What was Wu's main illegal act? OPT A、超速行驶; B、客车超员; C、疲劳驾驶; D、酒后驾驶 | A、Speeding; B、Bus overloading; C、Fatigued driving; D、Driving after drinking alcohol
+0 options_en The Chinese enumeration marks (、) are retained in the English options instead of being removed or replaced with standard punctuation. => A、Speeding; B、Bus overloading; C、Fatigued driving; D、Driving after drinking alcohol
+
+# trllm_subj4_14 Q 钱某驾驶大型卧铺客车，乘载45人（核载40人），保持40公里/小时以上的车速行至八宿县境内连续下坡急转弯路段处，翻下100米深的山崖，造成17人死亡、20人受伤。钱某的主要违法行为是什么？ | Qian drove a large sleeper bus, carrying 45 people (rated capacity 40 people), maintaining a speed of over 40 kilometers per hour when reaching the continuous downhill sharp curve section within Baxoi County, and rolled down a 100-meter-deep mountain cliff, causing 17 deaths and 20 injuries. What was Qian's main illegal act? OPT A、驾驶时接听手持电话; B、超速行驶; C、客车超员; D、疲劳驾驶 | A、Answering a handheld phone while driving; B、Speeding; C、Bus overloading; D、Fatigued driving
+0 options_en The Chinese enumeration marks (、) are retained in the English options instead of being removed or replaced with standard punctuation. => A、Answering a handheld phone while driving; B、Speeding; C、Bus overloading; D、Fatigued driving
+
+# trllm_subj4_15 Q 某日3时40分，孙某驾驶大客车（乘载54人、核载55人）行至随岳高速公路229公里加300米处，在停车下客过程中，被后方驶来李某驾驶的重型半挂机动车追尾，造成26人死亡，29人受伤。事后查明，李某从昨日18时许出发，途中一直未休息。双方驾驶人的主要违法行为是什么？ | At 3:40 one day, Sun drove a large bus (carrying 54 people, rated capacity 55 people). When reaching kilometer 229 plus 300 meters of the Suiyue Expressway, while stopping to drop off passengers, it was rear-ended by a heavy semi-trailer motor vehicle driven by Li coming from behind, causing 26 deaths and 29 injuries. Investigation found that Li had departed at around 18:00 the previous day and had not rested during the journey. What were the main illegal acts of both drivers? OPT A、孙某违法停车; B、孙某客车超员; C、李某超速; D、李某疲劳驾驶 | A、Sun illegally parked; B、Sun's bus was overloaded; C、Li was speeding; D、Li was driving while fatigued
+0 options_en The Chinese enumeration marks (、) are retained in the English options instead of being removed or replaced with standard punctuation. => A、Sun illegally parked; B、Sun's bus was overloaded; C、Li was speeding; D、Li was driving while fatigued
+
+# trllm_subj4_16 Q 陶某驾驶中型客车（乘载33人），行至许平南高速公路163公里处时，以120公里/小时的速度与停在最内侧车道上安某驾驶的因事故无法移动的小客车（未设置警示标志）相撞，中型客车撞开右侧护栏侧翻，造成16死亡、15人受伤。双方驾驶人的主要违法行为是什么？ | Tao drove a medium-sized bus (carrying 33 people). When reaching kilometer 163 of the Xupingnan Expressway, traveling at 120 kilometers per hour, it collided with a small passenger car driven by An that was unable to move due to an accident and was stopped in the innermost lane (without setting up warning signs). The medium-sized bus knocked down the right guardrail and rolled over, causing 16 deaths and 15 injuries. What were the main illegal acts of both drivers? OPT A、陶某客车超员; B、陶某超速行驶; C、安某未按规定设置警示（告）标志; D、安某违法停车 | A、Tao's bus was overloaded; B、Tao was speeding; C、An did not set up warning signs as required; D、An illegally parked
+0 question_en The phrase "乘载33人" means carrying 33 people, not necessarily overloaded; translating it as "carrying 33 people" omits the implied violation context but is not itself inaccurate. However, option A states "Tao's bus was overloaded" which is an interpretation not explicitly present in the Chinese text "乘载33人". => Tao's bus carried 33 people
+1 option label The enumeration mark "、" after option letters is retained in English options; this is stylistic but inconsistent with standard English option formatting. => Remove the enumeration mark after option letters (e.g., "A. Tao's bus was overloaded")
+
+# trllm_subj4_17 Q 邹某驾驶大型卧铺客车（核载35人，实载47人），行至京港澳高速公路938公里时，因乘车人携带的大量危险化学品在车厢内突然发生爆燃，造成41人死亡，6人受伤。此事故中的主要违法行为是什么？ | Zou drove a large sleeper bus (rated capacity 35 people, actually carrying 47 people). When reaching kilometer 938 of the Beijing-Hong Kong-Macao Expressway, a large amount of hazardous chemicals carried by passengers suddenly exploded and burned inside the carriage, causing 41 deaths and 6 injuries. What was the main illegal act in this accident? OPT A、客车超员; B、乘车人携带易燃易爆危险物品; C、超速行驶; D、不按规定停车 | A、Bus overloading; B、Passengers carried flammable and explosive hazardous items; C、Speeding; D、Parking not in accordance with regulations
+0 option label The enumeration mark "、" after option letters is retained in English options. => Remove the enumeration mark after option letters
+
+# trllm_subj4_18 Q 杨某驾驶改装小型客车（核载9人，实载64人，其中62人为幼儿园学生），行至榆林子镇马槽沟村处，占用对向车道逆行时与一辆重型自卸货车正面碰撞，造成22人死亡、44人受伤。该起事故中的主要违法行为是什么？ | Yang drove a modified small passenger car (rated capacity 9 people, actually carrying 64 people, including 62 kindergarten students). When reaching Macaogou Village, Yulinzi Town, while occupying the opposite lane and driving against traffic, it collided head-on with a heavy dump truck, causing 22 deaths and 44 injuries. What were the main illegal acts in this accident? OPT A、货车超速行驶; B、非法改装机动车; C、客车超员; D、客车逆向行驶 | A、Truck speeding; B、Illegal modification of a motor vehicle; C、Bus overloading; D、Bus driving against traffic
+0 question_en "驾驶在逆行" was translated as "driving in reverse", which can mean backing up; the Chinese means driving against the direction of traffic (wrong-way driving). => while occupying the opposite lane and driving against traffic
+1 option D "客车逆向行驶" was translated as "Bus driving in reverse", which can mean backing up; it should mean wrong-way driving. => Bus driving against traffic
+2 option label The enumeration mark "、" after option letters is retained in English options. => Remove the enumeration mark after option letters
+
+# trllm_subj4_19 Q 戚某驾驶大客车，乘载28人（核载55人），由南向北行至一无交通信号控制的交叉路口，以50公里的时速与由东向西行至该路口李某驾驶的重型半挂牵引车（核载40吨，实载55.2吨）侧面相撞，造成12人死亡、17人受伤。此事故中的主要违法行为是什么？ | Qi drove a large bus, carrying 28 people (rated capacity 55 people), traveling from south to north. At an intersection without traffic signal control, traveling at 50 kilometers per hour, it collided side-on with a heavy semi-trailer tractor driven by Li traveling from east to west (rated load 40 tons, actually carrying 55.2 tons), causing 12 deaths and 17 injuries. What were the main illegal acts in this accident? OPT A、客车超员; B、客车超速行驶; C、货车超载; D、货车驾驶人经验不足 | A、Bus overloading; B、Bus speeding; C、Truck overloaded; D、Truck driver lacked experience
+0 question_en "乘载28人（核载55人）" was translated as "carrying 28 people (rated capacity 55 people)"; this is accurate but option A "Bus overloading" contradicts the facts (28 < 55), suggesting the source may intend "underloading" or there is an error in the source question; however, per instructions, do not correct legal facts. => No change required; translation is faithful to source text.
+1 option label The enumeration mark "、" after option letters is retained in English options. => Remove the enumeration mark after option letters
+
+# trllm_subj4_20 Q 彭某驾驶一辆重型半挂牵引车，载运37.7吨货物（核载25吨），行至大广高速公路一下坡路段，追尾碰撞一辆由李某驾驶在应急车道内行驶的重型自卸货车（货箱内装载3.17立方黄土并搭乘24人），造成16人死亡、13人受伤。此事故中的主要违法行为是什么？ | Peng drove a heavy semi-trailer tractor, carrying 37.7 tons of cargo (rated load 25 tons). When reaching a downhill section of the Daguang Expressway, it rear-ended a heavy dump truck driven by Li traveling in the emergency lane (the truck bed was loaded with 3.17 cubic meters of yellow earth and carried 24 people), causing 16 deaths and 13 injuries. What were the main illegal acts in this accident? OPT A、彭某超速行驶; B、彭某驾驶机动车超载; C、李某在应急车道内行驶; D、李某货车车厢内违法载人 | A、Peng was speeding; B、Peng drove an overloaded motor vehicle; C、Li drove in the emergency lane; D、Li illegally carried passengers in the truck bed
+0 question_en "载运37.7吨货物（核载25吨）" was translated as "carrying 37.7 tons of cargo (rated load 25 tons)"; this is accurate. => No change required.
+1 option label The enumeration mark "、" after option letters is retained in English options. => Remove the enumeration mark after option letters
+
+# trllm_subj4_21 Q 石某驾驶低速载货机动车，运载4.05吨货物（核载1.2吨），行驶至宁津县境内314省道51公里加260米处，在越过道路中心线超越前方同向行驶的机动车时，与对向正常行驶的中型客车（乘载12人，核载11人）正面相撞，造成10人死亡、2人受伤。此事故中的违法行为是什么？ | Shi was driving a low-speed cargo motor vehicle carrying 4.05 tons of cargo (rated load 1.2 tons). While traveling on Provincial Road 314 at kilometer 51 plus 260 meters in Ningjin County, he crossed the centerline to overtake a motor vehicle traveling in the same direction ahead and collided head-on with a medium-sized passenger bus (carrying 12 people, rated capacity 11 people) traveling normally in the opposite direction, causing 10 deaths and 2 injuries. What are the illegal acts in this accident? OPT A、货车超载; B、货车违法超车; C、客车超员; D、客车驾驶人疲劳驾驶 | A、The truck was overloaded; B、The truck overtaked illegally; C、The bus was overloaded; D、The bus driver was fatigued driving
+0 question_en The phrase "low-speed cargo motor vehicle" is ambiguous; the Chinese term "低速载货机动车" refers to a specific vehicle category (low-speed cargo vehicle), not merely a low-speed cargo motor vehicle. => Shi was driving a low-speed cargo vehicle carrying 4.05 tons of cargo (rated load 1.2 tons).
+1 option A The English option omits the enumeration mark "、" after "A", which is present in the Chinese source. => A、The truck was overloaded
+2 option B The English option omits the enumeration mark "、" after "B", which is present in the Chinese source. => B、The truck overtaked illegally
+3 option C The English option omits the enumeration mark "、" after "C", which is present in the Chinese source. => C、The bus was overloaded
+4 option D The English option omits the enumeration mark "、" after "D", which is present in the Chinese source. => D、The bus driver was fatigued driving
+
+# trllm_subj4_22 Q 贾某驾车在高速公路上行驶，遇到大雾，能见度小于50米， 贾某开启了雾灯、示廓灯、危险报警闪光灯，以时速40公里行驶，并与同车道保持50米距离，经过三个出口驶离高速公路。贾某的主要违法行为是什么？ | Jia was driving on a highway when encountering heavy fog with visibility less than 50 meters. Jia turned on the fog lights, position lights, and hazard warning flashers, traveled at 40 kilometers per hour, maintained a distance of 50 meters from the vehicle ahead in the same lane, and exited the highway after passing three exits. What was Jia's main illegal act? OPT A、未按规定开启相应的灯光; B、超速行驶; C、与同车道前车距离不足; D、未及时从最近的出口驶离高速公路 | A、Failure to turn on corresponding lights as required; B、Speeding; C、Insufficient distance from the vehicle ahead in the same lane; D、Failure to exit the highway from the nearest exit in time
+0 question_en The English translation omits the enumeration mark "、" after "Jia" in "Jia was driving...", which is present in the Chinese source. => Jia、was driving on a highway...
+1 option A The English option omits the enumeration mark "、" after "A", which is present in the Chinese source. => A、Failure to turn on corresponding lights as required
+2 option B The English option omits the enumeration mark "、" after "B", which is present in the Chinese source. => B、Speeding
+3 option C The English option omits the enumeration mark "、" after "C", which is present in the Chinese source. => C、Insufficient distance from the vehicle ahead in the same lane
+4 option D The English option omits the enumeration mark "、" after "D", which is present in the Chinese source. => D、Failure to exit the highway from the nearest exit in time
+
+# trllm_subj4_23 Q 某日夜间下雨，陈某驾驶小型汽车与李某（未系安全带）—同回家，当陈某以120公里／小时车速行驶至城市主干路（限速80公里／小时）的某—路段时，车辆突然发生侧滑，导致与道路左侧护栏相撞后翻车。陈某的主要违法行为是什么？ | One rainy night, Chen was driving a small car with Li (who was not wearing a seat belt) home. When Chen was driving at 120 kilometers per hour on a certain section of an urban arterial road (speed limit 80 kilometers per hour), the vehicle suddenly skidded, collided with the guardrail on the left side of the road, and rolled over. What was Chen's main illegal act? OPT A、超速行驶; B、操作不当; C、疲劳驾驶; D、未系安全带 | A、Speeding; B、Improper operation; C、Fatigued driving; D、Failure to wear a seat belt
+0 question_en The English translation omits the enumeration mark "、" after "Chen" in "Chen was driving...", which is present in the Chinese source. => Chen、was driving a small car...
+1 option A The English option omits the enumeration mark "、" after "A", which is present in the Chinese source. => A、Speeding
+2 option B The English option omits the enumeration mark "、" after "B", which is present in the Chinese source. => B、Improper operation
+3 option C The English option omits the enumeration mark "、" after "C", which is present in the Chinese source. => C、Fatigued driving
+4 option D The English option omits the enumeration mark "、" after "D", which is present in the Chinese source. => D、Failure to wear a seat belt
+
+# trllm_subj4_24 Q 某日刘某与朋友相约打麻将，—直到次日凌晨4时，然后驾驶小型汽车回家，刚开一会儿就感觉头脑发沉，但因离家也就十分钟的路程了，刘某坚持继续驾驶。当车辆行驶至接近某路口时，刘某的车与前方一辆正常行驶的出租车相撞，造成两车损坏。此事故中的违法行为是什么？ | One day, Liu made an appointment with friends to play mahjong until 4 a.m. the next day, then drove a small car home. Shortly after starting, he felt dizzy, but since home was only ten minutes away, Liu insisted on continuing to drive. When the vehicle approached an intersection, Liu's car collided with a taxi traveling normally ahead, causing damage to both vehicles. What are the illegal acts in this accident? OPT A、刘某疲劳驾驶; B、出租车未及时避让; C、刘某超载驾驶; D、出租车未按交通信号灯行驶 | A、Liu was fatigued driving; B、The taxi failed to avoid in time; C、Liu was overloaded driving; D、The taxi did not drive according to traffic signals
+0 question_en The English translation omits the enumeration mark "、" after "Liu" in "Liu made an appointment...", which is present in the Chinese source. => Liu、made an appointment with friends...
+1 option A The English option omits the enumeration mark "、" after "A", which is present in the Chinese source. => A、Liu was fatigued driving
+2 option B The English option omits the enumeration mark "、" after "B", which is present in the Chinese source. => B、The taxi failed to avoid in time
+3 option C The English option omits the enumeration mark "、" after "C", which is present in the Chinese source. => C、Liu was overloaded driving
+4 option D The English option omits the enumeration mark "、" after "D", which is present in the Chinese source. => D、The taxi did not drive according to traffic signals
+
+# trllm_subj4_25 Q 魏某（驾驶证被扣留）驾驶小型客车（逾期未检验）沿某国道行驶至某处时跨双黄实线掉头，与对向车道于某驾驶的重型自卸货车相撞，造成5人死亡、2人受伤。事故发生后魏某驾车逃离事故现场。造成本起事故的直接原因是什么？ | Wei (whose driver's license was detained) drove a small passenger car (overdue for inspection) along a national highway. When crossing double solid yellow lines to make a U-turn at a certain location, he collided with a heavy dump truck driven by Yu in the opposite lane, causing 5 deaths and 2 injuries. After the accident, Wei drove away from the scene. What was the direct cause of this accident? OPT A、魏某驾驶机动车时跨双黄实线掉头; B、魏某在驾驶证被扣留期间驾驶机动车; C、魏某驾驶逾期未检验的机动车; D、于某超速行驶 | A、Wei crossed double solid yellow lines to make a U-turn while driving a motor vehicle; B、Wei drove a motor vehicle while his driver's license was detained; C、Wei drove a motor vehicle overdue for inspection; D、Yu was speeding
+0 question_en The English translation omits the enumeration mark "、" after "Wei" in "Wei (whose driver's license was detained)...", which is present in the Chinese source. => Wei、(whose driver's license was detained) drove a small passenger car...
+1 option A The English option omits the enumeration mark "、" after "A", which is present in the Chinese source. => A、Wei crossed double solid yellow lines to make a U-turn while driving a motor vehicle
+2 option B The English option omits the enumeration mark "、" after "B", which is present in the Chinese source. => B、Wei drove a motor vehicle while his driver's license was detained
+3 option C The English option omits the enumeration mark "、" after "C", which is present in the Chinese source. => C、Wei drove a motor vehicle overdue for inspection
+4 option D The English option omits the enumeration mark "、" after "D", which is present in the Chinese source. => D、Yu was speeding
+
+# trllm_subj4_26 Q 陈某驾驶小型普通客车行驶至某县道转弯路段时，在结冰湿滑路面上以63km/ h的速度超越前方袁某驾驶的小型面包车（行驶速度28km/ h)时两车刮撩后坠翻， 造成6人死亡、1人受伤。本起事故驾驶人的违法行为是陈某超速行驶和违法超车。 | Chen was driving a small ordinary passenger car to a curved section of a county road. On an icy and slippery road surface, he drove at 63 km/h to overtake a small van driven by Yuan ahead (traveling at 28 km/h). The two vehicles scraped and overturned, causing 6 deaths and 1 injury. The illegal acts of the driver in this accident were Chen's speeding and illegal overtaking. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the final sentence present in the Chinese source: "本起事故驾驶人的违法行为是陈某超速行驶和违法超车。" => Add: "The illegal acts of the driver in this accident were Chen's speeding and illegal overtaking."
+
+# trllm_subj4_29 Q 69、驾驶机动车汇入车流时不能影响其他机动车通行。 | When driving a motor vehicle to merge into traffic, it must not affect the passage of other motor vehicles. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation retains the Chinese question number "69、" which is not part of the question text. => Remove "69、" from the English question.
+
+# trllm_subj4_31 Q 驾驶汽车从支线道路怎样安全汇入主干道车流？ | How can a driver safely merge into the main road traffic flow from a branch road? OPT A、提前开启左转向灯; B、仔细观察主干道内情况; C、确认安全后汇入车流; D、加速直接汇入车流 | A、Turn on the left turn signal in advance; B、Carefully observe the conditions in the main road; C、Merge into the traffic flow after confirming safety; D、Accelerate and merge directly into the traffic flow
+0 option label A The English translation omits the Chinese enumeration comma '、' after the option label 'A'. => A、Turn on the left turn signal in advance
+1 option label B The English translation omits the Chinese enumeration comma '、' after the option label 'B'. => B、Carefully observe the conditions in the main road
+2 option label C The English translation omits the Chinese enumeration comma '、' after the option label 'C'. => C、Merge into the traffic flow after confirming safety
+3 option label D The English translation omits the Chinese enumeration comma '、' after the option label 'D'. => D、Accelerate and merge directly into the traffic flow
+
+# trllm_subj4_32 Q 驾乘人员下车时要怎样做以保证安全？ | How should drivers and passengers act when getting out of the car to ensure safety? OPT A、停车后立即开门下车; B、观察前方交通情况; C、先开车门再观察侧后情况; D、先观察侧后情况，再缓开车门 | A、Open the door and get out immediately after stopping; B、Observe the traffic conditions ahead; C、Open the door first, then observe the side and rear conditions; D、Observe the side and rear conditions first, then slowly open the door
+0 option label A The English translation omits the Chinese enumeration comma '、' after the option label 'A'. => A、Open the door and get out immediately after stopping
+1 option label B The English translation omits the Chinese enumeration comma '、' after the option label 'B'. => B、Observe the traffic conditions ahead
+2 option label C The English translation omits the Chinese enumeration comma '、' after the option label 'C'. => C、Open the door first, then observe the side and rear conditions
+3 option label D The English translation omits the Chinese enumeration comma '、' after the option label 'D'. => D、Observe the side and rear conditions first, then slowly open the door
+
+# trllm_subj4_33 Q 在行驶中，驾驶人在注意与前车保持安全距离的同时，也要谨慎制动，防止被后车追尾。 | While driving, the driver should pay attention to maintaining a safe distance from the vehicle ahead, and also brake cautiously to prevent being rear-ended by the vehicle behind. OPT A、正确; B、错误 | A、True; B、False
+0 option label A The English translation omits the Chinese enumeration comma '、' after the option label 'A'. => A、True
+1 option label B The English translation omits the Chinese enumeration comma '、' after the option label 'B'. => B、False
+
+# trllm_subj4_34 Q 在道路上跟车行驶时，跟车距离不是主要的，只须保持与前车相等的速度，即可防止发生追尾事故。 | When following a vehicle on the road, the following distance is not important; as long as the speed is kept equal to the vehicle ahead, rear-end collisions can be prevented. OPT A、正确; B、错误 | A、True; B、False
+0 option label A The English translation omits the Chinese enumeration comma '、' after the option label 'A'. => A、True
+1 option label B The English translation omits the Chinese enumeration comma '、' after the option label 'B'. => B、False
+
+# trllm_subj4_35 Q 在道路上行车时，安全跟车距离无需随着速度变化而变化。 | When driving on the road, the safe following distance does not need to change with speed. OPT A、正确; B、错误 | A、True; B、False
+0 option label A The English translation omits the Chinese enumeration comma '、' after the option label 'A'. => A、True
+1 option label B The English translation omits the Chinese enumeration comma '、' after the option label 'B'. => B、False
+
+# trllm_subj4_36 Q 在道路上怎样安全跟车行驶？ | How to safely follow a vehicle on the road? OPT A、注意观察前车动态; B、随时做好减速准备; C、尽量靠路左侧行驶; D、保持安全距离 | A、Pay attention to observe the dynamics of the vehicle ahead; B、Be ready to slow down at any time; C、Try to drive on the left side of the road; D、Maintain a safe distance
+0 option C The English translation omits the Chinese word "尽量" (try to / as much as possible). => C、Try to drive on the left side of the road
+
+# trllm_subj4_37 Q 驾驶机动车在居民小区遇到这种情形要紧跟其后行驶。 | When driving a motor vehicle in a residential area and encountering this situation, follow closely behind it. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese phrase "这种情形" (this situation / such a situation), which refers to an image not provided in the input. => When driving a motor vehicle in a residential area and encountering this situation, follow closely behind it.
+
+# trllm_subj4_38 Q 驾驶机动车在小区内遇到这样的情况要在自行车前加速通过。 | When driving a motor vehicle in a residential area and encountering this situation, accelerate to pass in front of the bicycle. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese phrase "这样的情况" (this situation / such a situation), which refers to an image not provided in the input. => When driving a motor vehicle in a residential area and encountering this situation, accelerate to pass in front of the bicycle.
+
+# trllm_subj4_46 Q 驾驶机动车驶离停车场进入主路时，驾驶人应当鸣喇叭示意主路车辆让行。 | When driving a motor vehicle out of a parking lot onto a main road, the driver should honk the horn to indicate that vehicles on the main road should yield. OPT A、正确; B、错误 | A: True; B: False
+0 question_en The English translation omits the Chinese modal verb 应当 (should), changing the statement from a normative requirement to a descriptive suggestion. => When driving a motor vehicle out of a parking lot onto a main road, the driver should honk the horn to indicate that vehicles on the main road should yield.
+
+# trllm_subj4_64 Q 行车中遇儿童时，应怎样做？ | When encountering children while driving, what should be done? OPT A、减速慢行，必要时停车避让; B、长鸣喇叭催促; C、迅速从—侧通过; D、加速绕行 | A、Slow down and drive slowly, stopping to yield if necessary; B、Sound the horn for a long time to urge them; C、Quickly pass from one side; D、Accelerate to detour
+0 option C The English translation omits the Chinese em dash '—' present in '从—侧', though this is a minor typographical artifact rather than a meaning change. => Quickly pass from one side
+
+# trllm_subj4_71 Q 车辆在路边起步后应尽快提速， 并向左迅速转向驶入正常行驶道路。 | After starting from the roadside, the vehicle should accelerate as soon as possible and turn left quickly to enter the normal driving road. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the comma after "起步后" and renders "尽快" as "as soon as possible" rather than "as quickly as possible", but these are minor stylistic differences. No material discrepancy found. => 
+
+# trllm_subj4_73 Q 行车中，发现行人突然横过道路时，应迅速减速避让。 | While driving, if a pedestrian suddenly crosses the road, slow down and yield quickly. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the comma after "行车中" and renders "迅速减速避让" as "slow down and yield quickly" rather than "quickly slow down and yield", but these are minor stylistic differences. No material discrepancy found. => 
+
+# trllm_subj4_75 Q 行车中遇残疾人影响通行时， 应主动减速礼让。 | When encountering a person with a disability affecting traffic while driving, actively slow down and yield. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the comma after "遇残疾人影响通行时" and renders "主动减速礼让" as "actively slow down and yield" rather than "actively slow down and give way", but these are minor stylistic differences. No material discrepancy found. => 
+
+# trllm_subj4_76 Q 行车中前方遇自行车影响通行时，可鸣喇叭提示，加速绕行。 | When encountering a bicycle affecting traffic ahead while driving, the horn may be used to remind and accelerate to detour. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese modal particle “可” (may/allowed to), which changes the statement from a permission into an unqualified instruction. => When encountering a bicycle affecting traffic ahead while driving, the horn may be used to remind and accelerate to detour.
+
+# trllm_subj4_86 Q 行车中要文明驾驶，礼让行车，做到不开英雄车、冒险车、赌气车和带病车。 | While driving, drive courteously and yield to other vehicles, avoiding show-off driving, reckless driving, spiteful driving, and driving a vehicle with defects. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The phrase "hero cars, risky cars, spite cars" is a literal translation of Chinese idioms and may not convey the intended meaning in English. => While driving, drive courteously and yield to other vehicles, avoiding show-off driving, reckless driving, spiteful driving, and driving a vehicle with defects.
+
+# trllm_subj4_89 Q 在堵车的交叉路口绿灯亮时， 车辆应怎样做？ | When the green light is on at a congested intersection, what should vehicles do? OPT A、可直接驶入交叉路口; B、不能驶入交叉路口; C、可借对向车道通过路口; D、在保证安全的情况下驶入交叉路口 | A、Directly enter the intersection; B、Must not enter the intersection; C、Use the opposite lane to pass through the intersection; D、Enter the intersection when safety is ensured
+0 option_en D The translation omits the condition "when the green light is on" present in the Chinese option. => Enter the intersection when safety is ensured even if the green light is on
+
+# trllm_subj4_97 Q 汽车各轮胎气压不—致时， 容易造成的后果是什么？ | When the tire pressures of all wheels of a car are inconsistent, what consequences are likely to occur? OPT A、加剧轮胎磨损; B、操纵失控; C、汽车行驶油耗增大; D、爆胎 | A、Aggravate tire wear; B、Loss of control; C、Increased fuel consumption; D、Tire blowout
+0 question_en The Chinese question contains a typographical space in "不—致" (inconsistent), but the English translation renders it cleanly as "inconsistent". => When the tire pressures of all wheels of a car are inconsistent, what consequences are likely to occur?
+
+# trllm_subj4_101 Q 雨天行车，遇撑雨伞和穿雨衣的行人在公路上行走时，应怎样做？ | When driving in rainy weather, what should you do when encountering pedestrians holding umbrellas or wearing raincoats walking on the road? OPT A、持续鸣喇叭示意其让道; B、加速绕行; C、提前鸣喇叭，并适当降低车速; D、以正常速度行驶 | A、Continuously honk the horn to signal them to give way; B、Accelerate to go around; C、Honk the horn in advance and appropriately reduce speed; D、Drive at normal speed
+0 question_en The English translation omits "公路" (highway/public road). => When driving in rainy weather, what should you do when encountering pedestrians holding umbrellas or wearing raincoats walking on the highway?
+
+# trllm_subj4_103 Q 夜间路边临时停车，以下做法错误的是什么？ | When temporarily parking by the roadside at night, which of the following practices is incorrect? OPT A、开危险报警闪光灯; B、不开启灯光; C、开启示廓灯、后位灯; D、开远光灯 | A、Turn on the hazard warning flashers; B、Do not turn on any lights; C、Turn on the clearance lights and rear position lights; D、Turn on the high beams
+0 option C The English translation omits "示廓灯" (clearance lights) and "后位灯" (rear position lights) are partially translated; "示廓灯" is missing. => Turn on the clearance lights and rear position lights
+
+# trllm_subj4_106 Q 驾驶车辆行至道路急转弯处，应怎样做？ | When driving a vehicle to a sharp turn on the road, what should you do? OPT A、急剧制动低速通过; B、靠弯道外侧行驶; C、充分减速并靠右侧行驶; D、借对向车道行驶 | A、Brake sharply and pass at low speed; B、Drive on the outside of the curve; C、Fully slow down and drive on the right side; D、Use the opposite lane
+0 options_en A The English translation omits the Chinese enumeration comma '、' after the option label 'A', while other options include it. => A、Brake sharply and pass at low speed
+1 options_en B The English translation omits the Chinese enumeration comma '、' after the option label 'B', while other options include it. => B、Drive on the outside of the curve
+2 options_en C The English translation omits the Chinese enumeration comma '、' after the option label 'C', while other options include it. => C、Fully slow down and drive on the right side
+3 options_en D The English translation omits the Chinese enumeration comma '、' after the option label 'D', while other options include it. => D、Use the opposite lane
+
+# trllm_subj4_108 Q 机动车停车的错误做法是什么？ | What is an incorrect practice for parking a motor vehicle? OPT A、应当在规定地点停放 ; B、禁止在人行道上停放; C、在道路上临时停车时，不得妨碍其他机机动车和行人通行; D、可以停放在非机动车道上 | A、Park in designated locations; B、Prohibit parking on sidewalks; C、When temporarily parking on the road, do not obstruct the passage of other motor vehicles and pedestrians; D、May park in non-motor vehicle lanes
+0 options_en C The English translation contains a typographical error 'motor vehicles and' instead of the intended 'motor vehicles and' (the source Chinese has a duplicated character '机机动车', but the English should reflect standard phrasing without introducing a new typo unless mirroring the error; here it reads as a typo). => When temporarily parking on the road, do not obstruct the passage of other motor vehicles and pedestrians
+1 options_en A, B, C, D The English translations omit the Chinese enumeration comma '、' after each option label, while the source Chinese includes it. => A、Park in designated locations; B、Prohibit parking on sidewalks; C、When temporarily parking on the road, do not obstruct the passage of other motor vehicles and pedestrians; D、May park in non-motor vehicle lanes
+
+# trllm_subj4_109 Q 驾驶人下车前要观察后视镜和侧头观察左后侧情况。 | Before getting out of the vehicle, the driver should observe the rearview mirror and turn their head to check the left rear situation. OPT A、正确; B、错误 | A、True; B、False
+0 options_en A, B The English translations omit the Chinese enumeration comma '、' after each option label, while the source Chinese includes it. => A、True; B、False
+
+# trllm_subj4_110 Q 在道路上停车时要尽量避开坡道、积水、结冰或松软路面。 | When parking on the road, try to avoid slopes, standing water, icy or soft road surfaces. OPT A、正确; B、错误 | A、True; B、False
+0 options_en A, B The English translations omit the Chinese enumeration comma '、' after each option label, while the source Chinese includes it. => A、True; B、False
+
+# trllm_subj4_111 Q 驾驶人在下车前应注意什么？ | What should the driver pay attention to before getting out of the vehicle? OPT A、车门开的幅度不要过大; B、开门下车动作要迅速; C、仔细观察左后方情况; D、开车门的动作要缓慢 | A、The opening width of the door should not be too large; B、The action of opening the door and getting out should be quick; C、Carefully observe the situation to the left rear; D、The action of opening the car door should be slow
+0 option C The English translation omits the word "left" (左) present in the Chinese source. => Carefully observe the situation to the left rear
+
+# trllm_subj4_113 Q 关于停车，以下做法错误的是什么? | Regarding parking, which of the following practices is incorrect? OPT A：在交叉路口停车; B：在铁路道口停车; C：在山区易落石路段停车; D：在停车场停车 | A：Park at an intersection; B：Park at a railway crossing; C、Park on a mountain road section prone to falling rocks; D、Park in a parking lot
+0 option C The punctuation label is inconsistent: the English uses a Chinese enumeration comma (、) instead of a colon (:) like the other options. => C：Park on a mountain road section prone to falling rocks
+
+# trllm_subj4_114 Q 关于停车，以下说法正确的是什么? | Regarding parking, which of the following statements is correct? OPT A：应靠道路右侧; B：开关车门不得妨碍其他车辆和行人通行; C：交叉路口50米以内不得停车; D：开左转向灯 | A：Park close to the right side of the road; B、Opening and closing doors must not obstruct the passage of other vehicles and pedestrians; C、Parking is not allowed within 50 meters of an intersection; D、Turn on the left turn signal
+0 option B The punctuation label is inconsistent: the English uses a Chinese enumeration comma (、) instead of a colon (:) like the other options. => B：Opening and closing doors must not obstruct the passage of other vehicles and pedestrians
+
+# trllm_subj4_116 Q 应该选择什么地点停车? | What location should be chosen for parking? OPT A：停车场; B：道路施划的停车泊位内; C：人行横道; D：施工路段 | A：Parking lot; B、Within parking spaces marked on the road; C、Pedestrian crosswalk; D、Construction section
+0 options_en B Option label punctuation differs from the source: source uses 'B：', translation uses 'B、'. => B：Within parking spaces marked on the road
+1 options_en C Option label punctuation differs from the source: source uses 'C：', translation uses 'C、'. => C：Pedestrian crosswalk
+2 options_en D Option label punctuation differs from the source: source uses 'D：', translation uses 'D、'. => D：Construction section
+
+# trllm_subj4_117 Q 以下什么地点不能停车? | Which of the following locations cannot be used for parking? OPT A：人行横道; B：停车场; C：山区容易塌方、泥石流路段; D：道路施划的停车泊位内 | A：Pedestrian crosswalk; B、Parking lot; C、Mountain road sections prone to landslides or mudslides; D、Within parking spaces marked on the road
+0 options_en A Option label punctuation differs from the source: source uses 'A：', translation uses 'A：' (matches), but options B, C, D use '、' instead of '：'. => A：Pedestrian crosswalk
+1 options_en B Option label punctuation differs from the source: source uses 'B：', translation uses 'B、'. => B：Parking lot
+2 options_en C Option label punctuation differs from the source: source uses 'C：', translation uses 'C、'. => C：Mountain road sections prone to landslides or mudslides
+3 options_en D Option label punctuation differs from the source: source uses 'D：', translation uses 'D、'. => D：Within parking spaces marked on the road
+
+# trllm_subj4_118 Q 停车时，以下做法正确的是什么? | When parking, which of the following practices is correct? OPT A：按顺行方向停放; B：车身不得超出停车泊位; C：关闭电路; D：锁好车门 | A：Park in the direction of travel; B、The vehicle body must not extend beyond the parking space; C、Turn off the circuit; D、Lock the doors
+0 options_en B Option label punctuation differs from the source: source uses 'B：', translation uses 'B、'. => B：The vehicle body must not extend beyond the parking space
+1 options_en C Option label punctuation differs from the source: source uses 'C：', translation uses 'C、'. => C：Turn off the circuit
+2 options_en D Option label punctuation differs from the source: source uses 'D：', translation uses 'D、'. => D：Lock the doors
+
+# trllm_subj4_121 Q 动车可以在人行横道上临时停放，但不得长时间停放。 | Motor vehicles may temporarily stop on a crosswalk, but must not stop for a long time. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the subject "机动车" (motor vehicles) and changes "人行横道" to "crosswalk". => Motor vehicles may temporarily stop on a pedestrian crossing, but must not stop for a long time.
+
+# trllm_subj4_122 Q 社会车辆可以在出租车停车位临时停车。 | Private vehicles may temporarily park in taxi parking spaces. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation changes "社会车辆" to "Private vehicles". => Social vehicles may temporarily park in taxi parking spaces.
+
+# trllm_subj4_123 Q 临时停车，要注意什么？ | When temporarily stopping, what should be noted? OPT A、紧靠道路右侧; B、开关车门不得妨碍其他车辆和行人通行; C、交叉路口50米以内不得停车; D、开左转向灯 | A、Keep close to the right side of the road; B、Opening and closing doors must not obstruct other vehicles and pedestrians; C、Do not park within 50 meters of an intersection; D、Turn on the left turn signal
+0 option C The English translation changes "不得停车" (must not park) to "Do not park". => Must not park within 50 meters of an intersection
+
+# trllm_subj4_125 Q 机动车在道路边临时停车时，应怎样做？ | When a motor vehicle temporarily stops by the roadside, what should be done? OPT A、不得逆向或并列停放; B、只要出去方便，可随意停放; C、可逆向停放; D、可并列停放 | A、Must not park in reverse or side by side; B、May park anywhere as long as it is convenient to leave; C、May park in reverse; D、May park side by side
+0 option B The English translation contains untranslated Chinese characters "随意". => May park随意 as long as it is convenient to leave
+
+# trllm_subj4_131 Q 车辆涉水后，应保持低速行驶，怎样操作制动踏板，以恢复制动效果？ | After a vehicle drives through water, it should maintain low speed. How should the brake pedal be operated to restore braking effect? OPT A、持续重踏; B、间断重踏; C、持续轻踏; D、间断轻踏 | A、Continuously press hard; B、Intermittently press hard; C、Continuously press lightly; D、Intermittently press lightly
+0 options_en Options A and B say "press hard" but the Chinese says "重踏" which means press heavily/depress heavily; "press hard" is acceptable but could be clearer as "depress heavily". Options C and D say "press lightly" but the Chinese says "轻踏" which means press lightly/depress lightly; acceptable. No material discrepancy found. => No change required.
+
+# trllm_subj4_142 Q 进入左侧道路超车，无法保证与正常行驶前车的横向安全间距时，应怎样做？ | When entering the left lane to overtake, if you cannot ensure a safe lateral distance from the vehicle ahead traveling normally, what should you do? OPT A、谨慎超越; B、放弃超车; C、并行—段距离后再超越; D、加速超越 | A. Overtake cautiously; B. Give up overtaking; C. Drive alongside for a distance before overtaking; D. Accelerate to overtake
+0 options_en Option labels use Chinese enumeration commas (、) instead of English periods (.) as in the source. => A. Overtake cautiously; B. Give up overtaking; C. Drive alongside for a distance before overtaking; D. Accelerate to overtake
+
+# trllm_subj4_143 Q 驾驶的车辆正在被其他车辆超越时，应怎样做？ | When your vehicle is being overtaken by another vehicle, what should you do? OPT A、靠道路中心行驶; B、加速让路; C、继续加速行驶; D、减速，靠右侧行驶 | A. Drive near the center of the road; B. Accelerate to give way; C. Continue accelerating; D. Slow down and drive on the right side
+0 options_en Option labels use Chinese enumeration commas (、) instead of English periods (.) as in the source. => A. Drive near the center of the road; B. Accelerate to give way; C. Continue accelerating; D. Slow down and drive on the right side
+
+# trllm_subj4_144 Q 遇后车发出超车信号后，只要具备让超条件应怎样做？ | After the vehicle behind signals to overtake, if conditions permit yielding, what should you do? OPT A、靠道路右侧加速行驶; B、主动减速并靠右侧行驶; C、让出适当空间加速行驶; D、迅速减速或紧急制动 | A. Accelerate while driving on the right side of the road; B. Actively slow down and drive on the right side; C. Yield appropriate space and accelerate; D. Slow down rapidly or brake suddenly
+0 options_en Option labels use Chinese enumeration commas (、) instead of English periods (.) as in the source. => A. Accelerate while driving on the right side of the road; B. Actively slow down and drive on the right side; C. Yield appropriate space and accelerate; D. Slow down rapidly or brake suddenly
+
+# trllm_subj4_151 Q 驾驶人在超车时，前方车辆不减速、不让道，应怎样做？ | When overtaking, if the vehicle ahead does not slow down or yield, what should the driver do? OPT A、连续鸣喇叭加速超越; B、加速继续超越; C、停止继续超车; D、紧跟其后，伺机再超 | A、Continuously honk and accelerate to overtake; B、Accelerate and continue overtaking; C、Stop continuing to overtake; D、Follow closely and wait for an opportunity to overtake again
+0 options_en C The English translation omits the Chinese word "继续" (continue), changing the meaning from "stop continuing to overtake" to simply "stop overtaking". => C、Stop continuing to overtake
+
+# trllm_subj4_155 Q 驾驶车辆在交叉路口前变更车道时，应怎样驶入要变更的车道？ | When changing lanes before an intersection, how should you enter the lane to be changed into? OPT A、在路口前实线区内根据需要; B、进入路口实线区内; C、在虚线区按导向箭头指示; D、在路口停止线前 | A、Enter as needed within the solid line area before the intersection; B、Enter within the solid line area after entering the intersection; C、Enter within the dashed line area according to the guide arrows; D、Enter before the intersection stop line
+0 options_en A The English translation omits "实线区" (solid line area), changing "within the solid line area before the intersection" to "within the area before the intersection". => A、Enter as needed within the solid line area before the intersection
+1 options_en B The English translation omits "实线区" (solid line area), changing "within the solid line area after entering the intersection" to "within the area after entering the intersection". => B、Enter within the solid line area after entering the intersection
+
+# trllm_subj4_161 Q 驾驶人在观察后方无来车的情况下，未开转向灯就变更车道也是合理的。 | If a driver observes that there are no vehicles approaching from behind, it is reasonable to change lanes without turning on the turn signal. OPT A：正确; B：错误 | A: True; B: False
+0 question_en The English translation omits the Chinese phrase "在观察后方无来车的情况下" (under the condition of observing no vehicles coming from behind), which is a material condition in the original statement. => If a driver observes that there are no vehicles approaching from behind, it is reasonable to change lanes without turning on the turn signal.
+
+# trllm_subj4_176 Q 驾驶人行车中看到注意儿童标志的时候，应怎样做？ | When seeing a caution children sign while driving, what should be done? OPT A、加速行驶; B、绕道行驶; C、保持正常车速行驶; D、谨慎选择行车速度 | A、Accelerate; B、Take a detour; C、Continue at normal speed; D、Carefully choose driving speed
+0 option D The English translation "Carefully choose driving speed" is ambiguous and does not fully convey the required cautious action. => Drive at a cautious speed
+
+# trllm_subj4_177 Q 驾驶机动车在居民小区遇到这种情形要连续鸣喇叭。 | When driving a motor vehicle in a residential area and encountering this situation, the horn should be honked continuously. OPT A：正确; B：错误 | A: True; B: False
+0 question_en The phrase "encountering this situation" refers to an image that is not provided in the input; the English translation faithfully reflects the Chinese text but the meaning depends on missing visual context. => No correction possible without the image; retain translation as is.
+
+# trllm_subj4_181 Q 机动车在狭窄的坡路会车时，正确的会车方法是什么？ | When motor vehicles meet on a narrow slope, what is the correct method for meeting? OPT A、下坡车让上坡车; B、坡顶交会时距离坡顶远的一方让行; C、上坡车让下坡车; D、下坡车已行至中途而上坡车未上坡时，让上坡车 | A、The downhill vehicle yields to the uphill vehicle; B、When meeting at the top of the slope, the party farther from the top yields; C、The uphill vehicle yields to the downhill vehicle; D、If the downhill vehicle has already reached the middle while the uphill vehicle has not yet gone uphill, yield to the uphill vehicle
+0 options_en Option D translation omits the Chinese word "坡" (slope/hill) after "未上坡", changing "has not yet gone uphill onto the slope" to "has not yet gone uphill". => D、If the downhill vehicle has already reached the middle while the uphill vehicle has not yet gone up the slope, yield to the uphill vehicle
+
+# trllm_subj4_187 Q 驶入高速公路减速车道后，应关闭转向灯，注意观察限速标志，进入匝道之前将车速降到多少以下？ | After entering the deceleration lane of an expressway, turn off the turn signal, pay attention to speed limit signs, and reduce speed to below what before entering the ramp? OPT A、每小时40公里; B、每小时80公里; C、每小时60公里; D、标志规定车速 | A、40 kilometers per hour; B、80 kilometers per hour; C、60 kilometers per hour; D、The speed indicated by the sign
+0 question_en The English translation omits the Chinese phrase "注意观察限速标志" (pay attention to speed limit signs). => After entering the deceleration lane of an expressway, turn off the turn signal, pay attention to speed limit signs, and reduce speed to below what before entering the ramp?
+
+# trllm_subj4_191 Q 机动车在高速公路行驶，下列做法正确的是？ | When driving a motor vehicle on an expressway, which of the following practices is correct? OPT A、非紧急情况时不得在应急车道行驶或者停车; B、可在减速车道或加速车道上超车、停车; C、可在紧急停车带停车装卸货物; D、可在路肩停车上下人员 | A、Except in emergencies, do not drive or park in the emergency lane; B、May overtake or park on the deceleration lane or acceleration lane; C、May stop in the emergency parking strip to load or unload cargo; D、May park on the shoulder to load or unload passengers
+0 options_en A The English translation omits the Chinese word "紧急" (emergency) before "情况", changing "non-emergency situations" to "Except in emergencies". => A、Except in emergency situations, do not drive or park in the emergency lane
+1 options_en B The English translation omits "可" (may) before "在减速车道或加速车道上超车、停车", weakening the permission implied in the original. => B、May overtake or park on the deceleration lane or acceleration lane
+2 options_en C The English translation omits "可" (may) before "在紧急停车带停车装卸货物", weakening the permission implied in the original. => C、May stop in the emergency parking strip to load or unload cargo
+3 options_en D The English translation omits "可" (may) before "在路肩停车上下人员", weakening the permission implied in the original. => D、May park on the shoulder to load or unload passengers
+
+# trllm_subj4_192 Q 车辆通过凹凸路面时，应怎样做？ | When a vehicle passes over an uneven road surface, what should be done? OPT A、依靠惯性加速冲过; B、挂空挡滑行驶过; C、保持原速通过; D、低速缓慢平稳通过 | A、Rely on inertia to accelerate through; B、Coast in neutral gear through; C、Maintain original speed through; D、Pass slowly and smoothly at low speed
+0 options_en A The English translation omits "依靠惯性" (rely on inertia), changing the meaning from relying on inertia to accelerate to simply accelerating. => A、Rely on inertia to accelerate through
+1 options_en C The English translation omits "保持" (maintain), changing "maintain original speed" to "original speed". => C、Maintain original speed through
+
+# trllm_subj4_211 Q 驾驶机动车遇到沙尘、冰雹、雾、雨、雪等低能见度条件时，应该怎样做？ | When driving a motor vehicle and encountering low-visibility conditions such as sandstorms, hail, fog, rain, or snow, what should be done? OPT A、开启前照灯、示廓灯和后位灯; B、高频率鸣喇叭使其他交通参与者知道自己的位置; C、同向跟车较近时，应使用远光灯; D、适当提高车速，尽快到达目的地，结束行车 | A、Turn on headlights, clearance lights, and rear position lights; B、Honk the horn frequently to let other road users know one's position; C、When following another vehicle closely in the same direction, use high beams; D、Appropriately increase speed to reach the destination as soon as possible and end the trip
+0 option C The English translation omits the negation word "不" (not). The Chinese option states "不应使用远光灯" (should not use high beams), while the English states "use high beams". => C、When following another vehicle closely in the same direction, do not use high beams
+
+# trllm_subj4_221 Q 驾驶机动车的驾驶人不需要系安全带。 | Drivers of motor vehicles do not need to wear seat belts. OPT A：正确; B：错误 | A: True; B: False
+0 question_en The English translation omits "motor vehicle" (机动车) and changes "drivers" to "Drivers". => Drivers of motor vehicles do not need to wear seat belts.
+1 options_en The English option labels use "True/False" instead of "正确/错误" (Correct/Incorrect). => A: Correct; B: Incorrect
+
+# trllm_subj4_222 Q 安装防抱死制动装置（ABS）的机动车紧急制动时，可用力踏制动踏板。 | When a motor vehicle equipped with an anti-lock braking system (ABS) brakes in an emergency, the brake pedal may be pressed hard. OPT A：正确; B：错误 | A: True; B: False
+0 options_en The English option labels use "True/False" instead of "正确/错误" (Correct/Incorrect). => A: Correct; B: Incorrect
+
+# trllm_subj4_223 Q 安装防抱死制动装置（ABS）的机动车制动时，制动距离会大大缩短。 | For a motor vehicle equipped with an anti-lock braking system (ABS), the braking distance will be greatly shortened when braking. OPT A：正确; B：错误 | A: True; B: False
+0 options_en The English option labels use "True/False" instead of "正确/错误" (Correct/Incorrect). => A: Correct; B: Incorrect
+
+# trllm_subj4_224 Q 怎样调整汽车座椅安全头枕的高度？ | How should the height of a car seat head restraint be adjusted? OPT A、调整到头枕中心对正颈部; B、调整到头枕中心与颈部平齐; C、调整到头枕中心高出头顶; D、调整到头枕中心能支撑头部 | A: Adjust so that the center of the head restraint aligns with the neck; B: Adjust so that the center of the head restraint is level with the neck; C: Adjust so that the center of the head restraint is above the top of the head; D: Adjust so that the center of the head restraint can support the head
+0 options_en The English option labels use "A:" instead of "A、". => A、Adjust so that the center of the head restraint aligns with the neck; B、Adjust so that the center of the head restraint is level with the neck; C、Adjust so that the center of the head restraint is above the top of the head; D、Adjust so that the center of the head restraint can support the head
+
+# trllm_subj4_225 Q 车辆发生碰撞时，关于安全带作用的说法错误的是什么？ | When a vehicle collides, which statement about the function of seat belts is incorrect? OPT A、保护颈部不受伤害; B、减轻驾乘人员受伤程度; C、减轻驾驶人疲劳; D、保持正确驾驶姿势 | A: Protect the neck from injury; B: Reduce the degree of injury to occupants; C: Reduce driver fatigue; D: Maintain correct driving posture
+0 options_en The English option labels use "A:" instead of "A、". => A、Protect the neck from injury; B、Reduce the degree of injury to occupants; C、Reduce driver fatigue; D、Maintain correct driving posture
+
+# trllm_subj4_227 Q 安全头枕要调整到与颈部平齐的高度。 | The head restraint should be adjusted to a height level with the neck. OPT A：正确; B：错误 | A: True; B: False
+0 question_en The English translation omits the key word 'head' and says 'level with the neck' instead of 'level with the head', changing the meaning. => The head restraint should be adjusted to a height level with the head.
+
+# trllm_subj4_230 Q 驾驶机动车遇团雾时，以下做法正确的是什么？ | When driving a motor vehicle and encountering dense fog, which practice is correct? OPT A、提高行驶速度尽快通过; B、开启远光灯; C、缩短跟车距离，保持通行效率; D、开启雾灯 | A: Increase speed to pass through as soon as possible; B: Turn on high beams; C: Shorten the following distance to maintain traffic efficiency; D: Turn on fog lights
+0 answer The provided answer 'A' contradicts the Chinese driving rule and the correct option D; the English translation faithfully reflects the input but the answer itself is unsafe/false. => Keep the translation as is; do not alter the answer.
+
+# trllm_subj4_231 Q 夜间驾驶机动车准备超越右侧非机动车时，以下做法正确的是什么？ | When driving a motor vehicle at night and preparing to overtake a non-motor vehicle on the right, which practice is correct? OPT A、交替变换远近光灯示意; B、保持足够的横向安全距离; C、从其左侧超越; D、加速从右侧超越 | A: Alternately switch between high and low beams to signal; B: Maintain sufficient lateral safety distance; C: Overtake from its left side; D: Accelerate and overtake from the right side
+0 question_en The English translation omits the word "准备" (preparing), changing the meaning from preparing to overtake to actively overtaking. => When driving a motor vehicle at night and preparing to overtake a non-motor vehicle on the right, which practice is correct?
+1 option A The English translation omits "交替" (alternately), changing the meaning from alternating between high and low beams to simply switching between them. => Alternately switch between high and low beams to signal
+2 option C The English translation omits "从其左侧" (from its left side), changing the meaning from overtaking from the left side of the non-motor vehicle to simply overtaking from the left side. => Overtake from its left side
+3 option D The English translation omits "加速" (accelerate), changing the meaning from accelerating to overtake from the right side to simply overtaking from the right side. => Accelerate and overtake from the right side
+
+# trllm_subj4_232 Q 机动车的轮胎胎压标识就是指轮胎在正常情况下的最大充气压力值。 | The tire pressure label on a motor vehicle refers to the maximum inflation pressure value of the tire under normal conditions. OPT A：正确; B：错误 | A: True; B: False
+0 question_en The English translation omits "正常情况下" (under normal conditions), changing the meaning from the maximum inflation pressure under normal conditions to simply the maximum inflation pressure. => The tire pressure label on a motor vehicle refers to the maximum inflation pressure value of the tire under normal conditions.
+
+# trllm_subj4_233 Q 变更车道时，不得一次连续变更两条以上机动车道。 | When changing lanes, you must not change more than two motor vehicle lanes continuously at once. OPT A：正确; B：错误 | A: True; B: False
+0 question_en The English translation omits "连续" (continuously), changing the meaning from not changing more than two lanes continuously at once to not changing more than two lanes at once. => When changing lanes, you must not change more than two motor vehicle lanes continuously at once.
+
+# trllm_subj4_234 Q 超车时遇到”三点—线”，即本车、被超车与对面来车在—条横向的直线上，仍然可以超车。 | When overtaking and encountering "three points—one line", that is, your vehicle, the vehicle being overtaken, and an oncoming vehicle are on the same horizontal straight line, overtaking is still allowed. OPT A：正确; B：错误 | A: True; B: False
+0 question_en The English translation omits "仍然可以" (still allowed), changing the meaning from overtaking is still allowed to overtaking is allowed. => When overtaking and encountering "three points—one line", that is, your vehicle, the vehicle being overtaken, and an oncoming vehicle are on the same horizontal straight line, overtaking is still allowed.
+
+# trllm_subj4_235 Q 驾驶机动车行驶中侵占对向车辆行驶路线，会使会车时的横向距离变大，容易发生刮碰事故。 | When driving a motor vehicle and encroaching on the travel path of oncoming vehicles, the lateral distance during meeting will become larger, making scraping accidents easy to occur. OPT A：正确; B：错误 | A: True; B: False
+0 question_en The English translation omits "会使" (will make), changing the meaning from the lateral distance will become larger to the lateral distance becomes larger. => When driving a motor vehicle and encroaching on the travel path of oncoming vehicles, the lateral distance during meeting will become larger, making scraping accidents easy to occur.
+
+# trllm_subj4_236 Q 驾驶机动车通过立交桥时，应该怎样左转弯？ | When driving a motor vehicle through an overpass, how should you turn left? OPT A、过桥前向右转弯; B、过桥后向右转弯; C、过桥前向左转弯; D、过桥后向左转弯 | A: Turn right before the bridge; B: Turn right after the bridge; C: Turn left before the bridge; D: Turn left after the bridge
+0 question_en The English translation omits the directional word 'left' from '左转弯', changing the question from how to turn left to how to turn. => When driving a motor vehicle through an overpass, how should you turn left?
+1 options_en Options A and B translate '向右转弯' as 'Turn right', but the question asks about turning left; this appears to be a mistranslation of the directional word. => A: Turn left before the bridge; B: Turn left after the bridge; C: Turn right before the bridge; D: Turn right after the bridge
+
+# trllm_subj4_237 Q 驾驶机动车通过立交桥时，应该怎样右转弯？ | When driving a motor vehicle through an overpass, how should you turn right? OPT A、过桥前向右转弯; B、过桥后向右转弯; C、过桥前向左转弯; D、过桥后向左转弯 | A: Turn right before the bridge; B: Turn right after the bridge; C: Turn left before the bridge; D: Turn left after the bridge
+0 question_en The English translation omits the directional word 'right' from '右转弯', changing the question from how to turn right to how to turn. => When driving a motor vehicle through an overpass, how should you turn right?
+1 options_en Options C and D translate '向左转弯' as 'Turn left', but the question asks about turning right; this appears to be a mistranslation of the directional word. => A: Turn right before the bridge; B: Turn right after the bridge; C: Turn right before the bridge; D: Turn right after the bridge
+
+# trllm_subj4_239 Q 左右两侧车道的车辆向同—车道变更时，右侧车道车辆让左侧车道车辆先行。 | When vehicles in the left and right lanes change into the same lane, the vehicle in the right lane shall yield to the vehicle in the left lane. OPT A：正确; B：错误 | A: True; B: False
+0 question_zh The Chinese text contains a typographical error: '同—车道' uses '—' (em dash) instead of '同一' (same). => 左右两侧车道的车辆向同一车道变更时，右侧车道车辆让左侧车道车辆先行。
+1 question_en The English translation reverses the yield rule: it states the right lane yields to the left lane, while the Chinese states the right lane vehicle yields to the left lane vehicle (右侧车道车辆让左侧车道车辆先行). => When vehicles in the left and right lanes change into the same lane, the vehicle in the right lane shall yield to the vehicle in the left lane.
+
+# trllm_subj4_241 Q 驾驶机动车遇到非机动车违法在机动车道上行驶，并阻碍机动车前进时，以下做法正确的是什么？ | When driving a motor vehicle and encountering a non-motor vehicle traveling illegally in the motor vehicle lane and obstructing the motor vehicle's forward movement, which of the following actions is correct? OPT A、注意非机动车辆的动向，减速行驶; B、谨慎驾驶低速通过; C、持续鸣喇叭警告非机动车避让; D、保持与非机动车安全车距 | A、Pay attention to the movements of the non-motor vehicle and drive at a reduced speed; B、Drive cautiously at a low speed through; C、Continuously honk the horn to warn the non-motor vehicle to give way; D、Maintain a safe distance from the non-motor vehicle
+0 option label C The English translation omits the Chinese adverb "持续" (continuously), changing the meaning of the unsafe statement. => C、Continuously honk the horn to warn the non-motor vehicle to give way
+
+# trllm_subj4_244 Q 长下坡禁止挂空挡，以下说法正确的是什么？ | Shifting into neutral is prohibited on long downhill slopes. Which of the following statements is correct? OPT A、长下坡挂低速挡可以借助发动机控制车速; B、避免因刹车失灵发生危险; C、长下坡空挡滑行导致车速过高时，难以抢挂低速挡控制车速; D、下坡挂空挡，油耗容易增多 | A、Shifting into a low gear on a long downhill slope can use the engine to control vehicle speed; B、Avoid danger caused by brake failure; C、When coasting in neutral on a long downhill slope results in excessive speed, it is difficult to quickly shift into a low gear to control speed; D、Coasting in neutral downhill increases fuel consumption
+0 option label D The English translation omits the Chinese subject "下坡挂空挡" (coasting in neutral downhill), making the statement incomplete. => D、Coasting in neutral downhill increases fuel consumption
+
+# trllm_subj4_253 Q 倒车时转向盘的转动方向与倒车方向—致。 | When reversing, the turning direction of the steering wheel is consistent with the reversing direction. OPT A：正确; B：错误 | A：True; B：False
+0 question_en The English translation omits the negation marker "不" present in the Chinese question. The Chinese states the directions are "不一致" (not consistent), while the English states they are "consistent", reversing the meaning. => When reversing, the turning direction of the steering wheel is not consistent with the reversing direction.
+
+# trllm_subj4_262 Q 关于机动车灯光的使用，以下说法正确的是什么？ | Regarding the use of motor vehicle lights, which of the following statements is correct? OPT A、机动车灯光的作用仅仅是为了在夜间的照明; B、夜间驾驶机动车在照明条件良好的路段可以不使用灯光; C、机动车灯光—个重要的作用是提示其他机动车驾驶人和行人; D、夜间驾驶机动车在照明条件良好的路段必须使用远光灯 | A、The function of motor vehicle lights is only for illumination at night; B、When driving a motor vehicle at night on road sections with good lighting conditions, lights may not be used; C、An important function of motor vehicle lights is to remind other motor vehicle drivers and pedestrians; D、When driving a motor vehicle at night on road sections with good lighting conditions, high beam headlights must be used
+0 option C The English translation omits the Chinese enumeration dash "一" before "个重要的作用", rendering "An important function" instead of "One important function". => C、One important function of motor vehicle lights is to remind other motor vehicle drivers and pedestrians
+
+# trllm_subj4_266 Q 关于超速行驶，以下哪种说法是错误的？ | Regarding speeding, which of the following statements is incorrect? OPT A、制动距离变短; B、视野变窄; C、易发生交通事故; D、反应距离变短 | A、Braking distance becomes shorter; B、Field of vision becomes narrower; C、Traffic accidents are likely to occur; D、Reaction distance becomes shorter
+0 options_en A The English translation omits the Chinese enumeration mark '、' after the option label 'A'. => A、Braking distance becomes shorter
+1 options_en B The English translation omits the Chinese enumeration mark '、' after the option label 'B'. => B、Field of vision becomes narrower
+2 options_en C The English translation omits the Chinese enumeration mark '、' after the option label 'C'. => C、Traffic accidents are likely to occur
+3 options_en D The English translation omits the Chinese enumeration mark '、' after the option label 'D'. => D、Reaction distance becomes shorter
+
+# trllm_subj4_267 Q 夜间驾驶机动车距离前车较近时，应使用近光灯，避免远光灯发出的灯光经过前车后视镜反射后造成前车驾驶人眩目，影晌安全。 | When driving a motor vehicle at night and close to the vehicle ahead, low beam headlights should be used to avoid the glare from high beam headlights reflecting off the rearview mirror of the vehicle ahead and dazzling its driver, affecting safety. OPT A：正确; B：错误 | A: True; B: False
+0 options_en A The English translation omits the Chinese full-width colon '：' after the option label 'A'. => A：True
+1 options_en B The English translation omits the Chinese full-width colon '：' after the option label 'B'. => B：False
+
+# trllm_subj4_268 Q 防御性驾驶又称预见性驾驶，下列哪些属于预见性方法？ | Defensive driving, also known as anticipatory driving, which of the following belong to anticipatory methods? OPT A、开车前检查车辆性能; B、注意观察周围环境; C、遵守法规，文明礼貌让行; D、保持安全距离，预留缓冲空间 | A、Check vehicle performance before driving; B、Pay attention to observe the surrounding environment; C、Observe laws and regulations, be courteous and yield; D、Maintain safe distance and leave buffer space
+0 options_en A The English translation omits the Chinese enumeration mark '、' after the option label 'A'. => A、Check vehicle performance before driving
+1 options_en B The English translation omits the Chinese enumeration mark '、' after the option label 'B'. => B、Pay attention to observe the surrounding environment
+2 options_en C The English translation omits the Chinese enumeration mark '、' after the option label 'C'. => C、Observe laws and regulations, be courteous and yield
+3 options_en D The English translation omits the Chinese enumeration mark '、' after the option label 'D'. => D、Maintain safe distance and leave buffer space
+
+# trllm_subj4_269 Q 涉水行车中，要目视水流做为固定目标。 | When driving through water, the water flow should be used as a fixed target for visual reference. OPT A：正确; B：错误 | A: True; B: False
+0 options_en A The English translation omits the Chinese full-width colon '：' after the option label 'A'. => A：True
+1 options_en B The English translation omits the Chinese full-width colon '：' after the option label 'B'. => B：False
+
+# trllm_subj4_270 Q 车辆在拥挤路段低速行驶时，遇其他车辆强行穿插，为确保行车安全，要主动礼让，保持适当的安全距离。 | When a vehicle is driving at low speed on a congested road section and other vehicles force their way in, to ensure driving safety, one should actively yield and maintain an appropriate safe distance. OPT A：正确; B：错误 | A: True; B: False
+0 options_en A The English translation omits the Chinese full-width colon '：' after the option label 'A'. => A：True
+1 options_en B The English translation omits the Chinese full-width colon '：' after the option label 'B'. => B：False
+
+# trllm_subj4_277 Q 下列说法正确的是什么？ | Which of the following statements is correct? OPT A、白色虚线不允许随意变更车道; B、白色虚线不能变更车道; C、白色实线可以变更车道; D、白色实线不能变更车道 | A、White dashed lines do not allow arbitrary lane changes; B、White dashed lines cannot change lanes; C、White solid lines can change lanes; D、White solid lines cannot change lanes
+0 options_en A The English translation omits the Chinese enumeration mark "、" after "A". => A、White dashed lines do not allow arbitrary lane changes
+1 options_en B The English translation omits the Chinese enumeration mark "、" after "B". => B、White dashed lines cannot change lanes
+2 options_en C The English translation omits the Chinese enumeration mark "、" after "C". => C、White solid lines can change lanes
+3 options_en D The English translation omits the Chinese enumeration mark "、" after "D". => D、White solid lines cannot change lanes
+
+# trllm_subj4_283 Q 警车、消防车、救护车、工程救险车执行紧急任务时，耽误或影晌其通行可能会导致严重后果，所以其他车辆和行人应当主动让行。 | When police cars, fire trucks, ambulances, and engineering rescue vehicles are performing emergency tasks, delaying or affecting their passage may lead to serious consequences, so other vehicles and pedestrians should actively give way. OPT A：正确; B：错误 | A：True; B：False
+0 question_en The Chinese term "影晌" is a typo for "影响" (affect/influence). The English translation renders it as "affecting", which matches the intended meaning rather than the literal typo. => When police cars, fire trucks, ambulances, and engineering rescue vehicles are performing emergency tasks, delaying or affecting their passage may lead to serious consequences, so other vehicles and pedestrians should actively give way.
+
+# trllm_subj4_286 Q 雾天行车，可以使用远光灯。 | When driving in foggy weather, high beam headlights may be used. OPT A：正确; B：错误 | A：True; B：False
+0 question_en The English translation omits the modal nuance of '可以' (may/are allowed to), rendering it as a simple permission statement; however, the meaning is largely preserved. => When driving in foggy weather, high beam headlights may be used.
+
+# trllm_subj4_287 Q 通过铁路道口遇到—个红灯亮时，要加速通过道口。 | When passing through a railway crossing and encountering a red light, accelerate through the crossing. OPT A：正确; B：错误 | A：True; B：False
+0 question_en The Chinese source contains a typographical dash '—个' instead of the numeral '一个', but the English translation correctly interprets it as 'a red light'. => When passing through a railway crossing and encountering a red light, accelerate through the crossing.
+
+# trllm_subj4_288 Q 夜间通过无交通信号灯控制的交叉路口时，不得变换远、近光灯。 | When passing through an intersection without traffic signal control at night, do not switch between high and low beam headlights. OPT A：正确; B：错误 | A：True; B：False
+0 question_en No material translation issue found. => 
+
+# trllm_subj4_289 Q 驾驶机动车在急弯路段倒车时，应当察明车后情况，确认安全后倒车。 | When driving a motor vehicle and reversing on a sharp curve, check the situation behind the vehicle and reverse after confirming safety. OPT A：正确; B：错误 | A：True; B：False
+0 question_en The English translation omits the prohibition implied by the correct answer (B/False). Under Chinese driving regulations, reversing on a sharp curve is prohibited; the translation reads as a permitted action rather than a statement to be judged true or false. => When driving a motor vehicle and reversing on a sharp curve, check the situation behind the vehicle and reverse after confirming safety.
+
+# trllm_subj4_290 Q 驾驶机动车在城市道路行车，应尽量避免紧跟出租车行驶，因为出租车可能会随时停车上下客。 | When driving a motor vehicle on urban roads, try to avoid following taxis closely, because taxis may stop at any time to pick up or drop off passengers. OPT A：正确; B：错误 | A：True; B：False
+0 question_en No material translation issue found. => 
+
+# trllm_subj4_297 Q 驾驶人行车中看到注意儿童标志的时候，应降低车速谨滇行驶。 | When a driver sees a sign warning of children while driving, they should reduce speed and drive cautiously. OPT A：正确; B：错误 | A：True; B：False
+0 question_en The Chinese word "谨" (carefully/cautiously) is mistranslated as "谨滇" in the source Chinese and rendered as "cautiously" in English, which is acceptable, but the source typo should be noted; however, the English translation itself is accurate. => No correction needed for English; source Chinese contains a typo "谨滇" which should be "谨慎".
+
+# trllm_subj4_299 Q 驶入高速公路的收费口时，应怎样行驶？ | When entering the toll gate of an expressway, how should one drive? OPT A、选择绿灯亮的车道通行; B、减速行驶; C、尽量靠近收费亭; D、依次排队通行 | A、Choose the lane with the green light on; B、Drive at a reduced speed; C、Stay as close to the toll booth as possible; D、Queue up in order to pass
+0 options_en Option C "Stay as close to the toll booth as possible" is an unsafe/false statement in the source Chinese "尽量靠近收费亭". It must remain faithfully translated and not be corrected. => Keep as is; do not alter unsafe content.
+
+# trllm_subj4_306 Q 右侧这个标志警告进入隧道减速慢行。 | The sign on the right warns to slow down and proceed slowly when entering the tunnel. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the word "right" (右侧), which is present in the Chinese question. => The sign on the right warns to slow down and proceed slowly when entering the tunnel.
+
+# trllm_subj4_316 Q 前方路口停车让行线表示减速让干道车先行。 | The stop-and-yield line at the intersection ahead indicates to slow down and yield to vehicles on the main road. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the word "stop" (停车) present in the Chinese source. => The stop-and-yield line at the intersection ahead indicates to stop and yield to vehicles on the main road.
+
+# trllm_subj4_317 Q 前方路口减速让行线表示要停车让干道车先行。 | The slow-down-and-yield line at the intersection ahead indicates to stop and yield to vehicles on the main road. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the word "slow down" (减速) present in the Chinese source. => The slow-down-and-yield line at the intersection ahead indicates to slow down and stop to yield to vehicles on the main road.
+
+# trllm_subj4_361 Q 驾驶机动车遇到这种信号灯不断闪烁时怎样行驶？ | When driving a motor vehicle and encountering this signal light flashing continuously, how should you proceed? OPT A、尽快加速通过; B、靠边停车等待; C、注意瞭望安全通过; D、紧急制动 | A、Accelerate through as quickly as possible; B、Pull over to the side and wait; C、Pay attention and proceed through safely; D、Brake suddenly
+0 options_en A The English translation "Accelerate through as quickly as possible" omits the Chinese word "尽快" (as soon as possible) and adds "through", altering the meaning. => Accelerate as quickly as possible
+1 options_en C The English translation "Pay attention and proceed through safely" adds "through" which is not in the Chinese "注意瞭望安全通过". => Pay attention and proceed safely
+2 options_en D The English translation "Brake suddenly" is a loose rendering of "紧急制动" (emergency brake). => Apply emergency braking
+
+# trllm_subj4_362 Q 驾驶机动车在铁路道口看到这种信号灯时怎样行驶？ | When driving a motor vehicle and seeing this signal light at a railway crossing, how should you proceed? OPT A、边观察边缓慢通过; B、不换挡加速通过; C、在火车到来前通过; D、不得越过停止线 | A、Observe and pass through slowly; B、Accelerate through without shifting gears; C、Pass through before the train arrives; D、Do not cross the stop line
+0 options_en A The English translation "Observe and pass through slowly" omits "边" (while/along with) and adds "pass through" which is not in the Chinese "边观察边缓慢通过". => Observe while proceeding slowly
+1 options_en B The English translation "Accelerate through without shifting gears" adds "through" which is not in the Chinese "不换挡加速通过". => Accelerate without shifting gears
+2 options_en C The English translation "Pass through before the train arrives" adds "pass through" which is not in the Chinese "在火车到来前通过". => Proceed before the train arrives
+
+# trllm_subj4_402 Q 驾驶机动车遇到非机动车违法在机动车道上行驶，并阻碍机动车前进时，以下做法错误的是什么？ | When driving a motor vehicle and encountering a non-motor vehicle illegally traveling in the motor vehicle lane and obstructing the motor vehicle's forward movement, which of the following actions is incorrect? OPT A：注意非机动车辆的动向，减速行驶; B：谨慎驾驶低速通过;   C：持续鸣喇叭警告非机动车避让;   D：保持与非机动车安全车距 | A、Pay attention to the movements of the non-motor vehicle and drive at a reduced speed; B、Drive cautiously at low speed; C、Continuously honk the horn to warn the non-motor vehicle to give way; D、Maintain a safe distance from the non-motor vehicle
+0 options_en Option labels use colon punctuation instead of the Chinese enumeration comma (、) used in the source. => A、Pay attention to the movements of the non-motor vehicle and drive at a reduced speed; B、Drive cautiously at low speed; C、Continuously honk the horn to warn the non-motor vehicle to give way; D、Maintain a safe distance from the non-motor vehicle
+
+# trllm_subj4_404 Q 驾驶机动车应尽量骑轧可跨越车道分界线行驶，便于根据前方道路情况选择车道。 | When driving a motor vehicle, try to straddle the lane dividing line while driving, so as to choose a lane according to the road conditions ahead. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The Chinese term "骑轧" means to straddle or ride over a line, but the English translation omits this specific meaning and renders it as just "straddle", which is acceptable; however, the phrase "try to straddle" may imply intent that matches the source. No material discrepancy found in meaning. => 
+
+# trllm_subj4_409 Q 驾驶机动车遇到这种情形要迅速靠右侧减速让行。 | When driving a motor vehicle and encountering this situation, quickly slow down and give way to the right side. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the image-dependent referent "this situation" (这种情形) and does not indicate that an image is missing. => When driving a motor vehicle and encountering this situation [image missing], quickly slow down and give way to the right side.
+
+# trllm_subj4_416 Q 驾驶机动车准备进入拥堵的环形路口时，以下做法错误的是什么？ | When driving a motor vehicle and preparing to enter a congested roundabout intersection, which of the following actions is incorrect? OPT A：继续驶入拥堵路口; B：鸣喇叭让路口内的车让行; C：快速驶入路口; D：让路口内的车先行 | A: Continue driving into the congested intersection; B: Honk to let vehicles in the intersection give way; C: Quickly drive into the intersection; D: Let vehicles in the intersection go first
+0 option C The English translation omits the Chinese adverb '快速' (quickly). => C: Quickly drive into the intersection
+
+# trllm_subj4_417 Q 驾驶机动车行驶过程中，如遇到前方车辆行驶速度缓慢时，应持续鸣喇叭催促。 | When driving a motor vehicle and encountering a vehicle ahead traveling at a slow speed, continuously honk the horn to urge it. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese adverb '持续' (continuously). => When driving a motor vehicle and encountering a vehicle ahead traveling at a slow speed, continuously honk the horn to urge it.
+
+# trllm_subj4_419 Q 驾驶机动车在山区上坡路段行驶，以下做法正确的是什么？ | When driving a motor vehicle on an uphill section of a mountain road, which of the following actions is correct? OPT A：应尽量匀速前进; B：应尽量避免换挡; C：时刻注意下行车辆; D：应选择高速挡 | A: Try to proceed at a steady speed; B: Try to avoid shifting gears; C: Always pay attention to downhill vehicles; D: Use a high gear
+0 option B The English translation omits the Chinese adverb '尽量' (try to). => B: Try to avoid shifting gears
+
+# trllm_subj4_420 Q 驾驶机动车在山区道路上坡路段行驶，因发生故障需停车检修时，以下做法正确的是什么？ | When driving a motor vehicle on an uphill section of a mountain road and needing to stop for inspection and repair due to a breakdown, which of the following actions is correct? OPT A：拉起驻车制动器; B：开启危险报警闪光灯; C：在后方用塞车木或石块塞住车轮，以防车辆后溜; D：按规定在车后方设置警示标志 | A: Pull up the parking brake; B: Turn on the hazard warning flashers; C: Chock the wheels with wheel chocks or stones behind the vehicle to prevent rolling back; D: Set up warning signs behind the vehicle according to regulations
+0 option C The English translation omits the Chinese word '塞车木' (wheel chocks). => C: Chock the wheels with wheel chocks or stones behind the vehicle to prevent rolling back
+
+# trllm_subj4_424 Q 驾驶机动车在隧道内行驶，车辆出现故障时，应该立刻靠边停车，拦截过往车辆，帮助检修。 | When driving a motor vehicle in a tunnel and the vehicle breaks down, you should immediately pull over to the side, stop passing vehicles, and ask for help with repairs. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation adds 'ask for help with repairs', which is not present in the Chinese text '帮助检修' (help with inspection/repair). => When driving a motor vehicle in a tunnel and the vehicle breaks down, you should immediately pull over to the side, stop passing vehicles, and help with repairs.
+
+# trllm_subj4_437 Q 夜间会车时，对面来车不关闭远光灯怎么办？ | When meeting oncoming traffic at night and the oncoming vehicle does not turn off its high beams, what should you do? OPT A、及时减速让行，必要时靠边停车; B、开启远光灯，迫使来车变换灯光; C、视线向右平移，防止眩目; D、交替变换远近光灯，提醒来车 | A、Slow down and yield in time, and pull over to the side if necessary; B、Turn on high beams to force the oncoming vehicle to change its lights; C、Shift your gaze to the right to avoid glare; D、Alternate between high and low beams to remind the oncoming vehicle
+0 option B The English translation omits the Chinese punctuation mark '、' after the option label B. => B、Turn on high beams to force the oncoming vehicle to change its lights
+
+# trllm_subj4_439 Q 夜间驾驶机动车在道路上会车，为避免对方驾驶人眩目，应距离对向来车多远改用近光灯？ | When driving a motor vehicle at night and meeting oncoming traffic on the road, to avoid dazzling the other driver, at what distance from the oncoming vehicle should you switch to low beams? OPT A：150米以内; B：150米以外; C：100米以内; D：50米以内 | A：Within 150 meters; B：Beyond 150 meters; C：Within 100 meters; D：Within 50 meters
+0 options A, B, C, D The English translations use a full-width colon '：' after the option labels, while the Chinese source uses a full-width colon '：' as well; however, the English text lacks the enumeration comma '、' used in the Chinese source after labels A, B, C, D in other items, but more importantly, the translation of option B 'Beyond 150 meters' inaccurately renders '150米以外' (outside 150 meters / more than 150 meters away), which could be misunderstood as 'farther than 150 meters' rather than the required switching point. => A：Within 150 meters; B：More than 150 meters away; C：Within 100 meters; D：Within 50 meters
+
+# trllm_subj4_446 Q 驾驶机动车在高速公路上驶出匝道时，只要后方无来车，或者来车相距较远，可以不经过加速车道，直接驶入行车道。 | When driving a motor vehicle and exiting a ramp on a highway, if there are no vehicles behind or the vehicles behind are far away, you may enter the driving lane directly without using the acceleration lane. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese word "只要" (as long as / only if), which changes the logical condition of the statement. => When driving a motor vehicle and exiting a ramp on a highway, as long as there are no vehicles behind or the vehicles behind are far away, you may enter the driving lane directly without using the acceleration lane.
+
+# trllm_subj4_451 Q 驾驶机动车驶离高速公路时，若车辆制动性能良好，可直接驶入匝道。 | When driving a motor vehicle and leaving the highway, if the vehicle's braking performance is good, you can enter the ramp directly. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese word "若" (if), changing the sentence from a conditional statement to an unconditional one. => When driving a motor vehicle and leaving the highway, if the vehicle's braking performance is good, you can enter the ramp directly.
+
+# trllm_subj4_456 Q 夜间驾驶机动车会车时，对方一直使用远光灯，以下做法正确的是什么？ | When driving a motor vehicle at night and meeting another vehicle, if the other party keeps using high beams, which of the following practices is correct? OPT A：不停变换远近光灯以及鸣喇叭提醒对方; B：视线适当右移，避免直视灯光; C：降低车速，靠右行驶; D：变换远光灯行驶 | A：Continuously switch between high and low beams and honk the horn to remind the other party; B：Move the line of sight appropriately to the right and avoid looking directly at the lights; C：Reduce speed and drive on the right side; D：Drive using high beams
+0 options_en A The English translation adds "Continuously" (不停) which is not present in the Chinese text. => Switch between high and low beams and honk the horn to remind the other party
+1 options_en B The English translation adds "the line of sight" which is not explicitly in the Chinese text. => Move the gaze appropriately to the right and avoid looking directly at the lights
+2 options_en C The English translation adds "drive" which is not explicitly in the Chinese text. => Reduce speed and keep to the right
+3 options_en D The English translation adds "using" which is not explicitly in the Chinese text. => Switch to high beams
+
+# trllm_subj4_459 Q 下坡路制动突然失灵，要拉紧驻车制动器或越二级挡位减挡。 | If braking suddenly fails on a downhill road, pull the parking brake tightly or downshift by two gear levels to reduce speed. OPT A、正确; B、错误 | A、True; B、False
+0 options_en A The English translation adds "tightly" (拉紧) which is not present in the Chinese text. => Pull the parking brake or downshift by two gear levels to reduce speed
+
+# trllm_subj4_461 Q 停车后，应先放松行车制动踏板，再拉紧驻车制动器操纵杆，将发动机熄火。 | After parking, first release the service brake pedal, then pull up the parking brake lever, and turn off the engine. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation reverses the required sequence. The Chinese states to first pull up the parking brake lever, then release the service brake pedal; the English says first release the service brake pedal, then pull up the parking brake lever. => After parking, first pull up the parking brake lever, then release the service brake pedal, and turn off the engine.
+
+# trllm_subj4_462 Q 机动车喷涂、粘贴标识或者车身广告的，不得影晌安全驾驶。 | When a motor vehicle is sprayed with or affixed with signs or body advertisements, it must not affect safe driving. OPT A、正确; B、错误 | A、True; B、False
+0 question_zh The Chinese text contains a typographical error: "影晌" should be "影响". => 机动车喷涂、粘贴标识或者车身广告的，不得影响安全驾驶。
+1 question_en The English translation faithfully renders the Chinese text including the typo's intended meaning; no translation discrepancy found beyond the source typo noted above. => None for translation; consider correcting the source Chinese typo to "影响".
+
+# trllm_subj4_468 Q 上车前绕车检查时，要以顺时针方向绕车检查车辆，确认安全后方可上车。 | Before getting in the vehicle, when walking around to inspect the vehicle, inspect the vehicle in a clockwise direction, and only get in after confirming safety. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the specific requirement to inspect the vehicle in a clockwise direction. => Before getting in the vehicle, when walking around to inspect the vehicle, inspect the vehicle in a clockwise direction, and only get in after confirming safety.
+
+# trllm_subj4_471 Q 按照防御性驾驶技术要求，驾驶机动车在道路上行驶，在下列哪种情形下应当提前开启右转向灯？ | According to defensive driving requirements, when driving a motor vehicle on the road, in which of the following situations should the right turn signal be turned on in advance? OPT A、向右转弯; B、靠路边停车; C、向右变更车道; D、超车完毕驶回原车道 | A、Turning right; B、Pulling over to the side of the road to park; C、Changing lanes to the right; D、Returning to the original lane after overtaking
+0 answer The English answer 'A' does not match the defensive driving rule implied by the question; the Chinese source answer is also 'A', but options B, C, and D also typically require the right turn signal. No material translation discrepancy in question/options is found. => Keep translation as is; verify answer key separately if needed.
+
+# trllm_subj4_472 Q 驾驶人分心驾驶的危害是什么？ | What are the hazards of distracted driving? OPT A、驾驶人注意力分散; B、视线离开路面，无法提前观察道路交通信息; C、会引起驾驶姿势的变化; D、会引起操作动作的变化 | A、The driver's attention is dispersed; B、The line of sight leaves the road surface, making it impossible to observe road traffic information in advance; C、It causes changes in driving posture; D、It causes changes in operating actions
+0 answer The English answer 'A' is a single option, but the Chinese question asks 'what are the hazards' (plural) and options B, C, and D are also valid hazards; the translation does not indicate multiple correct answers. => Clarify in English that multiple options may be correct, or adjust the answer field to reflect all applicable options if the source intends multiple selection.
+
+# trllm_subj4_476 Q 下列关于防御性驾驶方法，做法正确的是什么？ | Regarding defensive driving methods, which practices are correct? OPT A、熟悉车辆性能，做好预防性自检; B、遵守交通法规，文明礼让出行; C、环顾周围环境，提前预测险情; D、保持安全距离，预留缓冲空间 | A、Familiarize yourself with vehicle performance and perform preventive self-checks; B、Observe traffic laws and travel courteously by yielding; C、Look around at the surroundings and anticipate hazards in advance; D、Maintain a safe distance and leave a buffer space
+0 question_en The English translation omits the plural meaning of the Chinese question. => Regarding defensive driving methods, which practices are correct?
+1 answer The answer field contains only "A", but the Chinese question asks for correct practices (plural) and all four options are standard correct defensive driving practices. => A, B, C, D
+
+# trllm_subj4_481 Q 夜间通过连续弯道时，应持续使用远、近光灯示意，并且注意观察弯道的尽头，适时调整行驶方向，确保安全。 | When passing continuous curves at night, continuously alternate between high and low beams to signal, and pay attention to observing the end of the curve, adjusting the direction of travel in time to ensure safety. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese word "持续" (continuously/keep using) before "使用远、近光灯示意". => When passing continuous curves at night, continuously alternate between high and low beams to signal, and pay attention to observing the end of the curve, adjusting the direction of travel in time to ensure safety.
+
+# trllm_subj4_482 Q 车辆进入高速公路行车道后，应如何行驶？ | After a vehicle enters the expressway carriageway, how should it travel? OPT A、各行其道; B、分道行驶; C、按照限速规定行驶; D、随意行驶 | A、Each in its own lane; B、Travel in separate lanes; C、Travel according to speed limit regulations; D、Travel at will
+0 options_en Option A "Each in its own lane" is an incomplete translation of "各行其道", which means vehicles should travel in their respective lanes according to lane rules. => A、Vehicles should travel in their respective lanes
+1 options_en Option B "Travel in separate lanes" is ambiguous and does not accurately convey "分道行驶" (travel in separate lanes / use different lanes). => B、Travel in separate lanes
+2 options_en Option C "Travel according to speed limit regulations" omits the implied context of complying with the posted speed limits on the expressway. => C、Travel in compliance with the speed limit regulations
+3 options_en Option D "Travel at will" is too casual for "随意行驶", which means driving arbitrarily or without regard to rules. => D、Drive arbitrarily
+
+# trllm_subj4_483 Q 驾驶员过度疲劳影晌安全驾驶时，不得驾驶机动车。 | When a driver's excessive fatigue affects safe driving, they must not drive a motor vehicle. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese word "影晌" (affect/impact) before "安全驾驶". => When a driver's excessive fatigue affects safe driving, they must not drive a motor vehicle.
+
+# trllm_subj4_484 Q 关于疲劳驾驶，以下说法正确的是？ | Regarding fatigued driving, which of the following statements is correct? OPT A、判断能力下降; B、反应迟钝; C、操作失误增加; D、易引发交通事故 | A、Judgment ability declines; B、Reaction is sluggish; C、Operational errors increase; D、Traffic accidents are easily triggered
+0 options_en Option D "Traffic accidents are easily triggered" is a passive construction that weakens the active meaning of "易引发交通事故" (easily cause/lead to traffic accidents). => D、Easily cause traffic accidents
+
+# trllm_subj4_485 Q 驾驶机动车在高速公路上遇前方车流缓行时，以下做法正确的是什么？ | When driving a motor vehicle on an expressway and encountering slow-moving traffic ahead, which of the following practices is correct? OPT A、跟随车流行驶，保持安全车距; B、进入应急车道行驶; C、可以倒车; D、持续鸣喇叭 | A、Follow the traffic flow and maintain a safe distance; B、Enter the emergency lane to travel; C、Reverse may be performed; D、Continuously honk the horn
+0 options_en Option C "Reverse may be performed" is an unnatural translation of "可以倒车"; it should directly state that reversing is allowed/permitted. => C、Reversing is permitted
+
+# trllm_subj4_486 Q 驾驶机动车驶出地下车库，遇前方排队时，以下做法正确的是什么？ | When driving a motor vehicle out of an underground garage and encountering queued vehicles ahead, which of the following practices is correct? OPT A、鸣喇叭提醒其他车辆让行; B、依次排队等候通过; C、在确认安全的情况下从车库入口驶出; D、穿插车流尽快驶出 | A、Honk the horn to remind other vehicles to give way; B、Queue up in order and wait to pass; C、Exit from the garage entrance after confirming safety; D、Weave through traffic to exit as soon as possible
+0 option C The English translation "Exit from the garage entrance" contradicts the Chinese "从车库入口驶出", which means exit from the garage exit/outlet, not the entrance. => C、Exit from the garage exit after confirming safety
+
+# trllm_subj4_488 Q 根据驾驶人的疲劳状态，可以分为哪些疲劳驾驶程度？ | According to the driver's fatigue state, what levels of fatigued driving can be divided into? OPT A、低级疲劳; B、轻微疲劳; C、中度疲劳; D、重度疲劳 | A、Low-level fatigue; B、Mild fatigue; C、Moderate fatigue; D、Severe fatigue
+0 option A The English "Low-level fatigue" does not match the Chinese "低级疲劳"; "低级" means low-grade/low-level, not "low-level" in the sense of mild. => A、Low-grade fatigue
+
+# trllm_subj4_489 Q 驾驶机动车前要对车辆座椅进行调整，以下说法正确的是什么？ | Before driving a motor vehicle, the vehicle seat should be adjusted. Which of the following statements is correct? OPT A、调整驾驶座椅，保证踩踏踏板舒适; B、调整安全带的松紧与高低; C、调整适合驾驶的方向盘位置; D、调整安全头枕高度，使头枕正对驾驶人的颈椎 | A、Adjust the driver's seat to ensure comfortable pedal operation; B、Adjust the tightness and height of the seat belt; C、Adjust the steering wheel position suitable for driving; D、Adjust the headrest height so that the headrest is aligned with the driver's cervical spine
+0 option D The English omits "使头枕正对驾驶人的颈椎" (so that the headrest is directly opposite the driver's cervical spine), changing the meaning. => D、Adjust the headrest height so that the headrest is directly opposite the driver's cervical spine
+
+# trllm_subj4_496 Q 驾驶机动车临近高速公路出入口时，驾驶人需要注意什么？ | When driving a motor vehicle approaching an expressway entrance or exit, what should the driver pay attention to? OPT A、低速行驶的车辆; B、突然变更车道的车辆; C、紧急制动的车辆; D、掉头或逆行的车辆 | A、Vehicles traveling at low speed; B、Vehicles suddenly changing lanes; C、Vehicles braking suddenly; D、Vehicles making U-turns or driving in reverse
+0 question_en The English translation omits the word "entrance" (入口) and only translates "exit" (出口), changing the scope of the question. => When driving a motor vehicle approaching an expressway entrance or exit, what should the driver pay attention to?
+1 options_en The English options are translated as statements rather than noun phrases matching the Chinese options, which list types of vehicles to watch for. => A、Vehicles traveling at low speed; B、Vehicles suddenly changing lanes; C、Vehicles braking suddenly; D、Vehicles making U-turns or driving in reverse
+
+# trllm_subj4_497 Q 关于车辆配备的专用备胎，下列说法错误的是什么？ | Regarding the vehicle's equipped special spare tire, which of the following statements is incorrect? OPT A、仅供临时应急使用; B、可以长期使用; C、行驶速度不能过快; D、行驶速度可以与正常轮胎—样 | A、For temporary emergency use only; B、Can be used for a long time; C、Driving speed must not be too fast; D、Driving speed can be the same as normal tires
+0 options_en Option D translation "Driving speed can be the same as normal tires" omits the Chinese word "一样" (same/alike) and is slightly awkward; it should read "the same as normal tires". => Driving speed can be the same as normal tires
+
+# trllm_subj4_498 Q 如果轮胎胎面磨损到花纹里的标记线，要尽快给轮胎放气减压。 | If the tire tread is worn to the mark line in the pattern, the tire should be deflated and depressurized as soon as possible. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation adds "deflated and depressurized" (放气减压), which is not in the Chinese source. The Chinese only says to replace the tire as soon as possible; it does not mention deflating or depressurizing. => If the tire tread is worn to the mark line in the pattern, the tire should be replaced as soon as possible.
+
+# trllm_subj4_499 Q 关于分心驾驶，以下说法正确的是什么？ | Regarding distracted driving, which of the following statements is correct? OPT A、驾驶时收听广播不会分散驾驶人注意力; B、只要专注驾驶，就可以长时间开车不休; C、驾驶时操纵导航设备不会影晌安全驾驶; D、驾驶时接打电话会分散驾驶人注意力 | A、Listening to the radio while driving will not distract the driver's attention; B、As long as you focus on driving, you can drive for a long time without rest; C、Operating navigation equipment while driving will not affect safe driving; D、Making or answering phone calls while driving will distract the driver's attention
+0 answer The answer field contains a colon (：) instead of the expected option letter D. => D
+
+# trllm_subj4_504 Q 关于超载，以下说法正确的是什么？ | Regarding overloading, which of the following statements is correct? OPT A、影晌车辆安全性能; B、容易发生侧翻; C、制动距离增加; D、使轮胎超负荷运行，容易爆胎 | A、It affects vehicle safety performance; B、It easily causes rollover; C、Braking distance increases; D、It causes tires to operate beyond their load capacity and easily leads to blowouts
+0 option label A Chinese option text contains a typo: "影晌" instead of "影响". English translation correctly renders intended meaning "affects". => A、It affects vehicle safety performance
+1 option label A Chinese option text contains a typo: "影晌" instead of "影响". English translation correctly renders intended meaning "affects". => A、It affects vehicle safety performance
+
+# trllm_subj4_505 Q 驾驶人在下列哪些情况下不能驾驶机动车？ | Under which of the following circumstances may a driver not drive a motor vehicle? OPT A、过度疲劳影晌安全驾驶; B、服用麻醉药品后; C、饮酒后; D、服用国家管制的精神药品后 | A、Excessive fatigue affecting safe driving; B、After taking narcotic drugs; C、After drinking alcohol; D、After taking state-controlled psychotropic drugs
+0 option label A Chinese option text contains a typo: "影晌" instead of "影响". English translation correctly renders intended meaning "affecting". => A、Excessive fatigue affecting safe driving
+
+# trllm_subj4_506 Q 关于预防疲劳驾驶，以下做法正确的是什么？ | Regarding the prevention of fatigued driving, which of the following practices is correct? OPT A、保证充足的睡眠时间; B、驾驶人连续驾驶4小时以上， 停车休息的时间不得少于20分钟; C、连续驾驶不得超过4小时; D、只要驾驶人不感觉疲劳，可以长时间连续驾驶 | A、Ensure adequate sleep time; B、If a driver has driven continuously for more than 4 hours, the parking rest time must be no less than 20 minutes; C、Continuous driving must not exceed 4 hours; D、As long as the driver does not feel fatigued, they may drive continuously for a long time
+0 options_en B The English translation omits the Chinese word "连续" (continuously) before "驾驶4小时以上". => If a driver has driven continuously for more than 4 hours, the parking rest time must be no less than 20 minutes
+1 options_en C The English translation omits the Chinese word "连续" (continuously) before "驾驶不得超过4小时". => Continuous driving must not exceed 4 hours
+
+# trllm_subj4_509 Q 在普通道路驾车遇暴雨，刮水器无法改善驾驶人视线，此时要采取的措施是： | When driving on an ordinary road and encountering a rainstorm such that the windshield wipers cannot improve the driver's vision, what measures should be taken? OPT A、减速行驶; B、集中注意力谨滇驾驶; C、立即减速靠边停驶; D、以正常速度行驶 | A、Drive at reduced speed; B、Concentrate and drive carefully; C、Immediately reduce speed and pull over to stop; D、Drive at normal speed
+0 options_en B The English translation contains a typo: "谨滇" instead of "谨慎". => Concentrate and drive carefully
+
+# trllm_subj4_511 Q 驾驶机动车在雨天临时停车注意什么？ | When temporarily parking a motor vehicle on a rainy day, what should be noted? OPT A、开启危险报警闪光灯; B、开启前后雾灯; C、开启近光灯; D、在车后设置警告标志 | A、Turn on the hazard warning flashers; B、Turn on the front and rear fog lights; C、Turn on the low-beam headlights; D、Set up a warning sign behind the vehicle
+0 options_en Option D omits the Chinese word "车后" (behind the vehicle), changing the meaning of where the warning sign should be set up. => D、Set up a warning sign behind the vehicle
+
+# trllm_subj4_514 Q 雨天安全行车的注意事项是什么？ | What are the precautions for safe driving on a rainy day? OPT A、避免紧急制动、紧急转向; B、保持足够的安全距离; C、注意非机动车和行人动态; D、选择安全车速行驶 | A、Avoid emergency braking and emergency steering; B、Maintain a sufficient safe distance; C、Pay attention to the movements of non-motor vehicles and pedestrians; D、Drive at a safe speed
+0 answer The English translation indicates a single answer "A", but the Chinese question is a multiple-select question where all four options (A, B, C, D) are correct precautions. => answer: ABCD
+
+# trllm_subj4_518 Q 机动车在夜间发生故障时，驾驶人要做什么以确保安全？ | When a motor vehicle breaks down at night, what should the driver do to ensure safety? OPT A、选择安全区域停车; B、开启危险报警闪光灯; C、开启示廓灯和后位灯; D、按规定设置警告标志 | A、Choose a safe area to park; B、Turn on the hazard warning flashers; C、Turn on the outline lights and rear position lights; D、Set up a warning sign according to regulations
+0 answer The answer field contains a Chinese colon and no answer letter: '：' => answer: "A"
+
+# trllm_subj4_521 Q 机动车在夜间行驶的主要影晌是什么？ | What is the main effect of driving a motor vehicle at night? OPT A、驾驶人易产生幻觉; B、路面复杂; C、驾驶人体力下降; D、能见度低，不利于观察道路情况 | A、The driver is prone to hallucinations; B、The road conditions are complex; C、The driver's physical strength decreases; D、Low visibility, which is unfavorable for observing road conditions
+0 question_zh The Chinese question contains a typographical error: "影晌" should be "影响". => 机动车在夜间行驶的主要影响是什么？
+1 question_en The English translation omits the word "main" (主要) present in the Chinese question. => What is the main effect of driving a motor vehicle at night?
+
+# trllm_subj4_522 Q 大雾天在高速公路遇事故不能继续行驶时，危险的做法是什么？ | When an accident occurs on a highway in heavy fog and driving cannot continue, which practice is dangerous? OPT A、尽快离开机动车; B、尽量站到防护栏以外; C、开启危险报警闪光灯和雾灯; D、沿行车道到车后设置警告标志 | A、Leave the vehicle as soon as possible; B、Stand outside the guardrail as much as possible; C、Turn on the hazard warning flashers and fog lights; D、Place the warning sign behind the vehicle along the driving lane
+0 question_zh The Chinese question contains a typographical error: "影晌" should be "影响". => 大雾天在高速公路遇事故不能继续行驶时，危险的做法是什么？
+1 question_en The English translation omits the word "main" (主要) present in the Chinese question. => What is the main effect of fog on safe driving?
+
+# trllm_subj4_524 Q 雾天对安全行车的主要影晌是什么？ | What is the main effect of fog on safe driving? OPT A、易发生侧滑; B、能见度低; C、行驶阻力大; D、视野变宽 | A、Prone to skidding; B、Low visibility; C、High driving resistance; D、Widened field of vision
+0 question_zh The Chinese question contains a typographical error: "影晌" should be "影响". => 雾天对安全行车的主要影响是什么？
+1 question_en The English translation omits the word "main" (主要) present in the Chinese question. => What is the main effect of fog on safe driving?
+
+# trllm_subj4_531 Q 驾驶机动车遇浓雾或沙尘暴时，行驶速度不要过慢，避免后方来车追尾。 | When driving a motor vehicle in dense fog or a sandstorm, the driving speed should not be too slow to avoid being rear-ended by vehicles from behind. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation reverses the meaning of the Chinese statement. The Chinese says speed should not be too slow (不要过慢), while the English says 'should not be too slow' but the context implies the opposite safety rule; however, the exact wording matches. No material discrepancy found in wording, but the statement itself is unsafe/false per driving rules; per instructions, false statements must remain faithfully translated. => No change needed; translation is faithful.
+
+# trllm_subj4_536 Q 驾驶机动车在结冰的道路上怎样会车？ | When driving a motor vehicle on an icy road, how should one meet an oncoming vehicle? OPT A、两车临近时减速; B、适当加速交会; C、提前减速缓慢交会; D、尽量靠近中线交会 | A、Slow down when the two vehicles are close; B、Accelerate appropriately to meet; C、Slow down in advance and meet slowly; D、Meet as close to the center line as possible
+0 options_en C The English translation "Slow down in advance and meet slowly" does not accurately convey the Chinese "提前减速缓慢交会", which means to slow down early and pass/meet slowly. => C、Slow down early and pass slowly
+
+# trllm_subj4_537 Q 驾驶机动车在山区冰雪道路上遇前车正在爬坡时如何处置？ | When driving a motor vehicle on an icy or snowy mountain road and encountering a vehicle ahead climbing a hill, how should one handle it? OPT A、前车通过后再爬坡; B、迅速超越前车爬坡; C、低速超越前车爬坡; D、紧随前车后爬坡 | A、Climb the hill after the vehicle ahead has passed; B、Quickly overtake the vehicle ahead to climb the hill; C、Overtake the vehicle ahead at low speed to climb the hill; D、Follow closely behind the vehicle ahead to climb the hill
+0 options_en A The English translation "Climb the hill after the vehicle ahead has passed" omits the nuance of waiting for the vehicle ahead to finish climbing/pass before proceeding. => A、Wait until the vehicle ahead has passed/climbed before climbing the hill
+1 options_en B The English translation "Quickly overtake the vehicle ahead to climb the hill" adds "to climb the hill" which is not explicitly in the Chinese "迅速超越前车爬坡". => B、Quickly overtake the vehicle ahead
+2 options_en C The English translation "Overtake the vehicle ahead at low speed to climb the hill" adds "to climb the hill" which is not explicitly in the Chinese "低速超越前车爬坡". => C、Overtake the vehicle ahead at low speed
+3 options_en D The English translation "Follow closely behind the vehicle ahead to climb the hill" adds "to climb the hill" which is not explicitly in the Chinese "紧随前车后爬坡". => D、Follow closely behind the vehicle ahead
+
+# trllm_subj4_538 Q 驾驶机动车在冰雪路面行车注意什么？ | When driving a motor vehicle on an icy or snowy road surface, what should be noted? OPT A、制动距离延长; B、抗滑能力变大; C、路面附着力变大; D、制动距离变短 | A、The braking distance is extended; B、The anti-skid capability is increased; C、The road adhesion is increased; D、The braking distance is shortened
+0 options_en B The English translation "The anti-skid capability is increased" is inaccurate; Chinese "抗滑能力变大" means anti-skid capability becomes greater/increases, which is factually wrong for icy roads but must be faithfully translated. => B、The anti-skid capability increases
+1 options_en C The English translation "The road adhesion is increased" is inaccurate; Chinese "路面附着力变大" means road adhesion becomes greater/increases, which is factually wrong for icy roads but must be faithfully translated. => C、The road adhesion increases
+
+# trllm_subj4_541 Q 冰雪路面处理情况不能使用紧急制动， 但可采取急转向的方法躲避。 | Emergency braking must not be used on icy or snowy roads, but sudden steering may be used to avoid hazards. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The Chinese sentence contains a comma splice separating two clauses: '冰雪路面处理情况不能使用紧急制动' (emergency braking must not be used under icy/snowy road conditions) and '但可采取急转向的方法躲避' (but sudden steering may be used to avoid hazards). The English translation merges them into a single sentence with 'but', which is acceptable, but the first clause's subject '冰雪路面处理情况' (icy/snowy road treatment conditions) is rendered as 'icy or snowy roads', omitting 'treatment conditions' (处理情况). => Emergency braking must not be used under icy or snowy road treatment conditions, but sudden steering may be used to avoid hazards.
+
+# trllm_subj4_542 Q 由于冰雪路面不能使用紧急制动，遇到突然情况可采取急转向的方法躲避。 | Because emergency braking cannot be used on icy or snowy roads, sudden steering may be used to avoid hazards when encountering sudden situations. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The Chinese sentence contains a comma splice: '由于冰雪路面不能使用紧急制动' (because emergency braking cannot be used on icy/snowy roads) and '遇到突然情况可采取急转向的方法躲避' (when encountering sudden situations, sudden steering may be used to avoid hazards). The English translation merges them with 'Because... may be used...', which is acceptable, but '冰雪路面' is translated as 'icy or snowy roads' (acceptable). No material discrepancy found in meaning. => 
+
+# trllm_subj4_543 Q 驾驶汽车在冰雪道路上怎样安全行车？ | How to drive safely on icy or snowy roads? OPT A、必要时安装防滑链; B、必须降低车速; C、开启雾灯行驶; D、利用发动机制动 | A、Install snow chains when necessary; B、Must reduce speed; C、Turn on fog lights; D、Use engine braking
+0 question_en No material translation issue found. => 
+1 options_en No material translation issue found. => 
+
+# trllm_subj4_544 Q 在冰雪路面制动时，发现车辆偏离方向，以下做法正确的是？ | When braking on icy or snowy roads, if the vehicle deviates from its direction, which of the following is correct? OPT A、连续轻踩轻放刹车; B、用力踩刹车; C、停止踩刹车; D、以上做法都不对 | A、Lightly press and release the brake repeatedly; B、Press the brake hard; C、Stop pressing the brake; D、None of the above
+0 question_en No material translation issue found. => 
+1 options_en No material translation issue found. => 
+
+# trllm_subj4_545 Q 大风天气行车，由于风速和风向往往不断地发生变化，当感到转向盘突然难以控制时，驾驶人要怎么做？ | When driving in strong winds, since wind speed and direction often change constantly, what should the driver do when the steering wheel suddenly becomes difficult to control? OPT A.逆风向转动转向盘; B.顺风向转动转向盘; C.采取紧急制动; D.双手稳握转向盘 | A、Turn the steering wheel against the wind; B、Turn the steering wheel with the wind; C、Apply emergency braking; D、Hold the steering wheel firmly with both hands
+0 question_en No material translation issue found. => 
+1 options_en No material translation issue found. => 
+
+# trllm_subj4_546 Q 大风天气行车中，如果遇到狂风袭来，感觉车辆产生横向偏移时，要急转方向以恢复行驶方向。 | When driving in strong winds, if a sudden gust causes the vehicle to shift laterally, turn the steering wheel sharply to restore the direction of travel. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the negation implied by the answer key (B/False). The Chinese statement advises sharply turning the steering wheel, which is unsafe and incorrect; the English reads as a standalone instruction without indicating it is a false proposition. => When driving in strong winds, if a sudden gust causes the vehicle to shift laterally, turn the steering wheel sharply to restore the direction of travel. (False)
+
+# trllm_subj4_547 Q 如果遇到较强横风，感觉机动车产生横向偏移时，要握紧转向盘并紧急制动。 | If a strong crosswind causes the motor vehicle to shift laterally, grip the steering wheel tightly and apply emergency braking. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the negation implied by the answer key (B/False). The Chinese statement advises emergency braking, which is unsafe and incorrect; the English reads as a standalone instruction without indicating it is a false proposition. => If a strong crosswind causes the motor vehicle to shift laterally, grip the steering wheel tightly and apply emergency braking. (False)
+
+# trllm_subj4_548 Q 大风天行车需要注意什么？ | What should be noted when driving in strong winds? OPT A、注意车辆的横向移动; B、尽量减少超车; C、尽量避免制动; D、关紧车窗 | A、Pay attention to lateral movement of the vehicle; B、Avoid overtaking as much as possible; C、Avoid braking as much as possible; D、Close the windows tightly
+0 answer The answer field contains a Chinese colon and no option label: '：'. => Provide the correct option label(s), e.g., A, B, D.
+
+# trllm_subj4_549 Q 在泥泞路段行车，要怎样控制速度，匀速—次性通过？ | When driving on muddy sections, how should speed be controlled to pass through steadily in one go? OPT A、使用驻车制动器; B、踏下离合器踏板; C、踏制动踏板; D、用加速踏板 | A、Use the parking brake; B、Depress the clutch pedal; C、Depress the brake pedal; D、Use the accelerator pedal
+0 question_en The phrase '匀速—次性通过' uses an em dash; the English translation renders it as 'steadily in one go', which is acceptable, but the dash itself is not reflected. => When driving on muddy sections, how should speed be controlled to pass through steadily—at a constant speed—in one go?
+
+# trllm_subj4_551 Q 在泥泞路段遇车后轮向右侧滑时如何处置？ | When the rear wheels skid to the right on a muddy section, how should it be handled? OPT A、继续加速; B、向右转向; C、向左转向; D、紧急制动 | A、Continue accelerating; B、Steer right; C、Steer left; D、Apply emergency braking
+0 question_en The English translation omits the word "后轮" (rear wheels). => When the rear wheels skid to the right on a muddy section, how should it be handled?
+
+# trllm_subj4_552 Q 在泥泞路段遇驱动车轮空转打滑时如何处置？ | When the drive wheels spin and slip on a muddy section, how should it be handled? OPT A、在从动轮下铺垫砂石; B、换高速挡加速猛冲; C、在驱动轮下铺垫砂石; D、猛打转向盘配合急加速 | A、Spread sand or gravel under the driven wheels; B、Shift to a high gear and accelerate hard; C、Spread sand or gravel under the drive wheels; D、Turn the steering wheel sharply with sudden acceleration
+0 option A The English translation says "driven wheels" instead of "drive wheels" (驱动轮). => Spread sand or gravel under the drive wheels
+
+# trllm_subj4_562 Q 车辆在泥泞路上发生侧滑时，以下做法正确的是？ | When a vehicle skids on a muddy road, which of the following actions is correct? OPT A、向侧滑的一侧转动转向盘适量修正; B、向侧滑的另—侧转动转向盘适量修正; C、迅速制动减速; D、迅速制动停车 | A、Turn the steering wheel appropriately toward the side of the skid to correct; B、Turn the steering wheel appropriately toward the opposite side of the skid to correct; C、Brake quickly to slow down; D、Brake quickly to stop
+0 answer The answer field contains only a colon and no answer options. => Provide the correct answer option(s) or leave blank if unknown.
+
+# trllm_subj4_585 Q 驾驶汽车在山区道路转弯下陡坡路段遇对面来车怎样行驶？ | When driving a car on a mountain road and encountering an oncoming vehicle while turning down a steep slope, how should the vehicle be driven? OPT A、转弯前减速; B、进入弯道后加速; C、靠路右侧行驶; D、挂空挡滑行 | A、Slow down before turning; B、Accelerate after entering the curve; C、Drive on the right side of the road; D、Coast in neutral
+0 answer The English answer field is missing; only the Chinese answer "AC" is present in the source. => Add "answer": "AC"
+
+# trllm_subj4_601 Q 机动车上高速公路，以下哪种说法是错误的？ | Which of the following statements about motor vehicles entering an expressway is incorrect? OPT A、不可骑、轧车道分界线行驶; B、不可在路肩上行驶; C、可以在匝道、加速车道或者减速车道上超车; D、不可学习驾驶 | A、Must not ride or straddle lane dividing lines; B、Must not drive on the shoulder; C、May overtake on ramps, acceleration lanes, or deceleration lanes; D、Must not practice driving
+0 options_en C The English translation reverses the meaning of the Chinese option. The Chinese states overtaking is prohibited on ramps, acceleration lanes, or deceleration lanes, while the English states it is permitted. => May not overtake on ramps, acceleration lanes, or deceleration lanes
+
+# trllm_subj4_608 Q 关于在高速公路匝道路段行驶，以下说法正确的是什么？ | Regarding driving on expressway ramps, which of the following statements is correct? OPT A、从匝道驶入高速公路，应当开启右转向灯; B、驶离高速公路进入匝道时，应当开启右转向灯; C、可在匝道上超车; D、驶入错误的匝道后，可倒车行驶回高速公路 | A、When entering an expressway from a ramp, turn on the right-turn signal; B、When leaving an expressway and entering a ramp, turn on the right-turn signal; C、Overtaking is allowed on ramps; D、After entering the wrong ramp, one may reverse back to the expressway
+0 option A The English translation omits the Chinese word "应当" (shall/should), changing the meaning from a mandatory requirement to a permissive suggestion. => A、When entering an expressway from a ramp, shall turn on the right-turn signal
+1 option B The English translation omits the Chinese word "应当" (shall/should), changing the meaning from a mandatory requirement to a permissive suggestion. => B、When leaving an expressway and entering a ramp, shall turn on the right-turn signal
+
+# trllm_subj4_611 Q 遇高速公路限速标志标明的车速与车道行驶车速的规定不—致的， 应按照车道行驶规定的车速行驶。 | If the speed indicated by an expressway speed limit sign is inconsistent with the speed specified for the lane, one should drive at the speed specified for the lane. OPT A、正确; B、错误 | A、True; B、False
+0 question_zh The Chinese text contains a typographical error: “不—致” uses a long dash instead of “不一致”. => Correct the Chinese source to “不一致”.
+1 question_en The English translation reverses the legal rule stated in the Chinese. The Chinese says drivers should follow the expressway speed limit sign when it conflicts with the lane speed regulation; the English says to follow the lane speed. => Revise to: “If the speed indicated by an expressway speed limit sign is inconsistent with the speed specified for the lane, one should drive at the speed indicated by the speed limit sign.”
+
+# trllm_subj4_614 Q 机动车通过隧道时，禁止以下哪些行为？ | When a motor vehicle passes through a tunnel, which of the following behaviors are prohibited? OPT A、超车; B、停车; C、掉头; D、倒车 | A、Overtaking; B、Stopping; C、Making a U-turn; D、Reversing
+0 question_en The English question omits “which of the following” and reads as a general statement rather than a multiple-choice question matching the Chinese. => Revise to: “When a motor vehicle passes through a tunnel, which of the following behaviors are prohibited?”
+1 answer The provided answer “A” is incomplete; the Chinese question asks for multiple prohibited behaviors and all four options (overtaking, stopping, U-turn, reversing) are prohibited in a tunnel. => Verify the intended answer key; if multiple selections are allowed, the answer should include A, B, C, and D.
+
+# trllm_subj4_626 Q 机动车在高速公路上发生故障或者交通事故，无法正常行驶的，可由同行机动车拖曳、牵引。 | If a motor vehicle breaks down or is involved in a traffic accident on an expressway and cannot travel normally, it may be towed or pulled by another motor vehicle traveling with it. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the modal verb '可' (may/allowed to), changing the statement from a permission to a possibility. => If a motor vehicle breaks down or is involved in a traffic accident on an expressway and cannot travel normally, it may be towed or pulled by another motor vehicle traveling with it.
+
+# trllm_subj4_627 Q 机动车因故障必须在高速公路上停车时，要采取的正确做法是什么？ | When a motor vehicle must stop on an expressway due to a fault, what is the correct practice? OPT A、在车后150米处设置故障警告标志; B、在车后100米处设置故障警告标志; C、夜间要开启示廓灯和后位灯; D、要开启危险报警闪光灯 | A、Place a breakdown warning sign 150 meters behind the vehicle; B、Place a breakdown warning sign 100 meters behind the vehicle; C、At night, turn on the position lights and rear lights; D、Turn on the hazard warning flashers
+0 option label A The English translation states '150 meters', but the Chinese text states '150米' (150 meters). No discrepancy found in value, but standard driving test rules often specify 150 meters for expressways. However, checking against the provided text, the translation is accurate. => No change needed.
+1 option label B The English translation states '100 meters', matching the Chinese '100米'. => No change needed.
+2 option label C The English translation omits '夜间' (at night) which is present in the Chinese text '夜间要开启示廓灯和后位灯'. => At night, turn on the position lights and rear lights.
+3 option label D The English translation is accurate. => No change needed.
+
+# trllm_subj4_628 Q 夜间会车前，两车在相距150米之外交替变换前照灯远近光的作用是什么？ | Before meeting another vehicle at night, when the two vehicles are more than 150 meters apart, what is the function of alternately switching the headlights between high and low beams? OPT A、会车前两车之间相互提示; B、驾驶操作的习惯行为; C、便于双方观察前方情况; D、驾驶人之间的一种礼节 | A、To remind each other before the two vehicles meet; B、A habitual driving operation; C、To facilitate both parties observing the road ahead; D、A courtesy between drivers
+0 question_en The English translation states 'more than 150 meters apart', but the Chinese text states '相距150米之外' which literally means 'outside of 150 meters distance' (i.e., more than 150 meters). The translation is accurate. => No change needed.
+1 option label C The English translation is accurate. => No change needed.
+
+# trllm_subj4_629 Q 夜间驾驶汽车在急弯道停车时要开启危险报警闪光灯。 | When driving a motor vehicle at night and stopping on a sharp curve, the hazard warning flashers should be turned on. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation is accurate. => No change needed.
+
+# trllm_subj4_630 Q 夜间驾驶汽车在急弯道超车时要不断变换远、近光灯。 | When driving a motor vehicle at night and overtaking on a sharp curve, the driver should continuously switch between high and low beams. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation is accurate. => No change needed.
+
+# trllm_subj4_639 Q 驾驶机动车在城市快速路上行驶，以下做法错误的是什么？ | When driving a motor vehicle on an urban expressway, which of the following practices is incorrect? OPT A：在最左侧车道内停车    ; B：在路肩上行驶; C：学习驾驶机动车; D：倒车 | A：Stopping within the leftmost lane; B：Driving on the shoulder; C：Learning to drive a motor vehicle; D：Reversing
+0 options_en The English translation omits the Chinese punctuation marks (：) after each option label. => A：Stopping within the leftmost lane; B：Driving on the shoulder; C：Learning to drive a motor vehicle; D：Reversing
+
+# trllm_subj4_646 Q 夜间机动车灯光照射距离由近及远，可能是什么原因？ | At night, the motor vehicle lighting distance changes from near to far. What could be the reason? OPT A、由弯道进入直线道; B、进入连续弯道; C、前方出现大坑; D、前方出现弯道 | A、Entering a straight road from a curve; B、Entering continuous curves; C、A large pothole ahead; D、A curve ahead
+0 question_en The English translation reverses the meaning of the Chinese phrase "由近及远" (from near to far). => At night, the motor vehicle lighting distance changes from far to near. What could be the reason?
+
+# trllm_subj4_647 Q 驾驶机动车进入隧道前，以下做法正确的是什么？ | Before driving a motor vehicle into a tunnel, which of the following practices is correct? OPT A、在照明不足、影晌视距的隧道前鸣喇叭示意; B、与前车保持充足的安全距离; C、按照限速标志控制车速; D、进入隧道前开启前照灯 | A、Sound the horn before entering a tunnel with insufficient lighting that affects visibility; B、Maintain a sufficient safe distance from the vehicle ahead; C、Control vehicle speed according to speed limit signs; D、Turn on headlights before entering the tunnel
+0 options_en Option A omits the Chinese phrase "影晌视距" (affecting sight distance/visibility range), which is part of the condition for honking. => A、Sound the horn before entering a tunnel with insufficient lighting that affects sight distance
+
+# trllm_subj4_656 Q 驾驶机动车在隧道行驶时，眼睛的明暗适应过程不会影晌行车安全。 | When driving a motor vehicle in a tunnel, the process of the eyes adapting to light and dark will not affect driving safety. OPT A、正确; B、错误 | A、True; B、False
+0 question_zh The Chinese word "影晌" appears to be a typographical error for "影响". => Correct the Chinese source text to "影响" if possible; otherwise translate faithfully as "affect".
+1 question_en The English translation omits the negation "不会" (will not). => Change to "When driving a motor vehicle in a tunnel, the process of the eyes adapting to light and dark will not affect driving safety."
+
+# trllm_subj4_664 Q 驾驶机动车通过立交桥时，如发现选择路线错误，应该如何行驶？ | When driving a motor vehicle through an interchange, if you realize you have chosen the wrong route, how should you proceed? OPT A、在原地掉头; B、在原地倒车驶回; C、继续向前行驶，寻找下—个允许掉头的路口; D、立即停车 | A、Make a U-turn on the spot; B、Reverse on the spot to return; C、Continue forward and look for the next intersection where a U-turn is allowed; D、Stop immediately
+0 option C The English translation inserts an em dash in "下—个" that is not present in the source Chinese "下一个". => Continue forward and look for the next intersection where a U-turn is allowed
+
+# trllm_subj4_666 Q 驶近坡道顶端无法看清前方路口时，要加速冲过坡顶，尽快通过。 | When approaching the top of a slope where the intersection ahead cannot be seen clearly, accelerate over the crest and pass through as quickly as possible. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the negation present in the Chinese source. The Chinese states '要加速冲过坡顶' (should accelerate over the crest), while the English renders it as an imperative statement without clearly marking it as the unsafe proposition being evaluated; however, the core meaning is preserved. No material discrepancy found in options. => question_en: When approaching the top of a slope where the intersection ahead cannot be seen clearly, [the statement claims you should] accelerate over the crest and pass through as quickly as possible.
+
+# trllm_subj4_673 Q 夜间驾驶机动车在普通道路上发生故障后，应如何放置警告标志？ | After a motor vehicle breaks down on a regular road at night, how should the warning sign be placed? OPT A、到达车后40米处，打开警告标志后放置好; B、手持警告标志并将反光面面向来车方向，靠路边行走，放在车后50米外的位置; C、放在车后20米的位置; D、迎着来车方向在车道内行走，放在车后50米的位置 | A、Reach a point 40 meters behind the vehicle, turn on the warning sign, and place it; B、Hold the warning sign with the reflective surface facing oncoming traffic, walk along the roadside, and place it more than 50 meters behind the vehicle; C、Place it at a position 20 meters behind the vehicle; D、Walk facing oncoming traffic within the lane and place it 50 meters behind the vehicle
+0 option A The English omits the Chinese phrase "打开警告标志后放置好" (turn on the warning sign and place it properly), and "到达车后40米处" is translated as "Reach a point 40 meters behind the vehicle" without specifying that this is where the sign should be placed. => A、Turn on the warning sign and place it at a point 40 meters behind the vehicle
+1 option B The English omits "手持" (hold) and "靠路边行走" (walk along the roadside), and "放在车后50米外的位置" is translated as "place it outside 50 meters behind the vehicle" which is ambiguous; the Chinese means place it at a position more than 50 meters behind the vehicle. => B、Hold the warning sign with the reflective surface facing oncoming traffic, walk along the roadside, and place it at a position more than 50 meters behind the vehicle
+2 option C The English omits "放在" (place it at) and simply says "Place it at a position 20 meters behind the vehicle", which is acceptable but slightly less precise than the Chinese. => C、Place it at a position 20 meters behind the vehicle
+3 option D The English omits "迎着来车方向" (facing oncoming traffic) in the first clause and "在车道内行走" (walk within the lane), and "放在车后50米的位置" is translated as "place it 50 meters behind the vehicle" which is acceptable. => D、Walk facing oncoming traffic within the lane and place it 50 meters behind the vehicle
+
+# trllm_subj4_676 Q 当遭遇横风时，驾驶人应该怎么做？ | When encountering a crosswind, what should the driver do? OPT A、双手稳握转向盘; B、来风方向适当修正转向盘; C、顺风向转动转向盘; D、采取紧急制动 | A、Hold the steering wheel firmly with both hands; B、Appropriately correct the steering wheel toward the direction the wind is coming from; C、Turn the steering wheel in the direction of the wind; D、Apply emergency braking
+0 options_en B The English translation reverses the steering correction direction. The Chinese says to correct toward the direction the wind is coming from (来风方向), which matches the English, but standard crosswind technique is to steer into the wind; however, since the task is to check translation fidelity, the English matches the Chinese. No material discrepancy found. => 
+1 options_en C The English translation "Turn the steering wheel in the direction of the wind" is ambiguous and could be interpreted as downwind, whereas the Chinese 顺风向 means with/along the wind direction (downwind). The translation is acceptable but slightly imprecise. => Turn the steering wheel with the wind / downwind
+
+# trllm_subj4_681 Q 夜间机动车灯光照射距离由近变远，此时车辆可能是行驶到什么位置？ | When the lighting distance of a motor vehicle's headlights at night changes from near to far, at what position might the vehicle be traveling? OPT A、行驶到坡底; B、进入连续弯道; C、前方出现大坑; D、前方出现弯道 | A、Traveling to the bottom of a slope; B、Entering a continuous curve; C、A large pothole appears ahead; D、A curve appears ahead
+0 question_en The English translation reverses the meaning of the Chinese phrase "由近变远" (from near to far). => When the lighting distance of a motor vehicle's headlights at night changes from far to near, at what position might the vehicle be traveling?
+1 option A The English translation "Traveling to the bottom of a slope" does not match the Chinese "行驶到坡底" (has arrived at / reached the bottom of a slope). => A、Reached the bottom of a slope
+
+# trllm_subj4_682 Q 隧道内行车，下列说法正确的是什么？ | When driving in a tunnel, which of the following statements is correct? OPT A、进入隧道开启近光灯; B、进入隧道提前减速; C、隧道内附着力减小; D、隧道内减速行驶 | A、Turn on low-beam headlights when entering the tunnel; B、Slow down in advance when entering the tunnel; C、Traction decreases inside the tunnel; D、Drive at a reduced speed inside the tunnel
+0 options_en The English translation of option C "Traction decreases inside the tunnel" does not match the Chinese "隧道内附着力减小" (adhesion/grip decreases inside the tunnel). => C、Adhesion decreases inside the tunnel
+
+# trllm_subj4_683 Q 驾驶机动车通过立交桥左转弯时，应如何行驶？ | When driving a motor vehicle and turning left at an interchange, how should one proceed? OPT A、先观察交通标志，后按标线的引导行驶; B、先观察标线，后按照交通标志行驶; C、不观察标志标线，过桥前先右转弯; D、不观察标志标线，上桥后寻找出口 | A、Observe traffic signs first, then proceed according to the guidance of road markings; B、Observe road markings first, then proceed according to traffic signs; C、Do not observe signs or markings; turn right before crossing the bridge; D、Do not observe signs or markings; look for an exit after crossing the bridge
+0 options_en The English translation of option C "turn right before crossing the bridge" omits the Chinese "过桥前先右转弯" (turn right first before crossing the bridge). => C、Do not observe signs or markings; turn right first before crossing the bridge
+
+# trllm_subj4_686 Q 雨天行车，遇撑雨伞和穿雨衣的行人在公路上行走时，应连续鸣喇叭使其让行。 | When driving in the rain and encountering pedestrians walking on the road holding umbrellas or wearing raincoats, one should continuously honk the horn to make them yield. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese word "连续" (continuously) before "鸣喇叭". => When driving in the rain and encountering pedestrians walking on the road holding umbrellas or wearing raincoats, one should continuously honk the horn to make them yield.
+
+# trllm_subj4_687 Q 高速公路上行车，如果因疏忽驶过出口，下列做法错误的是什么？ | When driving on an expressway, if you miss an exit due to negligence, which of the following actions is incorrect? OPT A、立即停车 ; B、在原地掉头; C、在原地倒车驶回; D、继续向前行驶，寻找下—个出口 | A、Stop immediately; B、Make a U-turn on the spot; C、Reverse on the spot to return; D、Continue forward and look for the next exit
+0 options_en Option D contains a typographical error: "下—个" uses an em dash instead of the Chinese character "下一个" (next). => Continue forward and look for the next exit
+
+# trllm_subj4_688 Q 雨雪天气驾驶人在高速路行驶时，车辆突然向右发生侧滑，应紧急向左打方向盘，使车辆保持稳定。 | When driving in rainy or snowy weather on an expressway, if the vehicle suddenly skids to the right, one should urgently turn the steering wheel to the left to keep the vehicle stable. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese word "紧急" (urgently/emergency) before "向左打方向盘". => When driving in rainy or snowy weather on an expressway, if the vehicle suddenly skids to the right, one should urgently turn the steering wheel to the left to keep the vehicle stable.
+
+# trllm_subj4_689 Q 雪天在高速公路上驾驶时，关于安全车距说法正确的是什么？ | When driving on an expressway in snowy weather, which statement about safe following distance is correct? OPT A：雪天路滑，制动距离比干燥柏油路更长 ; B：雪天能见度低，应该根据能见度控制安全距离 ; C：能见度小于200m时，与前车至少保持50m的安全距离 ; D：能见度小于50m时，应该驶离高速公路 | A：Roads are slippery in snowy weather, and braking distance is longer than on dry asphalt roads; B：Visibility is low in snowy weather, so safe distance should be controlled according to visibility; C：When visibility is less than 200m, maintain a safe distance of at least 50m from the vehicle ahead; D：When visibility is less than 50m, one should leave the expressway
+0 options_en Option C omits the Chinese word "至少" (at least) before "保持50m的安全距离". => When visibility is less than 200m, maintain a safe distance of at least 50m from the vehicle ahead
+
+# trllm_subj4_691 Q 高速行驶的机动车，在转向失控的情况下紧急制动，不会造成翻车。 | When a motor vehicle traveling at high speed brakes suddenly while steering is out of control, it will not cause a rollover. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation reverses the meaning of the Chinese statement. The Chinese says "will not cause a rollover" (不会造成翻车), while the English says "it will not cause a rollover" which actually matches, but wait—checking again: Chinese "不会造成翻车" = "will not cause rollover"; English "it will not cause a rollover" matches. However, the answer is B (False), meaning the statement is false. The translation is accurate. No material issue found. => 
+
+# trllm_subj4_692 Q 机动车转向突然失控后，若前方道路条件能够保持直线行驶，不要紧急制动。 | After a motor vehicle's steering suddenly loses control, if the road conditions ahead allow straight-line driving, do not brake suddenly. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the negation. Chinese "不要紧急制动" means "do not brake suddenly" / "do not emergency brake". The English says "do not brake suddenly" which matches. No material issue found. => 
+
+# trllm_subj4_693 Q 高速行驶的机动车，在转向失控的情况下紧急制动，很容易造成翻车。 | When a motor vehicle traveling at high speed brakes suddenly while steering is out of control, it is very likely to cause a rollover. OPT A、正确; B、错误 | A、True; B、False
+0 question_en No material translation issue found. The English accurately reflects the Chinese meaning. => 
+
+# trllm_subj4_694 Q 当机动车已偏离直线行驶方向，事故已经无可避免时，应果断地连续踏制动踏板，尽量缩短停车距离，减轻撞车力度。 | When a motor vehicle has deviated from its straight-line direction of travel and an accident is unavoidable, one should decisively press the brake pedal repeatedly to shorten the stopping distance as much as possible and reduce the impact force of the collision. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation adds "repeatedly" which is not in the Chinese text. Chinese "果断地连续踏制动踏板" means "decisively and continuously press the brake pedal" (continuous pressing, not necessarily pumping/repeatedly releasing and pressing). The English "press the brake pedal repeatedly" could imply intermittent pumping, which changes the meaning. => When a motor vehicle has deviated from its straight-line direction of travel and an accident is unavoidable, one should decisively and continuously press the brake pedal to shorten the stopping distance as much as possible and reduce the impact force of the collision.
+
+# trllm_subj4_695 Q 机动车高速行驶中出现转向失控时，驾驶人要如何处置？ | When steering control is lost while a motor vehicle is traveling at high speed, how should the driver handle it? OPT A、紧急制动; B、抢挂低速挡; C、合理使用行车制动和驻车制动，避免紧急制动; D、开启危险报警闪光灯 | A、Brake suddenly; B、Downshift rapidly; C、Reasonably use the service brake and parking brake, avoiding sudden braking; D、Turn on the hazard warning flashers
+0 option_en B The English translation "Downshift rapidly" adds "rapidly" which is not in the Chinese "抢挂低速挡" (emergency downshift / quickly shift to a lower gear). While "抢" implies urgency, "rapidly" is an addition not strictly present. => Downshift to a lower gear
+1 option_en C The English translation omits "emergency" or "urgent" for "驻车制动". Chinese "驻车制动" in this context refers to the parking/emergency brake. The English "parking brake" is acceptable but could be clearer as "emergency/parking brake". However, this is a minor terminology choice, not a material discrepancy. => 
+
+# trllm_subj4_697 Q 高速行车中行车制动突然失灵时，驾驶人要如何制动？ | When the service brake suddenly fails while driving at high speed, how should the driver brake? OPT A、连续踩踏制动踏板; B、抢挂低速档减速后，使用驻车制动; C、迅速踏下离合器踏板; D、迅速拉紧驻车制动器操纵杆 | A、Press the brake pedal repeatedly; B、Downshift rapidly to decelerate, then use the parking brake; C、Quickly depress the clutch pedal; D、Quickly pull up the parking brake lever tightly
+0 option B The English translation adds "rapidly" to "Downshift", which is not present in the Chinese text "抢挂低速档减速后". => B、Downshift to a lower gear to decelerate, then use the parking brake
+
+# trllm_subj4_698 Q 下坡路行车中制动突然失效怎样处置？ | When braking suddenly fails while driving downhill, how should it be handled? OPT A、可利用避险车道减速停车; B、越二级挡位减挡; C、挂倒挡迫使停车; D、拉紧驻车制动器减速 | A、Use an emergency escape lane to decelerate and stop; B、Downshift by more than one gear; C、Shift into reverse to force a stop; D、Pull up the parking brake lever tightly to decelerate
+0 option B The English translation adds "by more than one gear" to "Downshift", which is not present in the Chinese text "越二级挡位减挡". => B、Downshift by skipping gears
+
+# trllm_subj4_699 Q 下坡路制动突然失效后，不可采用的办法是什么？ | After braking suddenly fails while driving downhill, which method cannot be used? OPT A、将机动车向上坡道方向行驶; B、用车身靠向路旁的岩石或树林碰擦; C、利用道路边专设的避险车道停车; D、拉紧驻车制动器操纵杆或越二级挡位减挡 | A、Drive the motor vehicle toward an uphill direction; B、Use the vehicle body to scrape against rocks or trees on the roadside; C、Use the emergency escape lane specially set on the side of the road to stop; D、Pull up the parking brake lever tightly or downshift by more than one gear
+0 option D The English translation adds "tightly" to "Pull up the parking brake lever" and "by more than one gear" to "downshift", which are not present in the Chinese text "拉紧驻车制动器操纵杆或越二级挡位减挡". => D、Pull up the parking brake lever or downshift by skipping gears
+
+# trllm_subj4_706 Q 下坡路行驶，制动突然失效后，可采用的减速方法是什么？ | When driving downhill and the brakes suddenly fail, what deceleration methods can be used? OPT A、利用道路边专设避险车道减速停车; B、用车身靠向路旁的岩石或树木碰擦; C、首先拉紧驻车制动; D、抢挂低速档 | A、Use the emergency escape lane specially set on the roadside to decelerate and stop; B、Use the vehicle body to rub against rocks or trees beside the road; C、First pull the parking brake tightly; D、Quickly shift into a low gear
+0 option C Translation omits the adverb 先 (first), changing the procedural meaning. => First pull the parking brake tightly
+1 option D Translation omits the adverb 先 (first), changing the procedural meaning. => First shift into a low gear
+
+# trllm_subj4_711 Q 机动车在行驶中，遇雨雪天气向右侧滑时，要向左打方向，使其稳定。 | When a motor vehicle skids to the right in rainy or snowy weather while driving, turn the steering wheel to the left to stabilize it. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the phrase "in rainy or snowy weather" (遇雨雪天气), which is a material condition in the original Chinese question. => When a motor vehicle skids to the right while driving in rainy or snowy weather, turn the steering wheel to the left to stabilize it.
+
+# trllm_subj4_721 Q 前轮爆胎时，驾驶人控制住行驶方向后，要采取什么措施减速停车？ | When the front tire blows out, after the driver controls the direction of travel, what measure should be taken to decelerate and stop? OPT A、抢挂高速挡; B、抢挂低速挡; C、抢挂空挡; D、紧急制动 | A、Shift into a high gear; B、Shift into a low gear; C、Shift into neutral; D、Emergency braking
+0 options_en A Translation omits the nuance of '抢' (rush/hastily) and '高速挡' (high-speed gear/top gear). => A、Rush into a high gear
+1 options_en B Translation omits the nuance of '抢' (rush/hastily). => B、Rush into a low gear
+2 options_en C Translation omits the nuance of '抢' (rush/hastily). => C、Rush into neutral
+
+# trllm_subj4_725 Q 行车中当机动车突然爆胎时，驾驶人切忌慌乱中急踏制动踏板，尽量采用抢挂低速档的方法，利用发动机制动使机动车减速。 | When a motor vehicle suddenly blows out a tire while driving, the driver must avoid panicking and suddenly pressing the brake pedal, and should try to shift into a low gear to use engine braking to decelerate the vehicle. OPT A、正确; B、错误 | A、True; B、False
+0 options_en A Translation uses 'True' instead of 'Correct' for a 正确/错误 question. => A、Correct
+1 options_en B Translation uses 'False' instead of 'Incorrect' for a 正确/错误 question. => B、Incorrect
+
+# trllm_subj4_731 Q 行车中当驾驶人意识到机动车爆胎时，应在控制住方向的情况下采取紧急制动，迫使机动车迅速停住。 | When the driver realizes a motor vehicle tire has blown out while driving, they should apply emergency braking after controlling the direction to force the vehicle to stop quickly. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the negation implied by the answer B (False). The Chinese statement is a false/unsafe instruction, but the English reads as an affirmative instruction without indicating it is incorrect. => When the driver realizes a motor vehicle tire has blown out while driving, they should apply emergency braking after controlling the direction to force the vehicle to stop quickly. (This statement is false.)
+
+# trllm_subj4_736 Q 怎样正确使用灭火器灭火？ | How to correctly use a fire extinguisher to put out a fire? OPT A、人要站在下风处; B、灭火器瞄准火源; C、尽量接近火源; D、灭火器瞄准火苗 | A、Stand downwind; B、Aim the fire extinguisher at the source of the fire; C、Get as close to the fire source as possible; D、Aim the fire extinguisher at the flames
+0 option C The English translation adds "as possible", which is not present in the Chinese source "尽量接近火源". => Get close to the fire source
+
+# trllm_subj4_741 Q 救火时不要脱去所穿的化纤服装，以免伤害暴露的皮肤。 | When fighting a fire, do not remove synthetic clothing you are wearing, to avoid injuring exposed skin. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation reverses the meaning of the Chinese statement. The Chinese says not to remove synthetic clothing, while the English says do not remove synthetic clothing but gives a different reason; however, the core issue is that the English translation omits the key safety instruction context and slightly alters the meaning by implying removal is the danger rather than exposure. More precisely, the Chinese warns against removing the clothing to avoid injury to exposed skin, whereas the English phrasing is ambiguous and could be read as simply not removing it without the same causal link. A clearer translation is needed to preserve the exact meaning. => When fighting a fire, do not remove the synthetic clothing you are wearing, so as to avoid injury to exposed skin.
+
+# trllm_subj4_751 Q 机动车不慎落水，车门无法开启时，可选择的自救方法是什么？ | If a motor vehicle accidentally falls into water and the doors cannot be opened, what self-rescue methods can be chosen? OPT A、敲碎侧窗玻璃; B、关闭车窗; C、打电话求救; D、用工具撬开车门 | A、Break the side window glass; B、Close the windows; C、Call for help; D、Pry open the door with tools
+0 options_en Option B 'Close the windows' is an unsafe/false statement in this context and must remain faithfully translated; however, the English omits the Chinese enumeration mark '、' after the option label, unlike other options. => B、Close the windows
+1 options_en Option C 'Call for help' omits the Chinese enumeration mark '、' after the option label. => C、Call for help
+2 options_en Option D 'Pry open the door with tools' omits the Chinese enumeration mark '、' after the option label. => D、Pry open the door with tools
+
+# trllm_subj4_752 Q 机动车落水后，要迅速关闭车窗阻挡车内进水，短暂闭绝空气，可打电话告知救援人员失事地点，等待救援。 | After a motor vehicle falls into water, quickly close the windows to prevent water from entering the vehicle, briefly cut off the air, call to inform rescue personnel of the accident location, and wait for rescue. OPT A、正确; B、错误 | A、True; B、False
+0 options_en Option A 'True' omits the Chinese enumeration mark '、' after the option label. => A、True
+1 options_en Option B 'False' omits the Chinese enumeration mark '、' after the option label. => B、False
+
+# trllm_subj4_753 Q 在高速公路上遇到紧急情况避险时需注意什么？ | When encountering an emergency situation requiring avoidance on an expressway, what should be noted? OPT A、采取制动措施减速; B、向左侧转向避让; C、迅速转动转向盘躲避; D、向右侧转向避让 | A、Take braking measures to slow down; B、Turn left to avoid; C、Turn the steering wheel quickly to avoid; D、Turn right to avoid
+0 options_en Option A 'Take braking measures to slow down' omits the Chinese enumeration mark '、' after the option label. => A、Take braking measures to slow down
+1 options_en Option B 'Turn left to avoid' omits the Chinese enumeration mark '、' after the option label. => B、Turn left to avoid
+2 options_en Option C 'Turn the steering wheel quickly to avoid' omits the Chinese enumeration mark '、' after the option label. => C、Turn the steering wheel quickly to avoid
+3 options_en Option D 'Turn right to avoid' omits the Chinese enumeration mark '、' after the option label. => D、Turn right to avoid
+
+# trllm_subj4_754 Q 在高速公路上遇到紧急情况时不要轻易急转向避让。 | When encountering an emergency situation on an expressway, do not easily turn sharply to avoid. OPT A、正确; B、错误 | A、True; B、False
+0 options_en Option A 'True' omits the Chinese enumeration mark '、' after the option label. => A、True
+1 options_en Option B 'False' omits the Chinese enumeration mark '、' after the option label. => B、False
+
+# trllm_subj4_755 Q 大雾天在高速公路遇事故不能继续行驶时怎样处置？ | When encountering an accident on an expressway in foggy weather and unable to continue driving, how should it be handled? OPT A、车上人员要迅速从左侧车门离开; B、在来车方向100 米处设置警告标志; C、开启危险报警闪光灯和远光灯; D、车上人员站到护栏以外安全的地方 | A、Vehicle occupants should quickly leave from the left door; B、Set up warning signs 100 meters in the direction of oncoming traffic; C、Turn on hazard warning flashers and high beams; D、Vehicle occupants should stand in a safe place outside the guardrail
+0 options_en Option A 'Vehicle occupants should quickly leave from the left door' omits the Chinese enumeration mark '、' after the option label. => A、Vehicle occupants should quickly leave from the left door
+1 options_en Option B 'Set up warning signs 100 meters in the direction of oncoming traffic' omits the Chinese enumeration mark '、' after the option label. => B、Set up warning signs 100 meters in the direction of oncoming traffic
+2 options_en Option C 'Turn on hazard warning flashers and high beams' omits the Chinese enumeration mark '、' after the option label. => C、Turn on hazard warning flashers and high beams
+3 options_en Option D 'Vehicle occupants should stand in a safe place outside the guardrail' omits the Chinese enumeration mark '、' after the option label. => D、Vehicle occupants should stand in a safe place outside the guardrail
+
+# trllm_subj4_757 Q 雾天在高速公路上发生事故后，车上人员不要随便下车行走。 | After an accident occurs on an expressway in foggy weather, vehicle occupants should not get out of the vehicle and walk around casually. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the negation word "不要" (should not), reversing the meaning of the original Chinese statement. => After an accident occurs on an expressway in foggy weather, vehicle occupants should not get out of the vehicle and walk around casually.
+
+# trllm_subj4_761 Q 高速路上，机动车因故障暂时不能离开应急车道或路肩时，驾乘人员要下车在路边等候，但不得离开高速公路。 | On an expressway, when a motor vehicle cannot leave the emergency lane or shoulder temporarily due to a breakdown, the driver and passengers must get out and wait by the roadside, but must not leave the expressway. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese phrase "在路边等候" (wait by the roadside) and instead states "wait by the roadside" only in a way that changes the meaning; more critically, it omits the requirement that occupants should move to the right side of the guardrail or outside the guardrail, but the main discrepancy is the translation of "不得离开高速公路" as "must not leave the expressway" which is accurate, however the sentence structure implies waiting by the roadside is mandatory whereas the Chinese says they should get out and wait by the roadside but not leave the expressway. The translation is mostly accurate but the phrase "wait by the roadside" is present. Wait, re-examining: Chinese says "驾乘人员要下车在路边等候，但不得离开高速公路". English says "the driver and passengers must get out and wait by the roadside, but must not leave the expressway." This is actually a faithful translation. No material issue found in question_en. => No change needed.
+
+# trllm_subj4_766 Q 驾驶机动车在高速公路上发生故障时，车上人员应当迅速转移到故障车前方躲避。 | When a motor vehicle breaks down on an expressway, the occupants should quickly move to the front of the faulty vehicle to take shelter. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation reverses the safety direction. The Chinese states occupants should move to the rear (后方) of the faulty vehicle, but the English says front (front). => When a motor vehicle breaks down on an expressway, the occupants should quickly move to the rear of the faulty vehicle to take shelter.
+
+# trllm_subj4_769 Q 雨天机动车在高速公路行驶发生“水滑”现象时怎样处置? | When a motor vehicle experiences hydroplaning while driving on an expressway in rainy weather, how should it be handled? OPT A:急踏制动板减速; B:缓抬加速踏板减速; C: 迅速转向进行调整; D: 提速增大车轮排水量 | A: Brake hard to slow down; B: Ease off the accelerator to slow down; C: Turn the steering wheel quickly to adjust; D: Accelerate to increase tire water drainage
+0 option_en A The Chinese term 制动板 literally means brake pad/plate, but the English translates it as brake hard, adding the manner "hard" that is not in the source text. => A: Step hard on the brake pedal to slow down
+
+# trllm_subj4_778 Q 与对向来车发生正面碰撞且碰撞位置在驾驶人正前方时，驾驶人正确的应急驾驶姿势是什么？ | When a head-on collision with an oncoming vehicle occurs and the impact point is directly in front of the driver, what is the driver's correct emergency driving posture? OPT A、迅速躲离转向盘; B、往副驾驶座位躲避; C、迅速将两腿抬起; D、两腿蹬直 | A、Quickly move away from the steering wheel; B、Dodge to the passenger seat; C、Quickly lift both legs; D、Extend both legs straight
+0 option D The English translation "Extend both legs straight" omits the negation present in the Chinese "两腿蹬直", which in this context means "do not extend both legs straight" (i.e., keep legs bent). => D、Do not extend both legs straight
+
+# trllm_subj4_781 Q 车速较高，前方发生紧急情况时，要先转方向避让，再采取制动减速，以减小碰撞损坏程度。 | When driving at high speed and an emergency occurs ahead, steer to avoid first, then brake to slow down, to reduce the extent of collision damage. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation reverses the correct order of actions stated in the Chinese source. The Chinese says to brake first, then steer to avoid; the English says steer first, then brake. => When driving at high speed and an emergency occurs ahead, brake to slow down first, then steer to avoid, to reduce the extent of collision damage.
+
+# trllm_subj4_784 Q 关于机动车轮胎胎压过高的危害，以下说法正确的是什么？ | Regarding the hazards of excessively high motor vehicle tire pressure, which of the following statements is correct? OPT A、加速轮胎胎面中央的花纹磨损，缩短轮胎的使用寿命; B、导致爆胎; C、轮胎的摩擦力、附着力降低，影晌制动效果; D、导致转向盘震动、跑偏 | A、Accelerates tread wear in the center of the tire, shortening the tire's service life; B、Causes a blowout; C、Reduces tire traction and adhesion, affecting braking performance; D、Causes steering wheel vibration and pulling to one side
+0 option C Typo: "影晌" should be "影响". => Reduces tire traction and adhesion, affecting braking performance
+
+# trllm_subj4_785 Q 驾驶机动车运载爆炸物品、易燃易爆化学物品以及剧毒、放射性等危险物品时，应该怎样做？ | When driving a motor vehicle transporting explosives, flammable and explosive chemicals, and highly toxic, radioactive, and other hazardous materials, what should be done? OPT A、按指定的时间、路线、速度行驶; B、经公安机关批准; C、悬挂警示标志; D、采取必要的安全措施 | A、Drive at the designated time, route, and speed; B、Obtain approval from the public security organ; C、Display warning signs; D、Take necessary safety measures
+0 answer The English translation omits option B (Obtain approval from the public security organ) from the answer key, while the Chinese answer is "ABC". => ABC
+
+# trllm_subj4_791 Q 驾驶机动车突然发生倾翻时，以下做法错误的是什么？ | When a motor vehicle suddenly rolls over, which of the following actions is incorrect? OPT A、双手紧握转向盘; B、迅速跳车逃生; C、背部紧靠椅背; D、双脚勾住踏板 | A、Grip the steering wheel firmly with both hands; B、Jump out of the vehicle quickly to escape; C、Press your back firmly against the seat back; D、Hook both feet around the pedals
+0 option C Translation omits '紧' (tightly/firmly). => Press your back tightly against the seat back
+1 option D Translation omits '踏板' (pedals) and '勾住' (hook around). => Hook both feet around the pedals
+
+# trllm_subj4_794 Q 行车中当驾驶人意识到车辆爆胎时，下列做法正确的是？ | While driving, when the driver realizes the vehicle has a tire blowout, which of the following actions is correct? OPT A、紧急制动; B、轻踩制动踏板; C、缓慢减速; D、控制方向 | A、Emergency braking; B、Lightly press the brake pedal; C、Slow down gradually; D、Control the steering wheel
+0 option D Translation omits '方向盘' (steering wheel). => Control the steering wheel
+
+# trllm_subj4_795 Q 驾驶机动车在高速公路行驶，雨天发生“水滑“现象时，以下做法错误的是什么？ | When driving a motor vehicle on an expressway and experiencing "hydroplaning" in rainy weather, which of the following actions is incorrect? OPT A、逐渐降低车速; B、双手握稳转向盘; C、迅速转向调整; D、急踏制动踏板减速 | A、Gradually reduce speed; B、Hold the steering wheel firmly with both hands; C、Quickly steer to adjust; D、Press the brake pedal hard to slow down
+0 option C Translation omits '迅速' (quickly). => Quickly steer to adjust
+
+# trllm_subj4_796 Q 在高速公路上驾驶机动车遇后轮爆胎时，以下做法正确的是什么？ | When driving a motor vehicle on an expressway and experiencing a rear tire blowout, which of the following actions is correct? OPT A、第—时间握紧转向盘，收油减挡缓慢制动; B、安全驶离行车道停车后开启危险报警闪光灯; C、车后150米以外设置警告标志; D、车上人员迅速撤离到安全地点报警求助 | A、Immediately grip the steering wheel firmly, release the accelerator, downshift, and brake slowly; B、After safely driving out of the travel lane and stopping, turn on the hazard warning flashers; C、Set up the warning sign more than 150 meters behind the vehicle; D、All occupants quickly evacuate to a safe location to call for help
+0 options_en A The English translation renders 第— as "Immediately", which is not a faithful translation of the ordinal/sequence word; it should be "First" or "At the first time". => A、First grip the steering wheel firmly, release the accelerator, downshift, and brake slowly
+
+# trllm_subj4_801 Q 机动车在高速行驶时，前面扬起的飞石或是遗撒物将挡风玻璃击裂，造成视线模糊不清的状况下，驾驶人应如何应对？ | When a motor vehicle is traveling at high speed and flying stones or objects thrown up ahead strike and crack the windshield, causing blurred vision, how should the driver respond? OPT A、逐渐降低车速; B、保持高速尽快驶离; C、开启危险报警闪光灯; D、将车辆移至不妨碍交通的地点 | A、Gradually reduce speed; B、Maintain high speed and leave as soon as possible; C、Turn on the hazard warning flashers; D、Move the vehicle to a location that does not obstruct traffic
+0 answer The answer field contains a Chinese colon character instead of a valid option label. => answer: "A"
+
+# trllm_subj4_803 Q 大雾天在高速公路遇事故不能继续行驶时，以下正确的做法是什么？ | When an accident occurs on a highway in heavy fog and travel cannot continue, which of the following is correct? OPT A、开启危险报警闪光灯和尾灯; B、按规定在车后设置警告标志; C、驾乘人尽快从右侧离开车辆并转移到防护栏外; D、不得在高速公路上行走 | A、Turn on the hazard warning flashers and taillights; B、Place warning signs behind the vehicle as required; C、Occupants should leave the vehicle from the right side as soon as possible and move outside the guardrail; D、Do not walk on the highway
+0 option C The English translation omits the word "right" (右侧) and changes "guardrail" to "guardrail" but drops the directional requirement; it also omits "as soon as possible" nuance. => C、Occupants should leave the vehicle from the right side as soon as possible and move outside the guardrail
+1 answer The provided answer "A" appears inconsistent with standard driving-test rules for this scenario, but per instructions legal facts/answers are not corrected; only flagged for review. => Verify answer against source; do not alter unless a translation error is confirmed.
+
+# trllm_subj4_805 Q 驾驶机动车在高速公路发生故障，需要停车排除故障时，以下做法正确的是什么？ | When a motor vehicle breaks down on a highway and needs to stop to eliminate the fault, which of the following is correct? OPT A、开启危险报警闪光灯; B、将车辆移至不妨碍交通的位置; C、放置警告标志，转移乘车人员至安全处，迅速报警; D、等待救援 | A、Turn on the hazard warning flashers; B、Move the vehicle to a position that does not obstruct traffic; C、Place warning signs, transfer occupants to a safe place, and report quickly; D、Wait for rescue
+0 answer The answer field contains a Chinese colon character instead of a valid option label. => answer: "A" (or the correct option label as per source)
+
+# trllm_subj4_806 Q 交通事故的损失是由非机动车驾驶人、行人故意碰撞机动车造成的，机动车—方承担不超过百分之十的赔偿责任。 | If the loss of a traffic accident is caused by a non-motor vehicle driver or pedestrian intentionally colliding with a motor vehicle, the motor vehicle party shall bear compensation liability of not more than 10 percent. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the word "一方" (one party), changing "the motor vehicle party" to imply the motor vehicle side generally rather than specifically one party involved. => If the loss of a traffic accident is caused by a non-motor vehicle driver or pedestrian intentionally colliding with a motor vehicle, one party of the motor vehicle shall bear compensation liability of not more than 10 percent.
+
+# trllm_subj4_807 Q 在高速公路上行车，如车辆发生故障需要临时停车时，应将车停至应急车道，并在车后方150米外放置警告标志。 | When driving on a highway and the vehicle needs to stop temporarily due to a breakdown, stop the vehicle on the emergency lane and place a warning sign 150 meters behind the vehicle. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits "临时" (temporarily), which is present in the Chinese source. => When driving on a highway and the vehicle needs to stop temporarily due to a breakdown, stop the vehicle on the emergency lane and place a warning sign 150 meters behind the vehicle.
+
+# trllm_subj4_816 Q 前轮胎爆裂已出现转向时，驾驶人在控制住方向的情况下，应如何使车辆缓慢减速？ | When the front tire bursts and steering deviation has occurred, while controlling the steering wheel, how should the driver slow the vehicle down gradually? OPT A、采取紧急制动; B、使用驻车制动; C、轻踏制动踏板; D、迅速踏下制动踏板 | A、Apply emergency braking; B、Use the parking brake; C、Lightly press the brake pedal; D、Quickly depress the brake pedal
+0 question_en The English translation adds "steering deviation has occurred" which is not present in the Chinese text. => When the front tire bursts, while controlling the steering wheel, how should the driver slow the vehicle down gradually?
+
+# trllm_subj4_826 Q 行车中发现异常行驶的车辆时，车辆驾驶人可能存在什么行为？ | While driving, if an abnormally driven vehicle is discovered, what behavior might the driver be exhibiting? OPT A、可能处于醉驾或毒驾状态; B、可能处于疲劳驾驶状态; C、可能驾驶经验不足; D、可能在打电话、玩手机或是在找路 | A、May be driving under the influence of alcohol or drugs; B、May be driving while fatigued; C、May have insufficient driving experience; D、May be making a phone call, using a mobile phone, or looking for a route
+0 answer The English answer "A" does not match the Chinese answer "ABCD". => answer: "ABCD"
+
+# trllm_subj4_829 Q 在车辆发生连续倾翻稳定后，下列做法正确的是什么？ | After a vehicle has rolled over continuously and stabilized, which of the following practices is correct? OPT A、第—时间将发动机熄火; B、迅速解开安全带; C、留在车内等待救援; D、从车门或破碎的车窗逃出 | A、Turn off the engine immediately; B、Quickly unfasten the seat belt; C、Stay in the vehicle and wait for rescue; D、Escape through the door or broken window
+0 option A The English translation "Turn off the engine immediately" omits the ordinal marker "第—" (first) present in the Chinese "第—时间". => Turn off the engine at the first opportunity
+
+# trllm_subj4_830 Q 当车辆撞击无法避免时，驾驶人应当尽力避免正面碰撞。 | When a vehicle collision is unavoidable, the driver should try to avoid a head-on collision. OPT A、正确; B、错误 | A、True; B、False
+0 answer The English answer "B" does not match the Chinese answer "A". => answer: "A"
+
+# trllm_subj4_831 Q 两辆机动车发生轻微碰捺事故后，为保证理赔，必须等保险公司人员到场鉴定后才能撤离现场。 | After two motor vehicles have a minor collision, to ensure compensation, they must wait for insurance company personnel to arrive and assess before leaving the scene. OPT A、正确; B、错误 | A、True; B、False
+0 question_zh The Chinese term "碰捺" appears to be a typographical error for "碰擦" (minor collision/scrape), but the English translation renders it as "minor collision". => Keep the English as "minor collision" if reflecting the intended meaning, or note the source-text typo if a literal rendering is required.
+
+# trllm_subj4_833 Q 行车中，若车辆撞击的位置不在驾驶人—侧或撞击力量较小时，驾驶人应紧握转向盘，两腿向前蹬，身体紧靠座椅。 | While driving, if the vehicle collision point is not on the driver's side or the impact force is small, the driver should grip the steering wheel firmly, brace both legs forward, and press the body against the seat. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The Chinese phrase "驾驶人—侧" uses a full-width hyphen/dash (—) between "驾驶人" and "侧", while the English translation uses a standard hyphen in "driver's side". => Use "driver's side" or "driver side" consistently; no material meaning change.
+
+# trllm_subj4_834 Q 低速行车时，如果发现转向盘向—侧偏转，可能该侧车轮存在漏气现象。 | When driving at low speed, if the steering wheel pulls to one side, the wheel on that side may be leaking air. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The Chinese phrase "向—侧偏转" contains a full-width dash (—) between "向" and "侧", while the English translation uses "to one side". => No material discrepancy; "to one side" accurately conveys the meaning.
+
+# trllm_subj4_836 Q 雾天驾驶机动车在高速公路遇事故不能继续行驶时，以下做法错误的是什么？ | When driving a motor vehicle in foggy weather on a highway and an accident occurs preventing continued driving, which of the following practices is incorrect? OPT A、车上人员要迅速从左侧车门离开; B、在来车方向100米处设置警告标志; C、开启危险报警闪光灯和远光灯; D、车上人员站到护栏以外安全的地方 | A、Occupants should quickly leave through the left-side doors; B、Set up a warning sign 100 meters in the direction of oncoming traffic; C、Turn on the hazard warning flashers and high beams; D、Occupants should stand in a safe place outside the guardrail
+0 option C The English translation says "high beams" but the Chinese says "远光灯" (high beams). In foggy driving safety context, high beams are inappropriate; however, the task is to check translation fidelity, not legal correctness. The translation is accurate. => No change needed for translation fidelity.
+1 option B The English translation omits the Chinese measure word "处" after "100米", but this is a minor grammatical omission that does not change meaning. => Consider "100 meters behind in the direction of oncoming traffic" for clarity, though current translation is acceptable.
+
+# trllm_subj4_838 Q 怎样抢救脊柱骨折的伤员？ | How to rescue a person with a spinal fracture? OPT A、采取保暖措施; B、用软板担架运送; C、用三角巾固定; D、扶持伤者移动 | A、Take measures to keep warm; B、Transport using a soft board stretcher; C、Fix with a triangular bandage; D、Support the injured person to move
+0 option B The English says "soft board stretcher" but the Chinese says "软板担架". "Soft board" is a literal translation; "soft stretcher" or "flexible stretcher" is more idiomatic, though meaning is preserved. => Consider "Transport using a soft stretcher" for better readability.
+1 answer The provided answer is C, but standard driving-test doctrine for spinal fracture rescue emphasizes using a hard board stretcher (硬板担架), not fixing with a triangular bandage. However, per instructions, I must not correct legal facts or answers. => No change to answer; translation of options is faithful.
+
+# trllm_subj4_840 Q 移动脊柱骨折的伤员，切勿扶持伤者走动，可用软担架运送。 | When moving a person with a spinal fracture, do not support the injured person to walk; a soft stretcher may be used for transport. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English says "a soft stretcher may be used for transport" but the Chinese says "可用软担架运送". This is accurate. However, standard safety doctrine says spinal fracture victims should be moved on a hard board stretcher, not a soft one. Per instructions, I do not correct legal facts. => No change needed for translation fidelity.
+
+# trllm_subj4_842 Q 对无骨端外露的骨折伤员肢体固定时，要超过伤口上下关节。 | When immobilizing the limb of a casualty with a fracture without exposed bone ends, the fixation should extend beyond the joints above and below the wound. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese word "上下" (above and below), which is present in the source text. => When immobilizing the limb of a casualty with a fracture without exposed bone ends, the fixation should extend beyond the joints above and below the wound.
+
+# trllm_subj4_844 Q 抢救昏迷失去知觉的伤员需注意什么？ | What should be noted when rescuing an unconscious casualty who has lost consciousness? OPT A、马上实施心肺复苏; B、使劲焰伤员的人中; C、连续拍打伤员面部; D、抢救前先检查呼吸 | A、Immediately perform cardiopulmonary resuscitation; B、Forcefully press the casualty's philtrum; C、Continuously slap the casualty's face; D、Check breathing before rescue
+0 option B The English translation "press the casualty's philtrum" is inaccurate; the Chinese "焰伤员的人中" likely contains a typo for "捏伤员的人中" (pinch the casualty's philtrum), but the translation should reflect the source meaning. => Forcefully pinch the casualty's philtrum
+
+# trllm_subj4_847 Q 救助全身燃烧伤员采取哪种应急措施？ | What emergency measure should be taken to rescue a casualty with burns over the whole body? OPT A、用沙土覆盖火焰灭火; B、向身上喷冷水灭火; C、用灭火器进行灭火; D、帮助脱掉燃烧的衣服 | A、Cover the flames with sand or soil to extinguish the fire; B、Spray cold water on the body to extinguish the fire; C、Use a fire extinguisher to extinguish the fire; D、Help remove the burning clothing
+0 question_en The English translation omits the interrogative word "哪种" (which kind of), changing the question from asking which measure to take to asking what measure should be taken. => Which emergency measure should be taken to rescue a casualty with burns over the whole body?
+
+# trllm_subj4_853 Q 采用指压止血法为动脉出血伤员止血时， 拇指压住伤口的什么位置？ | When using finger pressure to stop bleeding for a casualty with arterial bleeding, which position of the wound should the thumb press? OPT A、近心端动脉; B、血管下方动脉; C、远心端动脉; D、血管中部 | A、Proximal artery; B、Artery below the blood vessel; C、Distal artery; D、Middle of the blood vessel
+0 question_en The phrase "which position of the wound" inaccurately suggests pressing the wound itself; the Chinese asks which position of the artery relative to the wound. => When using finger pressure to stop bleeding for a casualty with arterial bleeding, which position of the artery relative to the wound should the thumb press?
+1 option B "Artery below the blood vessel" is an unnatural literal translation; "below" likely means distal side. => Artery on the distal side of the blood vessel
+2 option C "Distal artery" is ambiguous without reference to the wound. => Artery on the distal side of the wound
+
+# trllm_subj4_857 Q 遇伤者被压于车轮或货物下时，要立即拉拽伤者的肢体将其拖出。 | When a casualty is trapped under a vehicle wheel or cargo, the casualty's limbs should be immediately pulled to drag them out. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the word "immediately" (立即), changing the urgency implied in the original statement. => When a casualty is trapped under a vehicle wheel or cargo, the casualty's limbs should be immediately pulled to drag them out.
+
+# trllm_subj4_861 Q 30.	易燃液体一旦发生火灾，要及时用水扑救。 | 30. If flammable liquids catch fire, water should be used to extinguish the fire promptly. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese word "易燃液体" (flammable liquids) at the beginning of the sentence. => 30. If flammable liquids catch fire, water should be used to extinguish the fire promptly.
+
+# trllm_subj4_862 Q 液化石油气罐车在运输途中发生大量泄漏时，下列措施错误的是什么？ | When a liquefied petroleum gas tanker experiences a large leakage during transportation, which of the following measures is incorrect? OPT A、切断一切电源 B、戴好防护面具和手套; C、关闭阀门制止渗漏 D、组织人员向下风方向疏散 | A、Cut off all power sources; B、Wear protective masks and gloves; C、Close the valve to stop the leakage; D、Organize personnel to evacuate in the downwind direction
+0 option D The English translation says "downwind" while the Chinese says "upwind" (上风方向). => D、Organize personnel to evacuate in the upwind direction
+
+# trllm_subj4_869 Q 现场救护应遵循什么原则？ | What principles should on-site first aid follow? OPT A、安全原则; B、避免二次伤害原则; C、先救命后治伤原则; D、争取时间原则 | A、Safety principle; B、Principle of avoiding secondary injury; C、Principle of saving lives before treating injuries; D、Principle of striving for time
+0 answer The English translation lists four principles, but the Chinese question is singular "什么原则" and the provided answer "A" indicates only the safety principle is correct, whereas standard first-aid doctrine typically includes all listed principles. The translation may misrepresent the intended single-answer scope. => Verify whether the English question should indicate multiple-choice or single-answer; if single-answer, retain answer A and consider clarifying the stem.
+
+# trllm_subj4_871 Q 驾驶机动车载运危险化学物品，应当经哪个部门批准后，按指定的时间、路线、速度行驶，悬挂警示标志并采取必要的安全措施？ | When driving a motor vehicle carrying hazardous chemicals, approval must be obtained from which department to travel at designated times, routes, and speeds, display warning signs, and take necessary safety measures? OPT A、公安机关; B、道路运输管理机构; C、城市管理部门; D、环保部门 | A、Public security organ; B、Road transport management agency; C、Urban management department; D、Environmental protection department
+0 answer The English translation of option B ('Road transport management agency') is the legally correct approving authority for carrying hazardous chemicals under Chinese road transport regulations, while option A ('Public security organ') is not; however, the provided answer is A, which conflicts with the translated options. => Verify the source answer against the translated options; do not alter the translation to match the answer.
+
+# trllm_subj4_876 Q 安装防抱死制动装置（ABS）的机动车制动时，制动距离会大大缩短，因此不必保持安全车距。 | For motor vehicles equipped with anti-lock braking systems (ABS), the braking distance is greatly reduced during braking, so it is not necessary to maintain a safe following distance. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese modal particle “因此” (therefore) and the phrase “不必保持安全车距” (it is not necessary to maintain a safe following distance) is rendered accurately, but the overall meaning is preserved; however, the translation does not explicitly mark the causal relationship present in the source. => For motor vehicles equipped with anti-lock braking systems (ABS), the braking distance is greatly reduced during braking; therefore, it is not necessary to maintain a safe following distance.
+
+# trllm_subj4_878 Q 湿滑路面制动过程中， 发现车辆偏离方向，以下做法正确的是？ | During braking on a slippery road surface, if the vehicle deviates from its direction, which of the following actions is correct? OPT A、连续轻踩轻放制动踏板; B、用力踩制动踏板; C、不要踩制动踏板; D、任意踩制动踏板 | A、Lightly press and release the brake pedal repeatedly; B、Press the brake pedal hard; C、Do not press the brake pedal; D、Press the brake pedal arbitrarily
+0 option C The English translation “Do not press the brake pedal” omits the Chinese word “不要” (do not / do not) is present, but the translation is accurate; however, the source option C “不要踩制动踏板” is correctly translated. => No correction needed.
+
+# trllm_subj4_880 Q 下面哪种做法能帮助您避免被其他车辆从后方追撞？ | Which of the following actions can help you avoid being rear-ended by other vehicles? OPT A、在任何时候都打开转向灯; B、在转弯前提前打开相应的转向灯; C、—直打开双闪; D、转弯前鸣笛示意 | A、Turn on the turn signal at all times; B、Turn on the corresponding turn signal in advance before turning; C、Keep the hazard lights on all the time; D、Honk before turning to signal
+0 option C The English translation “Keep the hazard lights on all the time” renders “一直打开双闪” accurately, but the source uses an em dash “—” which is not reflected in the English; this is a minor punctuation omission. => Keep the hazard lights on all the time.
+
+# trllm_subj4_883 Q 在驾驶机动车前，需调整安全头枕的高度，使头枕正对驾驶人的颈椎。 | Before driving a motor vehicle, the driver needs to adjust the height of the head restraint so that the head restraint is aligned with the driver's cervical spine. OPT A、正确; B、错误 | A、True; B、False
+0 question_en The English translation omits the word "height" (高度) present in the Chinese source. => Before driving a motor vehicle, the driver needs to adjust the height of the head restraint so that the head restraint is aligned with the driver's cervical spine.
+
+# trllm_subj4_886 Q 驾驶汽车在山区道路转弯下陡坡路段遇对面来车时，应在进入弯道后立即加速驶离，避免发生碰撞。 | When driving a car on a mountain road and encountering oncoming vehicles while turning on a steep downhill section, the driver should accelerate immediately after entering the curve to drive away and avoid collision. OPT A、正确	; B、错误 | A、True; B、False
+0 question_en The English translation omits the Chinese phrase "下陡坡路段" (steep downhill section). => When driving a car on a mountain road and encountering oncoming vehicles while turning on a steep downhill section, the driver should accelerate immediately after entering the curve to drive away and avoid collision.
+
+# trllm_subj4_891 Q 机动车在道路上临时停车时应当紧靠道路左侧，驾驶人不得离开车辆。 | When a motor vehicle temporarily stops on a road, it shall stop close to the left side of the road, and the driver shall not leave the vehicle. OPT A、正确	; B、错误 | A、True; B、False
+0 question_en The Chinese states vehicles shall stop close to the right side of the road, but the English says left side. => When a motor vehicle temporarily stops on a road, it shall stop close to the right side of the road, and the driver shall not leave the vehicle.
+
+# trllm_subj4_896 Q 铁路道口遇到两个红灯交替闪烁，警示驾驶人要注意瞭望，确认安全通过。 | At a railway crossing, when two red lights flash alternately, it warns the driver to pay attention and look out, and pass after confirming safety. OPT A、正确	; B、错误 | A、True; B、False
+0 question_en The English translation omits the negation implied by the answer B (False). The Chinese states that alternating red lights warn the driver to look and pass after confirming safety, which is an unsafe/false statement; the English reads as a safe instruction without marking it as incorrect. => At a railway crossing, when two red lights flash alternately, it warns the driver to pay attention and look out, and pass after confirming safety. (This statement is false.)
+
+# trllm_subj4_897 Q 当车辆驶出隧道时，驾驶人易出现“明适应“现象，应减少与前车距离，利用前车挡住强光，迅速驶出隧道。 | When a vehicle drives out of a tunnel, the driver is prone to the "light adaptation" phenomenon, should reduce the distance from the vehicle ahead, use the vehicle ahead to block strong light, and quickly drive out of the tunnel. OPT A、正确	; B、错误 | A、True; B、False
+0 question_en The English omits the negation implied by the answer B (False). The Chinese describes unsafe behavior (reducing following distance, using the vehicle ahead to block strong light, quickly driving out) as if it were correct; the English reads as a safe instruction without indicating it is incorrect. => When a vehicle drives out of a tunnel, the driver is prone to the "light adaptation" phenomenon, should reduce the distance from the vehicle ahead, use the vehicle ahead to block strong light, and quickly drive out of the tunnel. (This statement is false.)
+
+# trllm_subj4_902 Q 夜间在招募不良的路段行驶，应该怎样使用灯光？ | When driving on a road section with poor lighting at night, how should the lights be used? OPT A、只能开启远光灯; B、只能开启前照灯; C、开启前照灯、示廊灯和后卫灯; D、只能开启后卫灯 | A、Use only high beams; B、Use only headlights; C、Turn on headlights, position lights, and taillights; D、Use only taillights
+0 question_zh The Chinese question text contains a typo: "招募不良" should be "照明不良". => Correct the Chinese source text to "夜间在照明不良的路段行驶，应该怎样使用灯光？"
+1 option C The English translation "position lights" is less standard than "side marker lights" or "parking lights" for 示廊灯, though meaning is close. => Turn on headlights, side marker lights, and taillights
+
+# trllm_subj4_903 Q 车辆在冰雪道路跟车行驶时，应怎样做？ | When driving a vehicle on icy or snowy roads while following another vehicle, what should be done? OPT A、保持较大的跟车距离; B、开启危险报警闪光灯; C、不断表换远、近光灯; D、持续鸣喇叭提示前车 | A、Maintain a larger following distance; B、Turn on hazard warning flashers; C、Continuously switch between high and low beams; D、Continuously honk the horn to alert the vehicle ahead
+0 option C The English translation contains a typo: "表换" should be "switch". => Continuously switch between high and low beams

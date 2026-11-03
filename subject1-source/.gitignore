@@ -1,0 +1,12 @@
+# LaTeX build artifacts
+build/*.aux
+build/*.log
+build/*.fls
+build/*.fdb_latexmk
+build/*.out
+build/*.toc
+build/*.xdv
+build/*.synctex.gz
+
+# OS
+.DS_Store

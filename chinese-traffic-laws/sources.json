@@ -1,0 +1,74 @@
+[
+  {
+    "name": "driving-licence-rules-2025",
+    "url": "https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/gabgz/543498902/index.html",
+    "file": "driving-licence-rules-2025.html",
+    "bytes": 118735,
+    "sha256": "454f0cd32ec82bef14a236d56b10b3b84529c18d8c49720591318c11b4f6114c",
+    "retrieved": "2026-10-28",
+    "note": "Version and completeness require verification; extracted text is unreviewed."
+  },
+  {
+    "name": "points-regulation-2022",
+    "url": "https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/gabgz/11186803/index.html",
+    "file": "points-regulation-2022.html",
+    "bytes": 63934,
+    "sha256": "d1bf779ac7920059fca259f479cc759e6715b326660d3fb365bd291d8196ce3f",
+    "retrieved": "2026-10-28",
+    "note": "Version and completeness require verification; extracted text is unreviewed."
+  },
+  {
+    "name": "vehicle-registration-2022",
+    "url": "https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/gabgz/11186809/index.html",
+    "file": "vehicle-registration-2022.html",
+    "bytes": 113617,
+    "sha256": "60330280d7288d124227ee6497f75cce1108fc07f920904501893f5b3b8da836",
+    "retrieved": "2026-10-28",
+    "note": "Version and completeness require verification; extracted text is unreviewed."
+  },
+  {
+    "name": "accident-procedure-2017",
+    "url": "https://www.gov.cn/zhengce/2021-12/25/content_5712900.htm",
+    "file": "accident-procedure-2017.html",
+    "bytes": 137072,
+    "sha256": "998df270d6bb600921b0f43f06ca154e11e4fdb5312acc7a9320be9852915984",
+    "retrieved": "2026-10-28",
+    "note": "Version and completeness require verification; extracted text is unreviewed."
+  },
+  {
+    "name": "violation-procedure-2020",
+    "url": "https://www.ggj.gov.cn/shswgl/aqswgl/jtaq/202004/t20200415_29936.htm",
+    "file": "violation-procedure-2020.html",
+    "bytes": 251669,
+    "sha256": "8fa5ea6fb2ab6822c169c4cb9f40887fdfa24ffd6d2d1728ce6044b7838e7c77",
+    "retrieved": "2026-10-28",
+    "note": "Version and completeness require verification; extracted text is unreviewed."
+  },
+  {
+    "name": "compulsory-insurance-regulation-2019",
+    "url": "https://www.gov.cn/gbgl/e1fd6935b5cf4f3da4aca7a1125d23e3/files/f86adf87fc684030980c26d8e0c8f773.pdf",
+    "file": "compulsory-insurance-regulation-2019.pdf",
+    "bytes": 31862063,
+    "sha256": "e4ffde78a73e000b8599a6603747131be80ca2aeccb65f12a924d4cfb168b98b",
+    "retrieved": "2026-10-28",
+    "note": "Version and completeness require verification; extracted text is unreviewed."
+  },
+  {
+    "name": "road-traffic-safety-law-2021",
+    "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202307/t20230710_3158807.html",
+    "file": "road-traffic-safety-law-2021.html",
+    "bytes": 74094,
+    "sha256": "211c3d6847b762adbbfa20c230ab2e756283ef9e74cb298544fc6e23a35962be",
+    "retrieved": "2026-10-28",
+    "note": "Version and completeness require verification; extracted text is unreviewed."
+  },
+  {
+    "name": "implementation-regulation-2017",
+    "url": "https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/xzfg/119781/index.html",
+    "file": "implementation-regulation-2017.html",
+    "bytes": 90480,
+    "sha256": "3f0d804cbe57a3e4a8cf92961a589c1d676d1b2b852852cdadc56ed01d1741a2",
+    "retrieved": "2026-10-28",
+    "note": "Version and completeness require verification; extracted text is unreviewed."
+  }
+]
